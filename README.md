@@ -1,18 +1,23 @@
 # Programming technologies
 
-## Goal: Lists of all technologies used in programming
+## Objective: Lists of all technologies used in programming
 
 Some applications may find it useful to offer a list of technologies like programming languages, frameworks, or platforms.
 
 They may want a curated, normalized list of technologies users can pick from so they can be linked. They don't want one developer saying AngularJS and another saying Angular.
 
-We want to keep .xml files of these lists in this repo for anyone to use and contribute a pull request to.
+We want to keep XML files of these lists in this repo for anyone to use and contribute a pull request to.
+
+## Key results
+
+1. From sources on the web, create XML files of all "technologies." These go into the `scraped_pages` folder
+2. Each XML file has no duplicated strings within it.
 
 ## Requirements for submitting a pull request
 
 Follow our guidelines for well-formed XML.
 
-Every technology must have its own Wikipedia page.
+Each technology must have its own Wikipedia page to be counted as a "technology."
 
 ## Guidelines for well-formed XML
 
