@@ -18,7 +18,7 @@ Every technology must have its own Wikipedia page.
 
 ``` xml
 <?xml version = "1.0" encoding = "UTF-8"?>
-<technologies>
+<technologies url="https://en.wikipedia.org/wiki/Comparison_of_programming_languages#General_comparison">
   <technology>Bootstrap</technology>
   <technology>C++</technology>
   <technology>JavaScript</technology>
@@ -41,10 +41,10 @@ This declares the version ([1.0](https://stackoverflow.com/questions/6883084/wha
 
 ### Root element
 
-Following the declaration, all elements must be nested under a single root element:
+Following the declaration, all elements must be nested under a single root element. Add the `url` attribute and the url of the page you scraped the data from:
 
 ```xml
-<technologies>
+<technologies url="https://en.wikipedia.org/wiki/Comparison_of_programming_languages#General_comparison">
   ...
 </technologies>
 ```
@@ -61,13 +61,13 @@ Within the root element, each technology is listed, wrapped in a nested element:
 
 Some characters are reserved by XML and must be replaced with character entities.
 
-| Reserved character | Replace with | Description |
-| --- | --- | --- |
-| < | \&lt; | less than |
-| > | \&gt; | greater than |
-| & | \&amp; | ampersand |
-| ' | \&apos; | apostrophe |
-| " | \&quot;| quotation mark |
+| Reserved character | Replace with | Description    |
+| ------------------ | ------------ | -------------- |
+| <                  | \&lt;        | less than      |
+| >                  | \&gt;        | greater than   |
+| &                  | \&amp;       | ampersand      |
+| '                  | \&apos;      | apostrophe     |
+| "                  | \&quot;      | quotation mark |
 
 
 ### More on XML
