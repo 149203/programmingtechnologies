@@ -64,10 +64,10 @@ Some characters are reserved by XML and must be replaced with character entities
 | Reserved character | Replace with | Description |
 | --- | --- | --- |
 | < | \&lt; | less than |
-| > | &gt; | greater than |
-| & | &amp; | ampersand |
-| ' | &apos; | apostrophe |
-| " | &quot;| quotation mark |
+| > | \&gt; | greater than |
+| & | \&amp; | ampersand |
+| ' | \&apos; | apostrophe |
+| " | \&quot;| quotation mark |
 
 
 ### More on XML
