@@ -88,7 +88,7 @@ Within the root element, each technology is listed, wrapped in a nested element:
   <technology>Unreal Engine<technology>
 ```
 
-### Escaped characters
+### Special characters
 
 Some characters are reserved by XML and must be replaced with character entities.
 
