@@ -11,6 +11,7 @@ We want to keep .xml files of these lists in this repo for anyone to use and con
 ## Requirements for submitting a pull request
 
 Please submit .xml files only. Follow our guidelines for well-formed XML.
+
 Every technology must have its own Wikipedia page.
 
 ## Guidelines for well-formed XML
@@ -58,10 +59,23 @@ Within the root element, each technology is listed, wrapped in a nested element:
 
 ### Escaped characters
 
-| Unallowed character | Replace with | Description |
+Some characters are reserved by XML and must be replaced with character entities.
+
+| Reserved character | Replace with | Description |
 | --- | --- | --- |
 | < | &lt; | less than |
 | > | &gt; | greater than |
 | & | &amp; | ampersand |
 | ' | &apos; | apostrophe |
 | " | &quot;| quotation mark |
+
+
+### More on XML
+
+If you want to dive deeper into understanding XML, see the following links:
+
+[XML Syntax - An example XML document](https://www.xmlfiles.com/xml/xml-syntax/)
+
+[XML - Syntax](https://www.tutorialspoint.com/xml/xml_syntax.htm)
+
+[A Really, Really, Really Good Introduction to XML](https://www.sitepoint.com/really-good-introduction-xml/)
