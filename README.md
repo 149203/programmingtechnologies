@@ -10,7 +10,7 @@ We want to keep .xml files of these lists in this repo for anyone to use and con
 
 ## Requirements for submitting a pull request
 
-Please submit .xml files only. Follow our guidelines for well-formed XML.
+Follow our guidelines for well-formed XML.
 
 Every technology must have its own Wikipedia page.
 
