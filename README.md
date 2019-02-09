@@ -19,6 +19,32 @@ Follow our guidelines for well-formed XML.
 
 Each technology must have its own Wikipedia page to be counted as a "technology."
 
+Remove text Wikipedia (or any other page you scrape) may have added for clarification. This includes parentheticals, any unlinked explanatory text, text following a hypen, etc.
+
+For example,
+
+```
+React (JavaScript framework)
+```
+
+becomes simply
+
+```
+React
+```
+
+And
+
+```
+XML - a markup language
+```
+
+should be simply
+
+```
+XML
+```
+
 ## Guidelines for well-formed XML
 
 ``` xml
