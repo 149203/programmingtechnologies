@@ -18,7 +18,7 @@ const scraped_data = '../scraped_pages/timeline_of_programming_languages.txt'
 
 const rows = /(?<=(\|\-)).+?(?=(\|\-))/gs
 const columns = /(?!(\|))(?!(\s)).+/g
-const wiki_link = /(?<=\[\[).*?\|.*?(?=\]\])/
+const wiki_link = /(?<=\[\[).*?\|?.*?(?=\]\])/
 const beginning_brackets = /^\[\[/
 const ending_syntax = /\s?(\(|\-|\||#|]).+/
 const sharp = /\s+sharp$/i
