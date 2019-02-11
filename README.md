@@ -15,6 +15,36 @@ We want to keep JSON files of these lists in this repo for anyone to use and con
 3. Follow previously checked-in conventions.
 4. Use [JSONLint](https://jsonlint.com/) to ensure your file is valid JSON.
 
+## Formatting
+
+Each technology must have its own Wikipedia page to be counted as a "technology."
+
+Remove text Wikipedia (or any other page you scrape) may have added for clarification. This includes parentheticals, any unlinked explanatory text, text following a hypen, etc.
+
+For example,
+
+```
+React (JavaScript framework)
+```
+
+becomes simply
+
+```
+React
+```
+
+And
+
+```
+XML - a markup language
+```
+
+should be simply
+
+```
+XML
+```
+
 ## Links
 
 [Fun facts about JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON#Other_notes)
