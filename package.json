@@ -16,5 +16,8 @@
    "bugs": {
       "url": "https://github.com/149203/programmingtechnologies/issues"
    },
-   "homepage": "https://github.com/149203/programmingtechnologies#readme"
+   "homepage": "https://github.com/149203/programmingtechnologies#readme",
+   "dependencies": {
+      "lodash": "^4.17.11"
+   }
 }
