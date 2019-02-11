@@ -1,0 +1,20 @@
+{
+   "name": "programmingtechnologies",
+   "version": "1.0.0",
+   "description": "Lists of all technologies used in programming",
+   "main": "index.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index.js"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/149203/programmingtechnologies.git"
+   },
+   "author": "Mike Zetlow",
+   "license": "MIT",
+   "bugs": {
+      "url": "https://github.com/149203/programmingtechnologies/issues"
+   },
+   "homepage": "https://github.com/149203/programmingtechnologies#readme"
+}

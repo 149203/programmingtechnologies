@@ -1,0 +1,1865 @@
+|-
+| 1950
+| [[Short Code (computer language)|Short Code]]
+| William F. Schmidt, Albert B. Tonik,<ref>[http://purl.umn.edu/104288 UNIVAC conference], [[Charles Babbage Institute]], University of Minnesota.  171-page transcript of oral history with computer pioneers, including Albert B. Tonik, involved with the [[Univac]] computer, held on 17–18 May 1990.</ref> J. R. Logan
+| Brief Code
+|-
+| 1950
+| [[Birkbeck Assembler]]
+| [[Kathleen Booth]]
+| ARC
+|-
+| 1951
+| [[Superplan]]
+| [[Heinz Rutishauser]]
+| Plankalkül
+|-
+| 1951
+| [[ALGAE]]
+| Edward A. Voorhees and Karl Balke
+| {{n/a|none (unique language)}}
+|-
+| 1951
+| Intermediate Programming Language
+| [[Arthur Burks]]
+| Short Code
+|-
+| 1951
+| [[Regional Assembly Language]]
+| [[Maurice Wilkes]]
+| EDSAC
+|-
+| 1951
+| [[Boehm unnamed coding system]]
+| [[Corrado Böhm]]
+| CPC Coding scheme
+|-
+| 1951
+| [[Klammerausdrücke]]
+| [[Konrad Zuse]]
+| Plankalkül
+|-
+| 1951
+| [[OMNIBAC Symbolic Assembler]]
+| [[Charles Katz]]
+| Short Code
+|-
+| 1951
+| [[Stanislaus (programming language)|Stanislaus]] (Notation)
+| [[Friedrich L. Bauer|Fritz Bauer]]
+| {{n/a|none (unique language)}}
+|-
+| 1951
+| [[Whirlwind assembler]]
+| Charles Adams and Jack Gilmore at [[Massachusetts Institute of Technology|MIT]] [[Whirlwind (computer)|Project Whirlwind]]
+| EDSAC
+|-
+| 1951
+| [[Rochester assembler]]
+| [[Nathaniel Rochester (computer scientist)|Nat Rochester]]
+| EDSAC
+|-
+| 1951
+| [[Sort Merge Generator]]
+| [[Betty Holberton]]
+| {{n/a|none (unique language)}}
+|-
+| 1952
+| [[A-0 System|A-0]]
+| [[Grace Hopper]]
+| Short Code
+|-
+| 1952
+| [[Autocode|Glennie Autocode]]
+| [[Alick Glennie]] after [[Alan Turing]]
+| CPC Coding scheme
+|-
+| 1952
+| [[Editing Generator]]
+| Milly Koss
+| SORT/MERGE
+|-
+| 1952
+| [[COMPOOL]]
+| [[RAND/SDC]]
+| {{n/a|none (unique language)}}
+|-
+| 1953
+| [[Speedcoding]]
+| [[John Backus|John W. Backus]]
+| {{n/a|none (unique language)}}
+|-
+| 1953
+| [[READ/PRINT]]
+| Don Harroff, James Fishman, George Ryckman
+| {{n/a|none (unique language)}}
+|-
+| 1954
+| [[Laning and Zierler system]]
+| Laning, Zierler, Adams at [[Massachusetts Institute of Technology|MIT]] [[Whirlwind (computer)|Project Whirlwind]]
+| {{n/a|none (unique language)}}
+|-
+| 1954
+| [[Autocode|Mark I Autocode]]
+| [[Tony Brooker]]
+| Glennie Autocode
+|-
+| 1954–55
+| [[Fortran]] (concept)
+| Team led by [[John Backus|John W. Backus]] at [[IBM]]
+| Speedcoding
+|-
+| 1954
+| [[ARITH-MATIC]]
+| Team led by [[Grace Hopper]] at UNIVAC
+| A-0
+|-
+| 1954
+| [[MATH-MATIC]]
+| Team led by Charles Katz
+| A-0
+|-
+| 1954
+| [[MATRIX MATH]]
+| H G Kahrimanian
+| {{n/a|none (unique language)}}
+|-
+| 1954
+| [[Information Processing Language|IPL I]] (concept)
+| [[Allen Newell]], [[Cliff Shaw]], [[Herbert A. Simon]]
+| {{n/a|none (unique language)}}
+|-
+| 1955
+| [[FLOW-MATIC]]
+| Team led by [[Grace Hopper]] at UNIVAC
+| A-0
+|-
+| 1955
+| BACAIC
+| M. Grems and R. Porter
+|
+|-
+| 1955
+| [[PACT I]]
+| [[SHARE (computing)|SHARE]]
+| FORTRAN, A-2
+|-
+| 1955
+| [[Freiburger Code]]<ref>{{cite web|url=http://pl.attitu.de/zuse/technik/freiburger.html|title=Der Freiburger Code auf der Zuse|language=German|accessdate=26 October 2014}}</ref><ref>{{cite web|url=http://www.horst-zuse.homepage.t-online.de/seite51.html|title=Z22|author=H. Zuse|accessdate=26 October 2014}}</ref>
+| [[University of Freiburg]]
+| {{n/a}}
+|-
+| 1955–56
+| [[Sequentielle Formelübersetzung]]
+| [[Friedrich L. Bauer|Fritz Bauer]] and Karl Samelson
+| Boehm
+|-
+| 1955–56
+| [[Internal Translator|IT]]
+| Team led by [[Alan Perlis]]
+| Laning and Zierler
+|-
+| 1955
+| PRINT
+| IBM
+|
+|-
+| 1958
+| [[Information Processing Language|IPL II]] (implementation)
+| [[Allen Newell]], [[Cliff Shaw]], [[Herbert A. Simon]]
+| IPL I
+|-
+| 1956–58
+| [[Lisp (programming language)|LISP]] (concept)
+| [[John McCarthy (computer scientist)|John McCarthy]]
+| IPL
+|-
+| 1957
+| [[COMTRAN]]
+| [[Bob Bemer]]
+| FLOW-MATIC
+|-
+| 1957
+| [[GEORGE (programming language)|GEORGE]]
+| [[Charles Leonard Hamblin]]
+| {{n/a|none (unique language)}}
+|-
+| 1957
+| [[FORTRAN I|Fortran I]] (implementation)
+| [[John Backus|John W. Backus]] at [[IBM]]
+| FORTRAN
+|-
+| 1957–58
+| UNICODE
+| Remington Rand UNIVAC
+| MATH-MATIC
+|-
+| 1957
+| [[COMIT]] (concept)
+|
+| {{n/a|none (unique language)}}
+|-
+| 1958
+| [[Fortran#FORTRAN II|Fortran II]]
+| Team led by [[John Backus|John W. Backus]] at [[IBM]]
+| FORTRAN I
+|-
+| 1958
+| [[ALGOL 58]] (IAL)
+| ACM/GAMM
+| FORTRAN, IT, Sequentielle Formelübersetzung
+|-
+| 1958
+| [[Information Processing Language|IPL V]]
+| [[Allen Newell]], [[Cliff Shaw]], [[Herbert A. Simon]]
+| IPL II
+|-
+| 1959
+| [[APT (programming language)|APT]]
+| [[Douglas T. Ross]]
+|-
+| 1959
+| [[FACT computer language|FACT]]
+| [[Fletcher R. Jones]], [[Roy Nutt]], Robert L. Patrick
+| {{n/a|none (unique language)}}
+|-
+| 1959
+| [[COBOL]] (concept)
+| The [[CODASYL]] Committee
+| FLOW-MATIC, COMTRAN, FACT
+|-
+| 1959
+| [[JOVIAL]]
+| [[Jules Schwartz]] at [[System Development Corporation|SDC]]
+| [[ALGOL 58]]
+|-
+| 1959
+| [[Lisp (programming language)|LISP]] (implementation)
+| [[John McCarthy (computer scientist)|John McCarthy]]
+| IPL
+|-
+| 1959
+| [[MAD (programming language)|MAD – Michigan Algorithm Decoder]]
+| [[Bruce Arden]], [[Bernard Galler]], and [[Robert M. Graham]]
+| [[ALGOL 58]]
+|-
+| 1959
+| [[TRAC (programming language)|TRAC]] (concept)
+| [[Calvin Mooers]]
+|
+|-
+| 1960
+| [[ALGOL 60]]
+|
+| ALGOL 58
+|-
+| 1960
+| [[COBOL|COBOL 61]] (implementation)
+| The [[CODASYL]] Committee
+| FLOW-MATIC, COMTRAN
+|-
+| 1961
+| [[COMIT]] (implementation)
+|
+| {{n/a|none (unique language)}}
+|-
+| 1962
+| [[Fortran#FORTRAN IV|FORTRAN IV]]
+| [[IBM]]
+| FORTRAN II
+|-
+| 1962
+| [[APL (programming language)|APL]] (concept)
+| [[Kenneth E. Iverson]]
+| {{n/a|none (unique language)}}
+|-
+| 1962
+| [[Simula]] (concept)
+|
+| ALGOL 60
+|-
+| 1962
+| [[SNOBOL]]
+| [[Ralph Griswold]], ''et al.''
+| FORTRAN II, COMIT
+|-
+| 1963
+| [[Combined Programming Language|CPL]]
+| Barron, [[Christopher Strachey]], ''et al.''
+| ALGOL 60
+|-
+| 1963
+| [[SNOBOL]]3
+| [[Ralph Griswold|Griswold]], ''et al.''
+| SNOBOL
+|-
+| 1963
+| [[ALGOL 68]] (concept)
+| [[Adriaan van Wijngaarden]], ''et al.''
+| ALGOL 60
+|-
+| 1963
+| [[JOSS|JOSS I]]
+| Cliff Shaw, [[RAND Corporation|RAND]]
+| ALGOL 58
+|-
+| 1964
+| [[MIMIC]]
+| H. E. Petersen, ''et al.''
+| MIDAS
+|-
+| 1964
+| [[COWSEL]]
+| [[Rod Burstall]], [[Robin Popplestone]]
+| CPL, LISP
+|-
+| 1964
+| [[PL/I]] (concept)
+| [[IBM]]
+| ALGOL 60, COBOL, FORTRAN
+|-
+| 1964
+| [[BASIC]]
+| [[John George Kemeny]] and [[Thomas Eugene Kurtz]] at [[Dartmouth College]]
+| FORTRAN II, JOSS
+|-
+| 1964
+| [[IBM RPG]]
+| [[IBM]]
+| FARGO
+|-
+| 1964
+| [[MARK IV (software)|Mark-IV]]
+| [[Sterling Software|Informatics]]
+|
+|-
+| 1964
+| [[Speakeasy (computational environment)|Speakeasy-2]]
+| Stanley Cohen at [[Argonne National Laboratory]]
+| Speakeasy
+|-
+| 1964
+| [[TRAC (programming language)|TRAC]] (implementation)
+| [[Calvin Mooers]]
+|
+|-
+| 1964
+| [[P′′]]
+| [[Corrado Böhm]]
+| {{n/a|none (unique language)}}
+|-
+| 1964?
+| [[IITRAN]]
+|
+|-
+| 1965
+| [[RPG II]]
+| [[IBM]]
+| [[FARGO]], [[IBM RPG|RPG]]
+|-
+| 1965
+| [[MAD (programming language)|MAD/I]] (concept)
+| [[University of Michigan]]
+| [[MAD (programming language)|MAD]], [[ALGOL 60]], [[PL/I]]
+|-
+| 1965
+| [[TELCOMP]]
+| [[BBN Technologies|BBN]]
+| JOSS
+|-
+| 1965
+| [[Atlas Autocode]]
+| [[Tony Brooker]], Derrick Morris at [[Manchester University]]
+| [[Algol 60]], [[Autocode]]
+|-
+| 1966
+| [[JOSS|JOSS II]]
+| Chuck Baker, [[RAND]]
+| JOSS I
+|-
+| 1966
+| [[ALGOL W]]
+| [[Niklaus Wirth]], [[C. A. R. Hoare]] <!-- "A Contribution to the Development of Algol" in [ACM] (1966) [ACM] CACM 9(06) June 1966 -->
+| ALGOL 60
+|-
+| 1966
+| [[FORTRAN 66]]
+|
+| FORTRAN IV
+|-
+| 1966
+| [[ISWIM]] (Concept)
+| [[Peter J. Landin]]
+| LISP
+|-
+| 1966
+| [[Coral 66|CORAL66]]
+|
+| ALGOL 60
+|-
+| 1966
+| [[APL (programming language)|APL]] (implementation)<ref>{{cite web|last=Smillie|first=Keith|url=http://amturing.acm.org/award_winners/iverson_9147499.cfm |title=Kenneth E. Iverson - A.M. Turing Award Winner |publisher=ACM}}</ref>
+| [[Kenneth E. Iverson]]
+| {{n/a|none (unique language)}}
+|-
+| 1967
+| [[BCPL]]
+| [[Martin Richards (computer scientist)|Martin Richards]]
+| CPL
+|-
+| 1967
+| [[MUMPS]]
+| [[Massachusetts General Hospital]]
+| FORTRAN, TELCOMP
+|-
+| 1967
+| [[Simula|Simula 67]] (implementation)
+| [[Ole-Johan Dahl]], Bjørn Myhrhaug, [[Kristen Nygaard]] at [[Norwegian Computing Center|Norsk Regnesentral]]
+| ALGOL 60
+|-
+| 1967
+| [[Interlisp|InterLisp]]
+| D.G. Bobrow and D.L. Murphy
+| Lisp
+|-
+| 1967
+| [[EXAPT]]
+| Herwart Opitz, Wilhelm Simon, Günter Spur, and Gottfried Stute at [[RWTH Aachen University]] and [[TU Berlin]]
+| [[APT (programming language)|APT]]
+|-
+| 1967
+| [[SNOBOL]]4
+| [[Ralph Griswold]], ''et al.''
+| SNOBOL3
+|-
+| 1967
+| [[XPL]]
+| [[William M. McKeeman]], ''et al.'' at [[University of California]] [[Santa Cruz, California]]<br/>[[Jim Horning|J. J. Horning]], ''et al.'' at [[Stanford University]]
+| PL/I
+|-
+| 1967
+| [[Space Programming Language]] (SPL)
+| [[System Development Corporation]]
+| JOVIAL
+|-
+| 1968
+| [[ALGOL 68]] ([[UNESCO]]/[[International Federation for Information Processing|IFIP]] standard)
+| [[Adriaan van Wijngaarden]], [[Barry J. Mailloux]], [[John E. L. Peck]] and [[Cornelis H. A. Koster]], ''et al.'' <!-- The final version, MR 101, was adopted by the Working Group on 20 December 1968 in Munich, and was subsequently approved for publication by the General Assembly of I.F.I.P. -->
+| ALGOL 60
+|-
+| 1968
+| [[COWSEL|POP-1]]
+| [[Rod Burstall]], [[Robin Popplestone]]
+| COWSEL
+|-
+| 1968
+| [[DIBOL|DIBOL-8]]
+| [[Digital Equipment Corporation|DEC]]
+| DIBOL
+|-
+| 1968
+| [[Forth (programming language)|Forth]] (concept)
+| [[Charles H. Moore|Moore]]
+|
+|-
+| 1968
+| [[Logo (programming language)|LOGO]]
+| [[Wally Feurzeig]], [[Seymour Papert]], [[Cynthia Solomon]]
+| LISP
+|-
+| 1968
+| [[MAPPER]]
+| [[Unisys]]
+| CRT RPS
+|-
+| 1968
+| [[REFAL]] (implementation)
+| [[Valentin Turchin]]
+| {{n/a|none (unique language)}}
+|-
+| 1968
+| [[TTM (programming language)|TTM]] (implementation)
+| Steven Caine and E. Kent Gordon, [[California Institute of Technology]]
+| GAP, GPM
+|-
+| 1968
+| [[PILOT]]
+| [[John Amsden Starkweather]], [[University of California, San Francisco]]
+| Computest
+|-
+| 1969
+| [[PL/I]] (implementation)
+| [[IBM]]
+| ALGOL 60, COBOL, FORTRAN
+|-
+| 1969
+| [[B (programming language)|B]]
+| [[Ken Thompson]], with contributions from [[Dennis Ritchie]]
+| BCPL
+|-
+| 1969
+| [[Polymorphic Programming Language]] (PPL)
+| Thomas A. Standish at [[Harvard University]]
+|
+|-
+| 1969
+| [[SETL]]
+| [[Jack Schwartz]] at [[Courant Institute of Mathematical Sciences]]
+|
+|-
+| 1969
+| [[TUTOR (programming language)|TUTOR]]
+| Paul Tenczar & [[University of Illinois at Urbana–Champaign]]
+|
+|-
+| 1969
+| [[Edinburgh IMP]]
+| [[Edinburgh University]]
+| [[Algol 60]], [[Autocode]], [[Atlas Autocode]]
+|-
+| 1970?
+| [[Forth (programming language)|Forth]] (implementation)
+| [[Charles H. Moore]]
+|
+|-
+| 1970
+| [[POP-2]]
+| [[Robin Popplestone]]
+| POP-1
+|-
+| 1970
+| [[Pascal (programming language)|Pascal]]
+| [[Niklaus Wirth]], Kathleen Jensen
+| ALGOL 60, ALGOL W
+|-
+| 1970
+| [[BLISS]]
+| Wulf, Russell, Habermann at [[Carnegie Mellon University]]
+| ALGOL
+|-
+| 1971
+| [[KRL (programming language)|KRL]]
+| [[Daniel G. Bobrow]] at [[Xerox PARC]], [[Terry Winograd]] at [[Stanford University]]
+| KM, FRL (MIT)
+|-
+| 1971
+| [[Sue (programming language)|Sue]]
+| [[Ric Holt]] ''et al.'' at [[University of Toronto]]
+| Pascal, XPL
+|-
+| 1971
+| [[Compiler Description Language]] (CDL)
+| [[Cornelis H.A. Koster]] at [[University of Nijmegen]]
+|
+|-
+| 1972
+| [[Smalltalk-72]]
+| [[Alan Kay]], [[Adele Goldberg (computer scientist)|Adele Goldberg]], [[Dan Ingalls]], [[PARC (company)|Xerox PARC]]
+| Simula 67
+|-
+| 1972
+| [[PL/M]]
+| [[Gary Kildall]] at [[Digital Research]]
+| PL/I, ALGOL, XPL
+|-
+| 1972
+| [[C (programming language)|C]]
+| [[Dennis Ritchie]]
+| B, BCPL, ALGOL 68
+|-
+| 1972
+| [[INTERCAL]]
+| [[Don Woods (programmer)|Don Woods]] and James M. Lyon
+| {{n/a|none (unique language)}}
+|-
+| 1972
+| [[Prolog]]
+| [[Alain Colmerauer]]
+| 2-level W-Grammar
+|-
+| 1972
+| Structured Query language ([[SQL]])
+| [[IBM]]
+| ALPHA, Quel (Ingres)
+|-
+| 1973
+| [[COMAL]]
+| Børge Christensen, Benedict Løfstedt
+| Pascal, BASIC
+|-
+| 1973
+| [[ML (programming language)|ML]]
+| [[Robin Milner]]
+|
+|-
+| 1973
+| [[LIS (programming language)|LIS]]
+| [[Jean Ichbiah]] ''et al.'' at [[Groupe Bull|CII Honeywell Bull]]
+| Pascal, Sue
+|-
+| 1973
+| [[Speakeasy (computational environment)|Speakeasy-3]]
+| Stanley Cohen, Steven Pieper at [[Argonne National Laboratory]]
+| Speakeasy-2
+|-
+| 1974
+| [[CLU (programming language)|CLU]]
+| [[Barbara Liskov]]
+| ALGOL 60, Lisp, Simula
+|-
+| 1974
+| [[GRASS (programming language)|GRASS]]
+| [[Thomas A. DeFanti]]
+| BASIC
+|-
+| 1974
+| [[MAI Basic Four|BASIC FOUR]]
+| MAI BASIC Four Inc.
+| Business BASIC
+|-
+| 1974
+| [[PROSE modeling language]]
+| [[CDC 6600]] Cybernet Services
+| SLANG, FORTRAN
+|-
+| 1975
+| [[ABC (programming language)|ABC]]
+| Leo Geurts and [[Lambert Meertens]]
+| [[SETL]]
+|-
+| 1975
+| [[Irvine Dataflow]] (concept)
+| Arvind?, University of California, Irvine
+| 
+|-
+| 1975
+| [[PROSE modeling language]] Time-Sharing Version
+| [[CDC 6400]] Cybernet KRONOS Services
+| SLANG, FORTRAN
+|-
+| 1975
+| [[Scheme (programming language)|Scheme]]
+| [[Gerald Jay Sussman]], [[Guy L. Steele, Jr.]]
+| LISP
+|-
+| 1975
+| [[Altair BASIC]]
+| [[Bill Gates]], [[Paul Allen]]
+| BASIC
+|-
+| 1975
+| [[CS-4 (programming language)|CS-4]]
+| James S. Miller, Benjamin M. Brosgol ''et al.'' at [[Intermetrics]]
+| ALGOL 68, BLISS, ECL, HAL
+|-
+| 1975
+| [[Modula]]
+| [[Niklaus Wirth]]
+| Pascal
+|-
+| 1976
+| [[Plus (programming language)|Plus]]
+| Allan Ballard, Paul Whaley at the [[University of British Columbia]]
+| Pascal, Sue
+|-
+| 1976
+| [[Smalltalk-76]]
+| [[PARC (company)|Xerox PARC]]
+| Smalltalk-72
+|-
+| 1976
+| [[Mesa (programming language)|Mesa]]
+| [[PARC (company)|Xerox PARC]]
+| ALGOL
+|-
+| 1976
+| [[SAM76]]
+| Claude A.R. Kagan
+| LISP, TRAC
+|-
+| 1976
+| [[Ratfor]]
+| [[Brian Kernighan]]
+| C, FORTRAN
+|-
+| 1976
+| [[S (programming language)|S]]
+| [[John Chambers (programmer)|John Chambers]] at [[Bell Labs]]
+| APL, PPL, Scheme
+|-
+| 1976
+| [[SAS language|SAS]]
+| [[SAS Institute]]
+| 
+|-
+| 1976
+| [[Integer BASIC]]
+| [[Steve Wozniak]]
+| BASIC
+|-
+| 1977
+| [[FP (programming language)|FP]]
+| [[John Backus]]
+| {{n/a|none (unique language)}}
+|-
+| 1977
+| [[Bourne shell|Bourne Shell]] (''sh'')
+| [[Stephen R. Bourne]]
+| {{n/a|none (unique language)}}
+|-
+| 1977
+| [[Commodore BASIC]]
+| [[Jack Tramiel]]
+| BASIC
+|-
+| 1977
+| [[IDL (programming language)|IDL]]
+| David Stern of Research Systems Inc
+| Fortran
+|-
+| 1977
+| [[MUMPS|Standard MUMPS]]
+|
+| MUMPS
+|-
+| 1977
+| [[Icon (programming language)|Icon]] (concept)
+| [[Ralph Griswold]]
+| SNOBOL
+|-
+| 1977
+| Red
+| Benjamin M. Brosgol ''et al.'' at [[Intermetrics]] for [[United States Department of Defense|US Dept of Defense]]
+| ALGOL 68, CS-4
+|-
+| 1977
+| [[Blue (programming language)|Blue]]
+| [[John B. Goodenough]] ''et al.'' at [[SofTech]] for [[United States Department of Defense|US Dept of Defense]]
+| ALGOL 68
+|-
+| 1977
+| [[Yellow (programming language)|Yellow]]
+| Jay Spitzen ''et al.'' at [[SRI International]] for [[United States Department of Defense|US Dept of Defense]]
+| ALGOL 68
+|-
+|1977
+|[[Euclid (programming language)|Euclid]]
+|[[Butler Lampson]] at [[PARC (company)|Xerox Parc]], [[Ric Holt]] and [[James Cordy]] at [[University of Toronto]]
+|
+|-
+| 1977
+| [[Applesoft BASIC]]
+| [[Marc McDonald]] and [[Ric Weiland]]
+| BASIC
+|-
+| 1978
+| [[Freddy II|RAPT]]
+| [[Pat Ambler]] and [[Robin Popplestone]]
+| [[APT (programming language)|APT]]
+|-
+| 1978
+| [[C shell]]
+| [[Bill Joy]]
+| [[C (programming language)|C]]
+|-
+| 1978
+| [[RPG III]]
+| [[IBM]]
+| [[FARGO]], [[IBM RPG|RPG]], [[RPG II]]
+|-
+| 1978
+| [[HAL/S]]
+| designed by Intermetrics for NASA
+| [[XPL]]
+|-
+| 1978
+| [[Applesoft BASIC|Applesoft II BASIC]]
+| [[Marc McDonald]] and [[Ric Weiland]]
+| Applesoft BASIC
+|-
+| 1975
+| [[Irvine Dataflow]] (implementation)
+| Arvind and Gostelow, University of California, Irvine
+| 
+|-
+| 1978?
+| [[MATLAB]]
+| [[Cleve Moler]] at the [[University of New Mexico]]
+| [[Fortran]]
+|-
+| 1978?
+| [[SMALL]]
+| Nevil Brownlee at the [[University of Auckland]]
+| Algol60
+|-
+| 1978
+| [[VisiCalc]]
+| [[Dan Bricklin]], [[Bob Frankston]] marketed by [[VisiCorp]]
+| {{n/a|none (unique language)}}
+|-
+| 1979
+| [[Modula-2]]
+| [[Niklaus Wirth]]
+| Modula, Mesa
+|-
+| 1979
+| [[REXX]]
+| [[Mike Cowlishaw]] at [[IBM]]
+| PL/I, BASIC, EXEC 2
+|-
+| 1979
+| [[AWK]]
+| [[Alfred Aho]], [[Peter J. Weinberger]], [[Brian Kernighan]]
+| C, SNOBOL
+|-
+| 1979
+| [[Icon (programming language)|Icon]] (implementation)
+| [[Ralph Griswold]]
+| SNOBOL
+|-
+| 1979
+| [[DBase|Vulcan dBase-II]]
+| [[Wayne Ratliff]]
+| {{n/a|none (unique language)}}
+|-
+| 1980
+| [[Ada (programming language)|Ada 80]] (MIL-STD-1815)
+| [[Jean Ichbiah]] at [[Groupe Bull|CII Honeywell Bull]]
+| Green
+|-
+| 1980
+| [[C++|C with classes]]
+| [[Bjarne Stroustrup]]<ref>http://isocpp.org/tour</ref>
+| C, Simula 67
+|-
+| 1980
+| [[Applesoft BASIC|Applesoft III]]
+| [[Apple Computer]]
+| Applesoft II BASIC
+|-
+| 1980
+| [[Applesoft BASIC|Apple III Microsoft BASIC]]
+| Microsoft
+| Microsoft BASIC
+|-
+| 1980–81
+| [[CBASIC]]
+| [[Gordon Eubanks]]
+| BASIC, Compiler Systems, Digital Research
+|-
+| 1981
+| [[BBC BASIC]]
+| [[Acorn Computers]], [[Sophie Wilson]]
+| BASIC
+|-
+| 1981
+| [[IBM BASICA]]
+| [[Microsoft]]
+| BASIC
+|-
+| 1982?
+| [[Speakeasy (computational environment)|Speakeasy-IV]]
+| Stanley Cohen, ''et al.'' at [[Speakeasy Computing Corporation]]
+| Speakeasy-3
+|-
+| 1982?
+| [[Draco (programming language)|Draco]]
+| Chris Gray
+| [[Pascal (programming language)|Pascal]], [[C (programming language)|C]], [[ALGOL 68]]
+|-
+| 1982
+| [[PostScript]]
+| [[John Warnock|Warnock]]
+| [[InterPress]]
+|-
+|1982
+|[[Turing (programming language)|Turing]]
+|[[Ric Holt]] and [[James Cordy]], at [[University of Toronto]]
+|[[Euclid (programming language)|Euclid]]
+|-
+| 1983
+| [[GW-BASIC]]
+| [[Microsoft]]
+| [[IBM BASICA]]
+|-
+| 1983
+| [[Turbo Pascal]]
+| [[Anders Hejlsberg|Hejlsberg]] at [[Borland]]
+| [[Pascal (programming language)|Pascal]]
+|-
+| 1983
+| [[Ada (programming language)|Ada 83]] (ANSI/MIL-STD-1815A)
+| [[Jean Ichbiah]] at [[Alsys]]
+| Ada 80, Green
+|-
+| 1983
+| [[Objective-C]]
+| [[Brad Cox]]
+| Smalltalk, C
+|-
+| 1983
+| [[C++]]
+| [[Bjarne Stroustrup]]
+| C with Classes
+|-
+| 1983
+| [[True BASIC]]
+| [[John George Kemeny]], [[Thomas Eugene Kurtz]] at [[Dartmouth College]]
+| BASIC
+|-
+| 1983
+| [[Occam (programming language)|occam]]
+| [[David May (computer scientist)|David May]]
+| EPL
+|-
+| 1983?
+| [[ABAP]]
+| [[SAP AG]]
+| [[COBOL]]
+|-
+| 1983
+| [[Korn shell|Korn Shell]] (''ksh'')
+| [[David Korn (computer scientist)|David Korn]]
+| sh
+|-
+|1983
+|[[Clascal]]
+| [[Apple Inc.|Apple Computer Inc.]]
+| [[Pascal (programming language)|Pascal]]
+|-
+|| 1984
+| [[Clipper (programming language)|CLIPPER]]
+| [[Nantucket, Massachusetts|Nantucket]]
+| dBase
+|-
+| 1984
+| [[Common Lisp]]
+| [[Guy L. Steele, Jr.]] and many others
+| LISP
+|-
+| 1984
+| [[RPL (programming language)|RPL]]
+| [[Hewlett-Packard]]
+| [[Forth (programming language)|Forth]], [[Lisp (programming language)|Lisp]]
+|-
+| 1984
+| [[Standard ML]]
+|
+| ML
+|-
+| 1984
+| [[Core War|Redcode]]
+| [[Alexander Dewdney]] and [[D. G. Jones|D.G. Jones]]
+|
+|-
+| 1984
+| [[Open Programming Language|OPL]]
+| [[PSION]]
+| [[BASIC]]
+|-
+| 1985
+| [[Paradox (database)|PARADOX]]
+| [[Borland]]
+| dBase
+|-
+| 1985
+| [[QuickBASIC]]
+| [[Microsoft]]
+| [[BASIC]]
+|-
+|1986
+| [[Clarion (programming language)|Clarion]]
+| Bruce Barrington
+|
+|-
+| 1986
+| [[CorVision]]
+| Cortex
+| INFORM
+|-
+| 1986
+| [[Eiffel (programming language)|Eiffel]]
+| [[Bertrand Meyer]]
+| Simula 67, Ada
+|-
+| 1986
+| [[GFA BASIC]]
+| [[Frank Ostrowski]]
+| [[BASIC]]
+|-
+| 1986
+| [[IBM Informix-4GL|Informix-4GL]]
+| [[IBM Informix|Informix]]
+|
+|-
+| 1986
+| [[LabVIEW]]
+| [[National Instruments]]
+|
+|-
+| 1986
+| [[Miranda (programming language)|Miranda]]
+| [[David Turner (computer scientist)|David Turner]] at [[University of Kent]]
+|
+|-
+| 1986
+| [[Object Pascal]]
+| [[Apple Inc.|Apple Computer Inc.]]
+| Pascal
+|-
+| 1986
+| [[PROMAL]]
+|
+| C
+|-
+| 1986
+| [[Erlang (programming language)|Erlang]]
+| Joe Armstrong and others in [[Ericsson]]
+| Prolog
+|-
+| 1987
+| [[Ada (programming language)|Ada ISO 8652:1987]]
+| [[ANSI/MIL-STD-1815A unchanged]]
+| Ada 83
+|-
+| 1987
+| [[Self (programming language)|Self]] (concept)
+| [[Sun Microsystems]] Inc.
+| Smalltalk
+|-
+| 1987
+| [[Occam (programming language)|occam 2]]
+| [[David May (computer scientist)|David May]] and [[INMOS]]
+| [[Occam (programming language)|occam]]
+|-
+| 1987
+| [[HyperTalk]]
+| [[Apple Inc.|Apple Computer Inc.]]
+| {{n/a|none (unique language)}}
+|-
+| 1987
+| [[Perl]]
+| [[Larry Wall]]
+| C, sed, awk, sh
+|-
+| 1987
+| [[Oberon (programming language)|Oberon]]
+| [[Niklaus Wirth]]
+| Modula-2
+|-
+| 1987
+| [[Mathematica]] ([[Wolfram Language]]<!-- was named that years later, is the language of the larger system Mathematica-->)
+| [[Wolfram Research]]
+| {{n/a|none (unique language)}}
+|-
+| 1987
+| [[Turbo Basic]]
+| Robert 'Bob' Zale
+| BASIC/Z
+|-
+| 1987
+| [[Clean (programming language)|Clean]]
+| Software Technology Research Group of [[Radboud University Nijmegen]]
+| {{n/a|none (unique language)}}
+|-
+| 1988
+| [[GNU Octave|Octave]]
+|
+| [[MATLAB]]
+|-
+| 1988
+| [[Tcl]]
+| [[John Ousterhout]]
+| Awk, Lisp
+|-
+| 1988
+| [[STOS BASIC]]
+| [[François Lionet]] and [[Constantin Sotiropoulos]]
+| [[BASIC]]
+|-
+| 1988
+| [[Actor (programming language)|Actor]]
+| [[Charles Duff, the Whitewater Group]]
+| [[Forth, Smalltalk]]
+|-
+| 1988
+| [[Object REXX]]
+| Simon C. Nash
+| REXX, Smalltalk
+|-
+| 1988
+| [[SPARK (programming language)|SPARK]]
+| Bernard A. Carré
+| Ada
+|-
+| 1988
+| [[A+ (programming language)|A+]]
+| [[Arthur Whitney (computer scientist)|Arthur Whitney]]
+| APL
+|-
+| 1988
+| [[Hamilton C shell]]
+| Nicole Hamilton
+| [[C shell]]
+|-
+| 1989
+| [[Turbo Pascal#Object-oriented programming|Turbo Pascal OOP]]
+| [[Anders Hejlsberg]] at [[Borland]]
+| Turbo Pascal, Object Pascal
+|-
+| 1989
+| [[Modula-3]]
+| Cardeli, et al. [[Digital Equipment Corporation|DEC]] and [[Olivetti]]
+| Modula-2
+|-
+| 1989
+| [[PowerBASIC]]
+| Robert 'Bob' Zale
+| Turbo Basic
+|-
+| 1989
+| [[VisSim]]
+| Peter Darnell, [[Visual Solutions]]
+|
+|-
+| 1989
+| [[LPC (programming language)|LPC]]
+| [[Lars Pensjö]]
+|
+|-
+| 1989
+| [[Bash (Unix shell)|Bash]]
+| [[Brian Fox (computer programmer)|Brian Fox]]
+| [[Bourne shell]], [[C shell]], [[Korn shell]]
+|-
+|1989
+|[[Magik (programming language)]]
+|Arthur Chance, of [[Smallworld]] Systems Ltd
+|[[Smalltalk]]
+|- class="sortbottom"
+| 1989
+| [[Python (programming language)]]
+| [[Guido Van Rossum]]
+| [[SETL]]
+|-
+| 1990
+| [[AMOS (programming language)|AMOS BASIC]]
+| [[François Lionet]] and [[Constantin Sotiropoulos]]
+| [[STOS BASIC]]
+|-
+| 1990
+| [[AMPL]]
+| [[Robert Fourer]], David Gay and [[Brian Kernighan]] at [[Bell Laboratories]]
+| 
+|-
+| 1990
+| [[Object Oberon]]
+| H Mössenböck, J Templ, R Griesemer
+| Oberon
+|-
+| 1990
+| [[J (programming language)|J]]
+| [[Kenneth E. Iverson]], [[Roger Hui]] at Iverson Software
+| APL, FP
+|-
+| 1990
+| [[Haskell (programming language)|Haskell]]
+|
+| Miranda
+|-
+| 1990
+| [[EuLisp]]
+|
+| [[Common Lisp]], Scheme
+|-
+| 1990
+| [[Z shell|Z Shell]] (''zsh'')
+| Paul Falstad at [[Princeton University]]
+| ksh
+|-
+| 1991
+| [[GNU E]]
+| David J. DeWitt, Michael J. Carey
+| [[C++]]
+|-
+| 1991
+| [[Oberon-2 (programming language)|Oberon-2]]
+| Hanspeter Mössenböck, [[Niklaus Wirth|Wirth]]
+| Object Oberon
+|-
+| 1991
+| [[Python (programming language)|Python]]
+| [[Guido van Rossum]]
+| [[ABC (programming language)|ABC]], [[ALGOL 68]], [[Icon (programming language)|Icon]], [[Modula-3]]
+|-
+| 1991
+| [[Oz (programming language)|Oz]]
+| Gert Smolka and his students
+| Prolog
+|-
+| 1991
+| [[Pure (programming language)|Q]]
+| Albert Gräf
+|
+|-
+| 1991
+| [[Visual Basic]]
+| [[Alan Cooper]], sold to [[Microsoft]]
+| QuickBASIC
+|-
+| 1992
+| [[Turbo Pascal|Borland Pascal]]
+|
+| Turbo Pascal OOP
+|-
+| 1992
+| [[Dylan (programming language)|Dylan]]
+| many people at [[Apple Inc.|Apple Computer Inc.]]
+| [[Common Lisp]], Scheme
+|-
+| 1992
+| [[S-Lang]]
+| John E. Davis
+| [[PostScript]]
+|-
+| 1993?
+| [[Self (programming language)|Self]] (implementation)
+| [[Sun Microsystems]] Inc.
+| Smalltalk
+|-
+| 1993
+| [[Amiga E]]
+| [[Wouter van Oortmerssen]]
+| DEX, C, Modula-2
+|-
+| 1993
+| [[Brainfuck]]
+| Urban Müller
+| P′′
+|-
+| 1993
+| [[Transcript (programming language)|LiveCode Transcript]]
+|
+| HyperTalk
+|-
+| 1993
+| [[AppleScript]]
+| [[Apple Inc.|Apple Computer Inc.]]
+| HyperTalk
+|-
+| 1993
+| [[K (programming language)|K]]
+| [[Arthur Whitney (computer scientist)|Arthur Whitney]]
+| APL, Lisp
+|-
+| 1993
+| [[Lua (programming language)|Lua]]
+| [[Roberto Ierusalimschy]] ''et al.'' at [[Tecgraf, PUC-Rio]]
+| Scheme, SNOBOL, Modula, CLU, C++
+|-
+| 1993
+| [[R (programming language)|R]]
+| [[Robert Gentleman (statistician)|Robert Gentleman]] and [[Ross Ihaka]]
+| S
+|-
+| 1993
+| [[ZPL (programming language)|ZPL]]
+| Chamberlain ''et al.'' at [[University of Washington]]
+| C
+|-
+| 1993
+| [[NewtonScript]]
+| Walter Smith
+| Self, Dylan
+|-
+| 1993
+| [[Euphoria (programming language)|Euphoria]]
+| Robert Craig
+| SNOBOL, AWK, ABC, Icon, Python
+|-
+| 1994
+| [[Claire (programming language)|Claire]]
+| Yves Caseau
+| Smalltalk, SETL, OPS5, Lisp, ML, C, LORE, LAURE
+|-
+| 1994
+| [[Common Lisp|ANSI Common Lisp]]
+|
+| [[Common Lisp]]
+|-
+| 1994
+| [[RAPID]]
+| [[ABB Group]]
+| ARLA
+|-
+| 1994
+| [[Pike (programming language)|Pike]]
+| Fredrik Hübinette et al. at [[Linköping University]]
+| [[LPC (programming language)|LPC]], C, µLPC
+|-
+| 1994
+| [[Forth (programming language)|ANS Forth]]
+| [[Elizabeth Rather]], et al.
+| Forth
+|-
+| 1995
+| [[Ada (programming language)|Ada 95]]
+| S. Tucker Taft, et al. at Intermetrics, Inc.
+| Ada 83
+|-
+| 1995
+| [[CodeGear Delphi|Borland Delphi]]
+| [[Anders Hejlsberg]] at [[Borland]]
+| Borland Pascal
+|-
+| 1995
+| [[ColdFusion|ColdFusion (CFML)]]
+| [[Allaire Corporation|Allaire]]
+|
+|-
+| 1995
+| [[Java (programming language)|Java]]
+| [[James Gosling]] at [[Sun Microsystems]]
+| C, Simula 67, C++, Smalltalk, Ada 83, Objective-C, Mesa
+|-
+| 1995
+| [[JavaScript|LiveScript]]
+| [[Brendan Eich]] at [[Netscape]]
+| Self, C, Scheme
+|-
+| 1995
+| [[Mercury (programming language)|Mercury]]
+| [[Zoltan Somogyi]] at [[University of Melbourne]]
+| Prolog, Hope, Haskell
+|-
+| 1995
+| [[PHP]]
+| [[Rasmus Lerdorf]]
+| Perl
+|-
+| 1995
+| [[Ruby (programming language)|Ruby]]
+| [[Yukihiro Matsumoto]]
+| Smalltalk, Perl
+|-
+| 1995
+| [[JavaScript]]
+| [[Brendan Eich]] at [[Netscape]]
+| LiveScript
+|-
+|1995
+|[[Racket (programming language)|Racket]]
+|[[Matthew Flatt]] at [[Rice University]]
+|[[Scheme (programming language)|Scheme]], [[Lisp (programming language)|Lisp]]
+|-
+| 1996
+| [[Curl (programming language)|Curl]]
+| David Kranz, Steve Ward, Chris Terman at [[Massachusetts Institute of Technology|MIT]]
+| Lisp, C++, Tcl/Tk, TeX, HTML
+|-
+| 1996
+| [[Lasso (programming language)|Lasso]]
+| [[Blue World Communications Inc.]]
+|
+|-
+| 1996
+| [[Perl Data Language]] (PDL)
+| [[Karl Glazebrook]], [[Jarle Brinchmann]], [[Tuomas Lukka]], and [[Christian Soeller]]
+| APL, Perl
+|-
+| 1996
+| [[VBScript]]
+| Microsoft
+| Visual Basic
+|-
+| 1996
+| [[OCaml]]
+| [[INRIA]]
+| Caml Light, Standard ML
+|-
+| 1996
+| [[NetRexx]]
+| [[Mike Cowlishaw]]
+| REXX
+|-
+| 1997
+| [[Component Pascal]]
+| Oberon microsystems, Inc
+| Oberon-2
+|-
+| 1997
+| [[E (programming language)|E]]
+| [[Mark S. Miller]]
+| Joule, Original-E
+|-
+| 1997
+| [[Pico (programming language)|Pico]]
+| Free University of [[Brussels]]
+| Scheme
+|-
+| 1997
+| [[Squeak]]
+| [[Alan Kay]], ''et al.'' at [[Apple Inc.|Apple Computer Inc.]]
+| Smalltalk-80, Self
+|-
+| 1997
+| [[ECMAScript]]
+| [[Ecma International|ECMA]] TC39-TG1
+| JavaScript
+|-
+| 1997
+| [[F-Script (programming language)|F-Script]]
+| Philippe Mougin
+| Smalltalk, APL, Objective-C
+|-
+| 1997
+| [[ISLISP]]
+| ISO Standard ISLISP
+| [[Common Lisp]]
+|-
+| 1997
+| [[Tea (programming language)|Tea]]
+| Jorge Nunes
+| [[Java (programming language)|Java]], [[Scheme (programming language)|Scheme]], [[Tcl]]
+|-
+| 1997
+| [[REBOL]]
+| [[Carl Sassenrath]], Rebol Technologies
+| [[Self (programming language)|Self]], [[Forth (programming language)|Forth]], [[Lisp (programming language)|Lisp]], [[Logo (programming language)|Logo]]
+|-
+| 1998
+| [[Logtalk]]
+| Paulo Moura (then at [[University of Coimbra]])
+| Prolog
+|-
+| 1998
+| [[ActionScript]]
+| [[Gary Grossman]]
+| ECMAScript
+|-
+| 1998
+| [[C++|Standard C++]]
+| ANSI/ISO Standard C++
+| C++, Standard C, C
+|-
+| 1998
+| [[M2001]]
+| Ronald E. Prather, [[Trinity University (Texas)]]
+| {{n/a|none (unique language)}}
+|-
+| 1998
+| [[PIKT|Pikt]]
+| Robert Osterlund (then at [[University of Chicago]])
+| AWK, Perl, Unix shell
+|-
+| 1998
+| [[PureBasic]]
+| Frederic Laboureur, Fantaisie Software
+|
+|-
+| 1998
+| [[UnrealScript]]
+| [[Tim Sweeney (game developer)|Tim Sweeney]] at [[Epic Games]]
+| C++, Java
+|-
+| 1998
+| [[XSL Transformations|XSLT]] (+ [[XPath]])
+| [[World Wide Web Consortium|W3C]], [[James Clark (XML expert)|James Clark]]
+| [[Document Style Semantics and Specification Language|DSSSL]]
+|-
+| 1998
+| [[Xojo]] (REALbasic at the time)
+| Xojo, Inc., Andrew Barry
+| Visual Basic
+|-
+| 1999
+| [[Game Maker Language]] (GML)
+| [[Mark Overmars]]
+| [[GameMaker: Studio|Game Maker]]
+|-
+| 1999
+| [[Harbour (software)|Harbour]]
+| Antonio Linares
+| [[dBase]]
+|-
+| 2000
+| [[Join Java]]
+| G Stewart von Itzstein
+| Java
+|-
+| 2000
+|[[DarkBASIC|DarkBasic]]
+|[[The Game Creators]]
+| 
+|-
+| 2000
+| [[C Sharp (programming language)|C#]]
+| [[Anders Hejlsberg]], [[Microsoft]] ([[Ecma International|ECMA]])
+| C, C++, Java, Delphi, Modula-2
+|-
+| 2001
+| [[Joy (programming language)|Joy]]
+| Manfred von Thun
+| FP, Forth
+|-
+| 2001
+| [[AspectJ]]
+| [[Gregor Kiczales]], [[PARC (company)|Xerox PARC]]
+| Java, Common Lisp
+|-
+| 2001
+| [[D (programming language)|D]]
+| [[Walter Bright]], Digital Mars
+| C, C++, C#, Java
+|-
+| 2001
+| [[Processing (programming language)|Processing]]
+| [[Casey Reas]] and [[Benjamin Fry]]
+| [[Java (programming language)|Java]], [[C (programming language)|C]], [[C++]]<ref>https://www.arduino.cc/en/Reference/HomePage</ref>
+|-
+| 2001
+| [[Visual Basic .NET]]
+| [[Microsoft]]
+| Visual Basic
+|-
+| 2001
+| [[GDScript]] (GDS)
+| [[OKAM Studio]]
+| [[Godot (game engine)|Godot]]
+|-
+| 2002
+| [[Io (programming language)|Io]]
+| Steve Dekorte
+| Self, NewtonScript, Lua
+|-
+| 2002
+| [[Gosu (programming language)|Gosu]]
+| Guidewire Software
+| GScript
+|-
+| 2002
+| [[Scratch (programming language)|Scratch]]
+| [[Mitchel Resnick]], John Maloney, Natalie Rusk, Evelyn Eastmond, Tammy Stern, Amon Millner, Jay Silver, and Brian Silverman
+| [[Logo (programming language)|Logo]], [[Smalltalk]], [[Squeak]], [[Squeak#E-Toys|E-Toys]], [[HyperCard]], AgentSheets, StarLogo, Tweak, [[BYOB (programming language)|BYOB]]
+|-
+| 2003
+| [[Nemerle]]
+| University of [[Wrocław]]
+| C#, [[Standard ML|ML]], MetaHaskell
+|-
+| 2003
+| [[Factor (programming language)|Factor]]
+| [[Slava Pestov]]
+| Joy, Forth, Lisp
+|-
+| 2003
+| [[Scala (programming language)|Scala]]
+| [[Martin Odersky]]
+| Smalltalk, Java, Haskell, Standard ML, OCaml
+|-
+| 2003
+| [[C++03]]
+| C++ ISO/IEC 14882:2003
+| [[C++]], Standard C, [[C (programming language)|C]]
+|-
+| 2003
+| [[Squirrel (programming language)|Squirrel]]
+| Alberto Demichelis
+| Lua
+|-
+| 2003
+| [[Boo (programming language)|Boo]]
+| Rodrigo B. de Oliveira
+| Python, C#
+|-
+| 2004
+| [[Subtext (programming language)|Subtext]]
+| Jonathan Edwards
+| {{n/a|none (unique language)}}
+|-
+| 2004
+| [[Alma-0]]
+| Krzysztof Apt, [[Centrum Wiskunde & Informatica]]
+| {{n/a|none (unique language)}}
+|-
+| 2004
+| [[FreeBASIC]]
+| Andre Victor
+| QBasic
+|-
+| 2004
+| [[Groovy (programming language)|Groovy]]
+| [[James Strachan (programmer)|James Strachan]]
+| [[Java (programming language)|Java]]
+|-
+| 2004
+| [[Little b (programming language)|Little b]]
+| Aneil Mallavarapu, [[Harvard Medical School]], Department of Systems Biology
+| Lisp
+|-
+| 2005
+| [[Fantom (programming language)|Fantom]]
+| Brian Frank, Andy Frank
+| C#, Scala, Ruby, Erlang
+|-
+| 2005
+| [[F Sharp (programming language)|F#]]
+| [[Don Syme]], [[Microsoft Research]]
+| [[OCaml]], [[C Sharp (programming language)|C#]], [[Haskell (programming language)|Haskell]]
+|-
+| 2005
+| [[Haxe]]
+| Nicolas Cannasse
+| [[ActionScript]], [[OCaml]], [[Java (programming language)|Java]]
+|-
+| 2005
+| [[Oxygene (programming language)|Oxygene]]
+| [[RemObjects Software]]
+| [[Object Pascal]], [[C Sharp (programming language)|C#]]
+|-
+| 2005
+| [[Seed7]]
+| Thomas Mertes
+| {{n/a|none (unique language)}}
+|-
+| 2006
+| [[Cobra (programming language)|Cobra]]
+| ChuckEsterbrook
+| Python, C#, Eiffel, Objective-C
+|-
+| 2006
+| [[Windows PowerShell]]
+| [[Microsoft]]
+| C#, ksh, Perl, [[AS/400 Control Language|CL]], [[DIGITAL Command Language|DCL]], SQL
+|-
+| 2006
+| [[OptimJ]]
+| [[Ateji]]
+| [[Java (programming language)|Java]]
+|-
+| 2006
+| [[Fortress (programming language)|Fortress]]
+| [[Guy L. Steele, Jr.|Guy Steele]]
+| [[Scala (programming language)|Scala]], [[Standard ML|ML]], [[Haskell (programming language)|Haskell]]
+|-
+| 2006
+| [[Vala (programming language)|Vala]]
+| [[GNOME]]
+| C#
+|-
+| 2007
+| [[Ada (programming language)|Ada 2005]]
+| Ada Rapporteur Group
+| Ada 95
+|-
+| 2007
+| [[Agda (programming language)|Agda]]
+| Ulf Norell
+| [[Coq]], [[Epigram (programming language)|Epigram]], [[Haskell (programming language)|Haskell]]
+|-
+|2007
+|[[QB64]]
+|Galleon, QB64Team
+|QBasic
+|-
+| 2007
+| [[Clojure]]
+| [[Rich Hickey]]
+| [[Lisp (programming language)|Lisp]], [[ML (programming language)|ML]], [[Haskell (programming language)|Haskell]], [[Erlang (programming language)|Erlang]]
+|-
+| 2007
+| [[LOLCODE]]
+| Adam Lindsay
+| {{n/a|none (unique language)}}
+|-
+| 2007
+| [[Oberon (programming language)#Oberon-07|Oberon-07]]
+| [[Niklaus Wirth|Wirth]]
+| Oberon
+|-
+| 2007
+| [[Swift (parallel scripting language)]]
+| [[University of Chicago]], [[Argonne National Laboratory]]
+|
+|-
+| 2008
+| [[Nim (programming language)|Nim]]
+| Andreas Rumpf
+| [[Python (programming language)|Python]], [[Lisp (programming language)|Lisp]], [[Object Pascal]]
+|-
+| 2008
+| [[Genie (programming language)|Genie]]
+| Jamie McCracken
+| [[Python (programming language)|Python]], [[Boo (programming language)|Boo]], [[D (programming language)|D]], [[Object Pascal]]
+|-
+| 2008
+| [[Pure (programming language)|Pure]]
+| Albert Gräf
+| Q
+|-
+| 2009
+| [[Chapel (programming language)|Chapel]]
+| Brad Chamberlain, [[Cray]] Inc.
+| [[High Performance Fortran|HPF]], [[ZPL (programming language)|ZPL]]
+|-
+| 2009
+| [[Go (programming language)|Go]]
+| [[Google]]
+| [[C (programming language)|C]], [[Oberon (programming language)|Oberon]], [[Limbo (programming language)|Limbo]], [[Smalltalk]]
+|-
+| 2009
+| [[CoffeeScript]]
+| [[Jeremy Ashkenas]]
+| [[JavaScript]], [[Ruby (programming language)|Ruby]], [[Python (programming language)|Python]], [[Haskell (programming language)|Haskell]]
+|-
+| 2009
+| [[Idris (programming language)|Idris]]
+| Edwin Brady
+| [[Haskell (programming language)|Haskell]], [[Agda (programming language)|Agda]], [[Coq]]
+|-
+| 2009
+| [[ParaSail (programming language)|Parasail]]
+| S. Tucker Taft, [[AdaCore]]
+| [[Modula]], [[Ada (programming language)|Ada]], [[Pascal (programming language)|Pascal]], [[ML (programming language)|ML]]
+|-
+| 2009
+| [[Whiley (programming language)|Whiley]]
+| David J. Pearce
+| [[Java (programming language)|Java]], [[C (programming language)|C]], [[Python (programming language)|Python]]
+|-
+| 2009
+| [[Dafny]]
+| K. Rustan M. Leino
+| [[Java (programming language)|Java]], [[Spec Sharp|Spec#]]
+|-
+| 2010
+| [[Rust (programming language)|Rust]]
+| Graydon Hoare, [[Mozilla]]
+| [[Alef (programming language)|Alef]], [[C++]], [[Camlp4]], [[Erlang (programming language)|Erlang]], [[Hermes (programming language)|Hermes]], [[Limbo (programming language)|Limbo]], Napier, [[Napier88]], [[Newsqueak]], NIL, [[Sather]], [[Standard ML]]
+|-
+| 2011
+| [[Ceylon Project|Ceylon]]
+| Gavin King, [[Red Hat]]
+| [[Java (programming language)|Java]]
+|-
+| 2011
+| [[Dart (programming language)|Dart]]
+| [[Google]]
+| [[Java (programming language)|Java]], [[JavaScript]], [[CoffeeScript]], [[Go (programming language)|Go]]
+|-
+| 2011
+| [[C++11]]
+| C++ ISO/IEC 14882:2011
+| [[C++]], Standard C, [[C (programming language)|C]]
+|-
+| 2011
+| [[Kotlin (programming language)|Kotlin]]
+| [[JetBrains]]
+| [[Java (programming language)|Java]], [[Scala (programming language)|Scala]], [[Groovy (programming language)|Groovy]], [[C Sharp (programming language)|C#]], [[Gosu (programming language)|Gosu]]
+|-
+|2011
+| [[Red (programming language)|Red]]
+| Nenad Rakocevic
+| [[Rebol]], [[Scala (programming language)|Scala]], [[Lua (programming language)|Lua]]
+|-
+|2011
+|[[Monkey X|MonkeyX]]
+|Mark Sibly
+|
+|-
+|2011
+| [[Opa (programming language)|Opa]]
+| MLstate
+| [[OCaml]], [[Erlang (programming language)|Erlang]], [[JavaScript]]
+|-
+| 2012
+| [[Elixir (programming language)|Elixir]]
+| José Valim
+| [[Erlang (programming language)|Erlang]], [[Ruby (programming language)|Ruby]], [[Clojure]]
+|-
+| 2012
+| [[Elm (programming language)|Elm]]
+| Evan Czaplicki
+| [[Haskell (programming language)|Haskell]], [[Standard ML]], [[OCaml]], [[F Sharp (programming language)|F#]]
+|-
+| 2012
+| [[TypeScript]]
+| [[Anders Hejlsberg]], [[Microsoft]]
+| [[JavaScript]], [[CoffeeScript]]
+|-
+| 2012
+| [[Julia (programming language)|Julia]]
+| [[Jeff Bezanson]], [[Stefan Karpinski]], Viral Shah, [[Alan Edelman]],<!-- Leave out Alan? He is left out as "developer", but included as "designer" in Julia's infobox as Jeff's PhD advisor(?):--> [[Massachusetts Institute of Technology|MIT]]
+| [[MATLAB]], [[Lisp (programming language)|Lisp]],<!--only the parser is implemented by Femtolisp, a [[Scheme (programming language)|Scheme]] implementation (see: "unsupported" "julia --lisp" that invokes it) the only influence from Lisp/Scheme are Lisp-like macros, redundant to list Scheme. Also Dylan was cut from the list despite its "multiple dispatch"--> [[C (programming language)|C]], [[Fortran]], [[Mathematica]]<ref>{{cite web
+  | title      = Why We Created Julia
+  | date       = February 2012
+  | website    = Julia website
+  | url        = http://julialang.org/blog/2012/02/why-we-created-julia
+  | accessdate = 7 February 2013
+  }}</ref> (strictly its [[Wolfram Language]]), [[Python (programming language)|Python]], [[Perl]], [[R (programming language)|R]], [[Ruby (programming language)|Ruby]], [[Lua (programming language)|Lua]]<ref>{{cite web|title=Introduction|url=http://julia.readthedocs.org/en/latest/manual/introduction/|website=The Julia Manual|deadurl=yes|archiveurl=https://web.archive.org/web/20160408134008/http://julia.readthedocs.org/en/latest/manual/introduction/|archivedate=8 April 2016|df=dmy-all}}</ref>
+|-
+| 2012
+| [[P (programming language)|P]]
+| Vivek Gupta, [[Ethan Jackson]], [[Shaz Qadeer]], [[Sriram Rajamani]], [[Microsoft]]
+| 
+|-
+| 2012
+| [[Ada (programming language)|Ada 2012]]
+| ARA and Ada Europe (ISO/IEC 8652:2012)
+| Ada 2005, ISO/IEC 8652:1995/Amd 1:2007
+|-
+|2013
+|[[P4 (programming language)|P4]]
+|P4 Language Consortium ([https://P4.org P4.org])
+|
+|-
+|2013
+|[[Cuneiform (programming language)|Cuneiform]]
+|Jörgen Brandt
+|[[Swift (parallel scripting language)]]
+|-
+| 2014
+| [[Crystal (programming language)|Crystal]]
+| Ary Borenszweig, Manas Technology Solutions
+| [[Ruby (programming language)|Ruby]], [[C (programming language)|C]], [[Rust (programming language)|Rust]], [[Go (programming language)|Go]], [[C Sharp (programming language)|C#]], [[Python (programming language)|Python]]
+|-
+| 2014
+| [[Hack (programming language)|Hack]]
+| [[Facebook]]
+| [[PHP]]
+|-
+| 2014
+| [[Swift (programming language)|Swift]]
+| [[Apple Inc.]]
+| [[Objective-C]], [[Rust (programming language)|Rust]], [[Haskell (programming language)|Haskell]], [[Ruby (programming language)|Ruby]], [[Python (programming language)|Python]], [[C Sharp (programming language)|C#]], [[CLU (programming language)|CLU]]
+|-
+| 2014
+| [[C++14]]
+| C++ ISO/IEC 14882:2014
+| [[C++]], Standard C, [[C (programming language)|C]]
+|-
+| 2015
+| [[Perl 6]]
+| [https://github.com/rakudo/rakudo/blob/master/CREDITS The Rakudo Team]
+| [[Perl]], [[Haskell (programming language)|Haskell]], [[Python (programming language)|Python]], [[Ruby (programming language)|Ruby]]
+|-
+| 2016
+| [[Ring (programming language)|Ring]]
+| Mahmoud Fayed
+| [[Lua (programming language)|Lua]], [[Python (programming language)|Python]], [[Ruby (programming language)|Ruby]], [[C (programming language)|C]], [[C Sharp (programming language)|C#]], [[BASIC]], [[QML]], [[xBase]], Supernova
+|-
+| 2017
+| [[C++17]]
+| C++ ISO/IEC 14882:2017
+| [[C++]], Standard C, [[C (programming language)|C]]
+|-
+| 2017
+| [[Ballerina (programming language)|Ballerina]]
+| [[WSO2]], Open Source<ref>https://github.com/ballerina-platform/ballerina-lang</ref>
+| 
+|-
+| 2018
+| [[Fortran#Fortran 2018|Fortran 2018]]
+| ISO/IEC JTC1/SC22/WG5 N2150:2018
+| [[Fortran#Fortran 2008|Fortran 2008]]
+|-
