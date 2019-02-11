@@ -15,9 +15,13 @@ We want to keep JSON files of these lists in this repo for anyone to use and con
 3. Follow previously checked-in conventions.
 4. Use [JSONLint](https://jsonlint.com/) to ensure your file is valid JSON.
 
-## Formatting
+## Rules
 
 Each technology must have its own Wikipedia page to be counted as a "technology."
+
+Use only one name for one technology—the most ubiquitous. (Pull requests will be accepted if a name is updated.)
+
+## Formatting
 
 Remove text Wikipedia (or any other page you scrape) may have added for clarification. This includes parentheticals, any unlinked explanatory text, text following a hypen, etc.
 
