@@ -1,0 +1,42 @@
+
+* [[AXIOM (camera)|AXIOM]] – [[digital cinema camera]] built by apertus° community
+* [[Elphel|Elphel, Inc.]] – cameras based on free hardware–software designs
+
+===Computer systems===
+{{Main|Open-source computing hardware}}
+* [[Arduino]] – open-source [[microcontroller board]]
+* [[Chumby]] – information ''[[ambient device]]''
+* [[CUBIT]] – multitouch surface-interaction system
+* [[Libre Computer Project]] – open-source, open-hardware [[Single-board_computer|single board computers]]<ref>{{cite web|title=Libre Computer|url=https://libre.computer/|website=Libre Computer|accessdate=13 April 2018}}</ref>
+* [https://mntmn.com/reform/ MNT Reform DIY Laptop] - A DIY laptop made with free software and open source hardware.
+* [[Netduino]] – [[microcontroller]] board, [[.NET Micro Framework]] based
+* [[NodeMCU]] – [[Wi-Fi]] microcontroller board
+* [[Parallax Propeller]] – a multi-core microcontroller with eight 32-bit RISC cores
+* [[Parallella]] – [[single board computer]] with a [[Manycore processor|manycore]] coprocessor and [[field-programmable gate array]] (FPGA)
+* [[SparkFun Electronics]] – [[microcontroller]] development boards, [[breakout board]]s
+* [[Bus Pirate|The Bus Pirate]] – universal bus interface and programmer
+* [[Turris Omnia]] – open-source SOHO network router
+* [[UDOO]] – open source, open hardware [[Single-board_computer|single board computers]]<ref>{{cite web|title=Documentations|url=https://www.udoo.org/documentation/|website=UDOO|accessdate=13 April 2018}}</ref>
+
+===Gaming===
+* [[PocketSprite]] – open-hardware, open-software portable gaming device<ref>{{cite web|title=PocketSprite - Tiny Retro Gaming on your Keychain|url=https://pocketsprite.com/|website=PocketSprite|accessdate=13 April 2018}}</ref>
+
+===Peripherals===
+* [[Nitrokey]] – USB key for data and email encryption and strong authentication
+* [https://www.u2fzero.com/ U2F Zero] - USB key for U2F authentication
+
+===Robotics===
+{{Further|Open-source robotics}}
+
+* [[ArduCopter]] – [[Arduino]]-based [[Unmanned aerial vehicle|drone]]
+* [[e-puck mobile robot]] – education oriented [[mobile robot]]
+* [[ICub]] – 1 metre high humanoid robot
+* [[IOIO]] – a board that allows Android applications to interface with external electronics
+* [[Orb swarm]] – art spherical robots
+* [[OpenRAVE]]
+* [[RobotCub]] – predecessor of [[ICub]]
+* [[Spykee]]
+* [[multiplo]] 
+* [[OpenROV]] – [[telerobotic]] submarine
+* [[Thymio]] – robot for education
+* [[Tinkerforge]] – a platform comprising stackable microcontrollers for interfacing with sensors and other I/O devices
