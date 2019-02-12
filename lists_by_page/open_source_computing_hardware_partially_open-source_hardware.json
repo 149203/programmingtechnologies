@@ -1,0 +1,25 @@
+{
+    "filename": "open_source_computing_hardware_partially_open-source_hardware.json",
+    "url": "https://en.wikipedia.org/wiki/Open-source_computing_hardware#Partially_open-source_hardware",
+    "technologies": [
+        "96Boards",
+        "Banana Pi",
+        "BeagleBoard",
+        "Ben NanoNote",
+        "HiFive Unleashed",
+        "HiFive1",
+        "IGEPv2",
+        "Minimig",
+        "Novena",
+        "OLinuXino",
+        "Openmoko",
+        "PandaBoard",
+        "Parallella",
+        "PC532",
+        "Rascal",
+        "Simputer",
+        "Suska",
+        "Tinkerforge",
+        "VIA OpenBook"
+    ]
+}

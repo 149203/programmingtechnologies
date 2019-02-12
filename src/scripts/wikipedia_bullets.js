@@ -5,9 +5,9 @@ const _ = require('lodash')
 
 // Setup — set these constants then run the script
 
-const filename = 'comparison_of_programming_languages_syntax_line_continuation'
+const filename = 'open_source_computing_hardware_partially_open-source_hardware'
 const url =
-    'https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax)#Line_continuation'
+    'https://en.wikipedia.org/wiki/Open-source_computing_hardware#Partially_open-source_hardware'
 
 // End setup
 

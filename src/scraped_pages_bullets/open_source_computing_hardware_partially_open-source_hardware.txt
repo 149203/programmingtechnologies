@@ -1,0 +1,35 @@
+====Single-board computers====
+* [[Tinkerforge]] RED Brick, executes user programs and controls other Bricks/Bricklets standalone
+=====ARM=====
+* [[Banana Pi]], uses low-power processors with an [[ARM architecture|ARM]] core; runs [[Linux]] [[Android (operating system)|Android]] [[OpenWRT]]
+* [[BeagleBoard]], uses low-power Texas Instruments processors with an [[ARM Cortex-A8]] core; runs [[Angstrom Linux]]
+* [[IGEPv2]], an ARM [[OMAP 3]]-based board designed and manufactured by [[ISEE (company)|ISEE]] in Spain. Its expansion boards are also open-source.
+* [[OLinuXino]], designed with [[KiCad]] by OLIMEX Ltd in [[Bulgaria]]<ref>Katherine Noyes. [http://www.pcworld.com/article/2013622/tiny-57-pc-is-like-the-raspberry-pi-but-faster-and-fully-open.html "Tiny $57 PC is like the Raspberry Pi, but faster and fully open"]. PCWorld. 2012.</ref>
+* [[PandaBoard]], a variation of the [[BeagleBoard]]
+* [[Rascal (single-board computer)|Rascal]], an ARM based Linux board that works with Arduino shields, with a web server that includes an editor for users to program it in Python. Hardware design files released under the Creative Commons BY-SA license.
+* [[96Boards]] (Includes but not limited to, DragonBoard 410c, HiKey, HiKey960, Bubblegum-96 and more...)
+* [[Parallella]] [[single board computer]] with a [[Manycore processor|manycore]] coprocessor and [[field-programmable gate array]] (FPGA)
+
+=====Motorola 68000 series=====
+* [[Minimig]] – a re-implementation of an [[Amiga 500]] using a [[field-programmable gate array]] (FPGA).
+* [[Suska (Computer)|Suska]] - a re-implementation of an [[Atari STe]] using a [[field-programmable gate array]] (FPGA).<ref>http://www.experiment-s.de/en/</ref>
+
+=====National Semiconductor NS320xx series=====
+* [[PC532]], a [[personal computer]] design released in 1990, based on the [[NS320xx|NS32532]] microprocessor
+
+===== RISC-V =====
+* [[HiFive1]] is an [[Arduino]]-compatible development kit featuring the Freedom E310, the industry’s first commercially available [[RISC-V]] [[System on a chip|SoC]]<ref>{{Cite web|url=https://www.crowdsupply.com/sifive/hifive1|title=HiFive1: Open Source, Arduino-Compatible RISC-V Dev Kit|website=Crowd Supply|access-date=2017-05-31}}</ref>
+* [[HiFive Unleashed]] "is a [[Linux]] development platform for [[SiFive]]’s Freedom U540 SoC, the world’s first 4+1 64-bit multi-core Linux-capable [[RISC-V]] [[System on a chip|SoC]]."<ref>{{cite web|title=SiFive HiFive Unleashed Getting Started Guide|url=https://static.dev.sifive.com/HiFive-Unleashed-Getting-Started-Guide-v1p1.pdf|website=SiFive|publisher=SiFive, Inc.|accessdate=13 April 2018}}</ref>
+
+====Routers====
+* [http://wiki.banana-pi.org/Banana_Pi_BPI-R2 Banana pi BPI-R2] with MTK MT7623N [http://wiki.banana-pi.org/Banana_Pi_BPI-R64 Banana pi BPI-R64] with MTK MT7622 [http://wiki.banana-pi.org/Banana_Pi_BPI-W2 Banana pi BPI-W2] with Realtek RTD1296  
+* Turris 1.0 and Turris 1.1, two [[Power Architecture]]-based routers designed in the Czech republic{{refn|{{cite web |accessdate=22 July 2017 |title=Hardware documentation|publisher=cz.nic|url=https://project.turris.cz/en/hardware-documentation}}}}
+
+====Notebook computers====
+* [[Novena (computing platform)|Novena]], a notebook computer that uses a 1.2&nbsp;GHz [[quad-core]] [[Freescale]] processor closely coupled with a [[Xilinx]] FPGA<ref>{{cite web|url=https://www.crowdsupply.com/kosagi/novena-open-laptop|title=Novena|work=[[Crowd Supply]]}}</ref><ref>{{cite web|url=https://www.wired.com/2014/04/novena/|title=The Almost Completely Open Source Laptop Goes on Sale|date=2 April 2014|website=[[Wired (website)|Wired]]}}</ref><ref>{{cite web|url=http://blog.laptopmag.com/novena-open-source-laptop|title=Novena Helps Hackers Build Their Own Laptop|publisher=}}</ref><ref>{{cite web |url=http://makezine.com/2014/04/02/the-worlds-first-open-source-laptop-makes-its-debut/ |title=The World’s First Open Source Laptop Makes Its Debut |last=Holbrook |first=Stett |date=April 2, 2014 |website=[[Make (magazine)|Make]] |access-date=2017-03-12}}</ref>
+* [[VIA OpenBook]], a [[netbook]] case design released by [[VIA Technologies]]
+
+====Handhelds, palmtops, and smartphones====
+* [[Ben NanoNote]], a [[palmtop PC]] based on the [[MIPS architecture]]
+* [[Openmoko]], a smartphone containing a single-board computer equipped with a GSM/UMTS modem
+* [[Simputer]], a handheld computer released in 2002
