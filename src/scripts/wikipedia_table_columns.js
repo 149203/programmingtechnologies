@@ -31,7 +31,10 @@ const json_output = {
 }
 
 try {
-    let text = fs.readFileSync(`../scraped_pages/${filename}.txt`, 'utf8')
+    let text = fs.readFileSync(
+        `../scraped_pages_tables/${filename}.txt`,
+        'utf8'
+    )
     text.match(rows).forEach(row => {
         row.match(columns).forEach((column, i) => {
             // if we're on the selected column number
