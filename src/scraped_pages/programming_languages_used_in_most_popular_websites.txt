@@ -1,0 +1,99 @@
+|-
+| [[Google.com]]<ref>searchenginewatch.com - [http://searchenginewatch.com/article/2081332/Google-Hits-the-Billion-Monthly-Unique-Visitors-Mark Google Hits the Billion Monthly Unique Visitors Mark]</ref>
+| 1,600,000,000
+| [[JavaScript]]
+| [[C (programming language)|C]], [[C++]], [[Go (programming language)|Go]],<ref>Rob Pike (2012). Go at Google. Presentation at the [[Association for Computing Machinery|ACM]] conference on Systems, Programming, Languages and Applications: Software for Humanity (SPLASH).</ref> [[Java (programming language)|Java]], [[Python (programming language)|Python]], [[PHP|PHP  (HHVM)]]
+| [[Bigtable]],<ref name="Bigtable">{{cite web|title=Google's Bigtable|url=http://andrewhitchcock.org/?post=214|deadurl=yes|archiveurl=https://web.archive.org/web/20060616203323/http://andrewhitchcock.org/?post=214|archivedate=16 June 2006|df=}}</ref> [[MariaDB]]<ref name="google_mdb">{{cite web | url=http://readwrite.com/2013/09/14/google-waves-goodbye-to-mysql-in-favor-of-mariadb#awesm=~omBpxaeC3cblHt | title=Google Waves Goodbye To MySQL In Favor Of MariaDB | publisher=readwrite.com | accessdate=12 December 2014}}</ref>
+| The most used search engine in the world
+|-
+| [[Facebook.com]]
+| 1,100,000,000
+| [[JavaScript]]
+| [[Hack (programming language)|Hack]], [[PHP|PHP (HHVM)]], [[Python (programming language)|Python]], [[C++]], [[Java (programming language)|Java]], [[Erlang (programming language)|Erlang]], [[D (programming language)|D]],<ref>{{cite web|title=Facebook is using D in production starting today|url=http://forum.dlang.org/thread/l37h5s$2gd8$1@digitalmars.com}}</ref> [[XHP]],<ref>{{cite web|title=XHP: A New Way to Write PHP|url=https://www.facebook.com/notes/facebook-engineering/xhp-a-new-way-to-write-php/294003943919|work=Facebook Engineering|publisher=Facebook}}</ref> [[Haskell (programming language)|Haskell]]<ref>{{cite web|title=Fighting spam with Haskell|url=https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/|work=Facebook Engineering|publisher=Facebook}}</ref>
+| [[MariaDB]], [[MySQL]],<ref>{{cite web|title=MySQL and Database Engineering|url=https://www.facebook.com/notes/facebook-engineering/mysql-and-database-engineering-mark-callaghan/10150599729938920}}</ref> [[Apache HBase|HBase]],  [[Apache Cassandra|Cassandra]]<ref>{{cite web|title=Cassandra – A structured storage system Developed By Facebook |url=https://www.facebook.com/notes/facebook-engineering/cassandra-a-structured-storage-system-on-a-p2p-network/24413138919}}</ref>
+| The most visited social networking site
+|-
+| [[YouTube.com]]
+| 1,100,000,000
+| [[JavaScript]]
+| [[C (programming language)|C]], [[C++]], [[Python (programming language)|Python]], [[Java (programming language)|Java]],<ref>{{cite web|url=http://highscalability.com/blog/2008/3/12/youtube-architecture.html|title=YouTube Architecture - High Scalability -|publisher=|accessdate=13 October 2014}}</ref> [[Go (programming language)|Go]]<ref>{{cite web|title=Golang Vitess: a database wrapper written in Go as used by Youtube|url=https://github.com/youtube/vitess}}</ref>
+| Vitess, BigTable, [[MariaDB]]<ref name="google_mdb"/><ref>{{cite web|url=http://www.nbcnews.com/id/15196982/ns/business-us_business/t/google-buys-youtube-billion/|title=Google buys YouTube for $1.65 billion|date=10 October 2006|publisher=}}</ref>
+|The most visited video sharing site
+|-
+| [[Yahoo]]
+| 750,000,000
+|[[JavaScript]]
+|[[PHP]]
+|[[PostgreSQL]], [[Apache HBase|HBase]],  [[Apache Cassandra|Cassandra]], [[MongoDB]],<ref>{{cite web|title=World's Largest Database Running on Postgres|url=http://it.toolbox.com/blogs/oracle-guide/worlds-largest-database-runs-on-postgres-24979}}</ref>
+| Yahoo is presently{{when|date=July 2013}} transitioning to [[Node.js]]<ref name="Work on NodeJS at Yahoo">{{cite web|title=Work on NodeJS at Yahoo|url=http://yahooeng.tumblr.com/nodeweekly}}</ref>
+|-
+| [[Amazon.com]]
+| 500,000,000
+| [[JavaScript]]
+| [[Java (programming language)|Java]], [[C++]], [[Perl]]<ref>{{cite web|title=Amazon Architecture|url=http://highscalability.com/blog/2007/9/18/amazon-architecture.html}}</ref>
+| [[Oracle Database]]<ref>{{cite web|title=Amazon and Oracle |url=http://aws.amazon.com/solutions/case-studies/amazon/}}</ref>
+| Popular internet shopping site
+|-
+| [[Wikipedia.org]]
+| 475,000,000
+| [[JavaScript]]
+| [[PHP]], [[Hack (programming language)|Hack]]
+| [[MariaDB]]<ref>{{cite web|url=http://blog.wikimedia.org/2013/04/22/wikipedia-adopts-mariadb/|title=Wikipedia Adopts MariaDB|date= 22 April 2013|publisher=[[Wikimedia Foundation]]}}</ref>
+| "[[MediaWiki]]" is programmed in [[PHP]], runs on [[HHVM]]; free online encyclopedia
+|-
+| [[Twitter.com]]
+| 290,000,000
+| [[JavaScript]]
+| [[C++]], [[Java (programming language)|Java]]<ref>{{Cite web|url=https://go.java/twitter.html|title=Twitter and Java {{!}} go.Java {{!}} Oracle|website=go.java|language=en-US|access-date=16 September 2018}}</ref>, [[Scala (programming language)|Scala]]<ref>{{cite web|last=Venners|first=Bill|title=Twitter on Scala|url=http://www.artima.com/scalazine/articles/twitter_on_scala.html}}</ref>, [[Ruby (programming language)|Ruby]]
+| MySQL<ref>{{cite web|title=How Twitter Stores 250 Million Tweets A Day Using MySQL|url=http://highscalability.com/blog/2011/12/19/how-twitter-stores-250-million-tweets-a-day-using-mysql.html}}</ref>
+| Popular social network.
+|-
+| [[Bing (search engine)|Bing]]
+| 285,000,000
+| [[JavaScript]]
+| [[C++]], [[C Sharp (programming language)|C#]]
+| Microsoft SQL Server, Cosmos
+|
+|-
+| [[eBay.com]]
+| 285,000,000
+| [[JavaScript]]
+| [[Java (programming language)|Java]],<ref>{{cite web|url=http://highscalability.com/ebay-architecture|title=eBay Architecture|publisher=|accessdate=13 October 2014}}</ref> [[JavaScript]],<ref>{{cite web|title=How We Built eBay’s First Node.js Application|url=http://www.ebaytechblog.com/2013/05/17/how-we-built-ebays-first-node-js-application/}}</ref> [[Scala (programming language)|Scala]]<ref>{{cite web|url=https://paypal.github.io/squbs/|title=squbs|publisher=}}</ref>
+| [[Oracle Database]]
+| Online auction house
+|-
+| [[MSN.com]]
+| 280,000,000
+| [[JavaScript]]
+| [[C Sharp (programming language)|C#]]
+| Microsoft SQL Server
+| An email client, for simple use. Previously known as "messenger", not to be confused with Facebooks messaging plattform.
+|-
+| [[Microsoft]]
+| 270,000,000
+| [[JavaScript]]
+| [[C Sharp (programming language)|C#]]
+| [[Microsoft SQL Server]]
+| One of the world's largest software companies.
+|-
+| [[Linkedin.com]]
+| 260,000,000
+| [[JavaScript]]
+| [[Java (programming language)|Java]], [[JavaScript]],<ref>{{cite web|url=http://highscalability.com/blog/2012/10/4/linkedin-moved-from-rails-to-node-27-servers-cut-and-up-to-2.html|title=LinkedIn Moved From Rails To Node: 27 Servers Cut And Up To 20x Faster|accessdate=25 September 2014}}</ref> [[Scala (programming language)|Scala]]
+| [[Voldemort (distributed data store)|Voldemort]]<ref name="voldemort_li">{{cite web | url=http://www.project-voldemort.com/voldemort/ | title=Project Voldemort A distributed database. | publisher=Project Voldemort | accessdate=12 December 2014}}</ref>
+| World's largest professional network.
+|-
+| [[Pinterest]]
+| 250,000,000
+| [[JavaScript]]
+| [[Django (web framework)|Django]],<ref>{{cite web|url=https://docs.djangoproject.com/en/1.7/faq/general/#is-django-stable|title=FAQ:General|accessdate=3 January 2015}}</ref> [[Erlang (programming language)|Erlang]]
+| [[MySQL]], [[Redis]] <ref name="bi_pint">{{cite web | url=http://www.businessinsider.com/how-we-scaled-pinterest-2013-4?op=1&IR=T | title=How We Scaled Pinterest From Zero Users To A $2 Billion Valuation | publisher=Business Insider | accessdate=12 December 2014}}</ref>
+|
+|-
+| [[Wordpress.com|WordPress.com]]
+| 240,000,000
+|[[JavaScript]]
+|[[PHP]]
+|[[PostgreSQL]], [[Apache HBase|HBase]],  [[Apache Cassandra|Cassandra]], [[MongoDB]],<ref>{{cite web|title=World's Largest Database Running on Postgres|url=http://it.toolbox.com/blogs/oracle-guide/worlds-largest-database-runs-on-postgres-24979}}</ref>
+| 
+|-

@@ -5,10 +5,10 @@ const _ = require('lodash')
 
 // Setup — set these constants then run the script
 
-const filename = 'comparison_of_single-board_computers'
+const filename = 'programming_languages_used_in_most_popular_websites'
 const url =
-    'https://en.wikipedia.org/wiki/Comparison_of_single-board_computers#General_comparison'
-const column_number = 1
+    'https://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites'
+const column_number = 4
 
 // End setup
 
