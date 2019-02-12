@@ -1,0 +1,187 @@
+|-
+| [[ABAP]]
+| period separated
+|-
+| [[Ada (programming language)|Ada]]
+| semicolon terminated
+|-
+| [[ALGOL]]
+| semicolon separated
+|-
+| [[ALGOL 68]]
+| semicolon and comma separated<ref>Three different kinds of clauses, each separates phrases and the units differently:
+*# serial-clause using ''go-on-token'' (viz. semicolon): '''begin''' a; b; c '''end''' – units are executed in order.
+*# collateral-clause using ''and-also-token'' (viz. “,”): '''begin''' a, b, c '''end''' – order of execution is to be optimised by the compiler.
+*# parallel-clause using ''and-also-token'' (viz. “,”): '''par begin''' a, b, c '''end''' – units must be run in parallel threads.
+</ref>
+|-
+| [[APL (programming language)|APL]]
+| newline terminated
+| <tt>⋄</tt> separated
+|-
+| [[AppleScript]]
+| newline  terminated
+|-
+| [[AutoHotkey]]
+| newline terminated
+|-
+| [[BASIC]]
+| newline terminated
+| colon separated
+|-
+| [[Boo (programming language)|Boo]]
+| newline  terminated
+|-
+| [[C (programming language)|C]]
+| semicolon terminates statements
+| comma separates expressions
+|-
+| [[C++]]
+| semicolon terminates statements
+| comma separates expressions
+|-
+| [[C Sharp (programming language)|C#]]
+| semicolon terminated
+|-
+| [[COBOL]]
+| whitespace separated, sometimes period separated, optionally separated with commas and semi-colons.
+|
+|-
+| [[Cobra (programming language)|Cobra]]
+| newline terminated
+|-
+| [[CoffeeScript]]
+| newline  terminated
+|-
+| [[D (programming language)|D]]
+| semicolon terminated
+|-
+| [[Eiffel (programming language)|Eiffel]]
+| newline terminated
+| semicolon
+|-
+| [[Erlang (programming language)|Erlang]]
+| colon separated, period terminated
+|-
+| [[F Sharp (programming language)|F#]]
+| newline terminated
+| semicolon
+|-
+| [[Fortran]]
+| newline terminated
+| semicolon
+|-
+| [[Forth (programming language)|Forth]]
+| semicolons terminate word definitions
+|-
+| [[GFA BASIC]]
+| newline terminated
+|-
+| [[Go (programming language)|Go]]
+| semicolon separated (inserted by compiler)
+|-
+| [[Haskell (programming language)|Haskell]] (in do-notation)
+| newline separated
+|-
+| [[Haskell (programming language)|Haskell]] (in do-notation, when braces are used)
+| semicolon separated
+|-
+| [[Java (programming language)|Java]]
+| semicolon terminated
+|-
+| [[JavaScript]]
+| semicolon separated (but sometimes implicitly inserted on newlines)
+|-
+|[[Kotlin (programming language)|Kotlin]]
+|semicolon separated (but sometimes implicitly inserted on newlines)
+|-
+| [[Lua (programming language)|Lua]]
+| whitespace separated (semicolon optional)
+|-
+| [[Mathematica]]
+| semicolon separated
+|-
+| [[MATLAB]]
+| newline terminated
+| semicolon or comma<ref>semicolon – result of receding statement hidden, comma – result displayed</ref>
+|-
+| [[Object Pascal]] ([[Delphi (programming language)|Delphi]])
+| semicolon separated
+|-
+| [[Objective-C]]
+| semicolon terminated
+|-
+| [[OCaml]]
+| semicolon separated
+|-
+| [[Pascal (programming language)|Pascal]]
+| semicolon separated
+|-
+| [[Perl]]
+| semicolon separated
+|-
+| [[Perl 6]]
+| semicolon separated
+|-
+| [[PHP]]
+| semicolon terminated
+|-
+| [[Pick Basic]]
+| newline terminated
+| semicolon separated
+|-
+| [[PowerShell]]
+| newline terminated
+| semicolon separated
+|-
+| [[Prolog]]
+| period  terminated
+|-
+| [[Python (programming language)|Python]]
+| newline  terminated
+| semicolon
+|-
+| [[Ruby (programming language)|Ruby]]
+| newline  terminated
+| semicolon
+|-
+| [[Rust (programming language)|Rust]]
+| semicolon terminates statements
+| comma separates expressions
+|-
+| [[Scala (programming language)|Scala]]
+| newline terminated (semicolon optional)
+| semicolon
+|-
+| [[Seed7]]
+| semicolon separated (semicolon termination is allowed)
+|-
+| [[Simula]]
+| semicolon separated
+|-
+| [[S-Lang (programming language)|S-Lang]]
+| semicolon separated
+|-
+| [[Smalltalk]]
+| period separated
+|-
+| [[Standard ML]]
+| semicolon separated
+|-
+| [[Swift (programming language)|Swift]]
+| semicolon separated (inserted by compiler)
+|-
+| [[Visual Basic]]
+| newline terminated
+| colon separated
+|-
+| [[Visual Basic .NET]]
+| newline terminated
+| colon separated
+|-
+| [[Wolfram Language]]
+| semicolon separated
+|-
+| [[Xojo]]
+| newline terminated
+|-

@@ -5,9 +5,10 @@ const _ = require('lodash')
 
 // Setup — set these constants then run the script
 
-const filename = 'timeline_of_programming_languages'
-const url = 'https://en.wikipedia.org/wiki/Timeline_of_programming_languages'
-const column_number = 2
+const filename = 'comparison_of_programming_languages_syntax_statements'
+const url =
+    'https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax)#Statements'
+const column_number = 1
 
 // End setup
 

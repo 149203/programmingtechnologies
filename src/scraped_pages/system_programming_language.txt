@@ -1,0 +1,37 @@
+|-
+| [[Executive Systems Problem Oriented Language|ESPOL]] || [[Burroughs Corporation]] || 1961 || [[Algol 60]] || [[MCP (Burroughs Large Systems)|MCP]]
+|-
+| [[PL/I]] || [[IBM]], [[SHARE (computing)|SHARE]] || 1964 || Algol, FORTRAN, some COBOL || [[Multics]]
+|-
+| [[PL360]] || [[Niklaus Wirth]] || 1968 || Algol 60 || [[ALGOL W|Algol W]]
+|-
+| [[C (programming language)|C]] || [[Dennis Ritchie]] || 1969 || [[BCPL]] || Most [[Kernel (operating system)|operating system kernels]], including [[Windows NT]] and most [[Unix-like]] systems
+|-
+| [[PL/S]] || [[Ibm|IBM]] || 196x || [[PL/I]] || [[OS/360]]
+|-
+| [[BLISS]] || [[Carnegie Mellon University]] || 1970 || Algol-PL/I<ref>{{cite journal|last=Wulf|first=W.A. |author2=Russell, D.B. |author3=Haberman, A.N.|title=BLISS: A Language for Systems Programming|journal=Communications of the ACM|date=December 1971|volume=14|issue=12|pages=780–790|url=http://dl.acm.org/citation.cfm?doid=362919.362936|accessdate=January 11, 2014}}</ref> || [[OpenVMS|VMS]] (portions)
+|-
+| [[PL/I#Special purpose and system PL/I compilers|PL/8]] || [[Ibm|IBM]] || 197x || [[PL/I]] || [[IBM AIX|AIX]]
+|-
+| [[PL-6]] || [[Honeywell, Inc.]] || 197x || [[PL/I]] || [[Honeywell CP-6|CP-6]]
+|-
+| [[SYMPL]] || [[Control Data Corporation|CDC]] || 197x || [[JOVIAL (programming language)|JOVIAL]] || [[NOS (software)|NOS]] subsystems, most compilers, FSE editor
+|-
+| [[C++]] || [[Bjarne Stroustrup]] || 1979 || [[C (programming language)|C]], [[Simula]] || See C++ Applications<ref>{{cite web|url=http://www.stroustrup.com/applications.html|title=C++ Applications|publisher=}}</ref>
+|-
+| [[Ada (programming language)|Ada]] || [[Jean Ichbiah]], [[S. Tucker Taft]] || 1983 || [[Algol&nbsp;68]], [[Pascal (programming language)|Pascal]], [[C++]], [[Java (programming language)|Java]], [[Eiffel (programming language)|Eiffel]] || Embedded systems, OS kernels, compilers, games, simulations, [[CubeSat]], air traffic control, and avionics
+|-
+| [[D (programming language)|D]] || [[Digital Mars]] || 2001 || [[C++]] || [https://dlang.org/orgs-using-d.html Multiple domains]
+|-
+| [[Nim (programming language)|Nim]] || Andreas Rumpf || 2008 || [[Ada (programming language)|Ada]], [[Modula-3]], [[Lisp (programming language)|Lisp]], [[C++]], [[Object Pascal]], [[Python (programming language)|Python]], [[Oberon (programming language)|Oberon]] || OS kernels, compilers, games
+|-
+|[[Go (programming language)|Go]]
+|[[Google]]
+|2009
+|[[Alef (programming language)|Alef]], [[APL (programming language)|APL]], [[BCPL]], [[C (programming language)|C]], [[Communicating sequential processes|CSP]], [[Limbo (programming language)|Limbo]], [[Modula]], [[Newsqueak]], [[Oberon (programming language)|Oberon]], [[Occam (programming language)|occam]], [[Pascal (programming language)|Pascal]], [[Smalltalk]]
+|Web servers<ref>{{Cite web|url=https://golang.org/doc/faq#internal_usage|title=Frequently Asked Questions (FAQ) - The Go Programming Language|website=golang.org|access-date=2018-12-11}}</ref>, back-end development
+|-
+| [[Rust (programming language)|Rust]] || [[Mozilla Research]]<ref>{{cite web|url=https://www.mozilla.org/en-US/research/|title=Mozilla Research|date=1 January 2014}}</ref> || 2010 || [[C++]], [[Haskell (programming language)|Haskell]], [[Erlang (programming language)|Erlang]], [[Ruby (programming language)|Ruby]] || [[Servo layout engine]], [[Redox OS]]
+|-
+| [[Swift (programming language)|Swift]] || [[Apple Inc.]] || 2014 || [[C (programming language)|C]], [[Objective-C]], [[Rust (programming language)|Rust]] || [[macOS]], [[iOS]] app development {{Efn|Swift uses [[Automatic Reference Counting|automatic reference counting]]}}
+|-
