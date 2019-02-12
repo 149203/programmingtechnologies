@@ -20,7 +20,8 @@ const rows = /(?<=(\|\-)).+?(?=(\|\-))/gs
 const columns = /(?!(\|))(?!(\s)).+/g
 const wiki_link = /(?<=\[\[).*?\|?.*?(?=\]\])/
 const beginning_brackets = /^\[\[/
-const ending_syntax = /\s?(\(|\-|\||#|]).+/
+const ending_syntax_with_space = /\s(\(|\-).+/
+const ending_syntax = /(#|]|\|).+/
 const sharp = /\s+sharp$/i
 
 // End RegExps
@@ -54,6 +55,7 @@ try {
 function format_name(column) {
     return column
         .replace(beginning_brackets, '')
+        .replace(ending_syntax_with_space, '')
         .replace(ending_syntax, '')
         .replace(sharp, '#')
 }
