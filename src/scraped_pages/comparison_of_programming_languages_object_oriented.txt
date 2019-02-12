@@ -1,0 +1,111 @@
+|-
+| [[ABAP Objects]]
+| <code>'''data''' variable '''type ref to''' class '''.'''<br />'''create object''' variable «'''exporting''' parameter = argument».</code><ref>'''parameter = argument''' may be repeated if the constructor has several parameters</ref>
+|<ref>[[SAP R/3|SAP]] reserved to himself the use of destruction</ref><ref name="gc">This language uses [[garbage collection (computer science)|garbage collection]] to release unused memory.</ref><!-- I'm not sure if that is the best way to say that. -->
+|-
+| [[C++]] ([[Standard Template Library|STL]])
+| <code>class variable«'''('''parameters''')'''»''';'''</code> or<br /><code>class '''[[Pointer (computer programming)|*]]'''variable '''= [[new (C++)|new]] '''class«'''('''parameters''')'''»''';'''</code>
+| <code>'''[[delete (C++)|delete]]''' pointer''';'''</code>
+|-
+| [[C Sharp (programming language)|C#]]
+| rowspan=3|<code>class variable '''= new''' class'''('''parameters''');</code>
+| <code>variable'''.Dispose();'''</code><ref name="gc" />
+|-
+| [[Java (programming language)|Java]]
+|<ref name="gc" />
+|-
+| [[D (programming language)|D]]
+| <code>'''destroy('''variable''');'''</code>
+|-
+| [[eC (programming language)|eC]]
+| <code>class «instance handle» '''{''' «properties/data members assignments, instance method overrides» '''}'''</code>
+| <code>'''delete''' instance handle''';'''</code>
+|-
+| [[Objective-C]] ([[Cocoa (API)|Cocoa]])
+| <code>class '''[[Pointer (computer programming)|*]]'''variable '''= [['''class''' alloc ] init];'''</code> or <br /><code>class '''[[Pointer (computer programming)|*]]'''variable '''= [['''class''' alloc ] '''initWithFoo''':'''parameter «bar''':'''parameter ...»'''];'''</code>
+| <code>'''['''variable '''release];'''</code>
+|-
+| [[Swift (programming language)|Swift]]
+| <code>'''let''' variable '''=''' class'''('''parameters''')'''</code>
+| 
+|-
+| [[Python (programming language)|Python]]
+| <code>variable '''=''' class'''('''parameters''')'''</code>
+| <code>'''del''' variable</code><ref name="gc" /> (Normally not needed)
+|-
+| [[Visual Basic .NET]]
+| <code>'''Dim''' variable '''As New''' class'''('''parameters''')'''</code>
+| <code>variable'''.Dispose()'''</code><ref name="gc" />
+|-
+| [[Xojo]]
+| <code>'''Dim''' variable '''As New''' class'''('''parameters''')'''</code>
+| <code>variable = '''Nil'''</code>
+|-
+| [[Eiffel (programming language)|Eiffel]]
+| <code>'''create''' variable</code> or<br /><code>'''create''' «'''{'''TYPE'''}'''» variable'''.'''make_foo «'''('''parameters''')'''»</code> or<br /><code>variable ''':= create''' '''{'''TYPE'''}'''</code> or<br /><code>variable ''':= create {'''TYPE'''}.'''make_foo «'''('''parameters''')'''» </code>
+|<ref name="gc" />
+|-
+| [[PHP]]
+| <code>'''[[sigil (computer programming)|$]]'''variable '''= new''' class'''«('''parameters''')»;'''</code>
+| <code>'''unset($'''variable''');'''</code><ref name="gc" />
+|-
+| [[Perl]] 5
+| <code>«'''my '''»'''$'''variable '''=''' class'''->new'''«'''('''parameters''')'''»''';'''</code>
+| <code>'''undef($'''variable''');'''</code>
+|-
+| [[Perl 6]]
+| <code>«'''my '''»$variable '''=''' class'''.new'''«'''('''parameters''')'''»''';'''</code>
+| <code>$variable'''.undefine;'''</code>
+|-
+| [[Ruby (programming language)|Ruby]]
+| <code>variable '''=''' class'''.new'''«'''('''parameters''')'''»</code>
+|<ref name="gc" />
+|-
+| [[Windows PowerShell]]
+| <code>'''$'''variable '''= New-Object '''«'''-TypeName'''» class ««'''-ArgumentList'''» parameters»</code>
+| <code>'''Remove-Variable''' «'''-Name'''» variable</code>
+|-
+| [[OCaml]]
+| <code>'''let''' variable '''= new''' class «parameters»</code> or <br /><code>'''let''' variable '''= object''' members '''end'''</code><ref>OCaml objects can be created directly without going through a class.</ref>
+| rowspan=2|<ref name="gc" />
+|-
+| [[F Sharp (programming language)|F#]]
+| <code>'''let''' variable '''= '''«'''new''' »class'''('''«parameters»''')'''</code>
+|-
+| [[Smalltalk]]
+| The class is an Object.<br/>Just send a message to a class, usually <code>#new</code> or <code>#new:</code>, and many others, for example:
+<source lang="smalltalk">
+Point x: 10 y: 20.
+Array with: -1 with: 3 with: 2.
+</source>
+|
+|-
+| [[JavaScript]]
+| <code>'''var''' variable '''= new''' class«(parameters)»</code> or <br /><code>'''var''' variable '''= {''' «key1''':''' value1«''',''' key2''':''' value2 ...»»'''}'''</code>
+|<ref name="gc" />
+|-
+| {{nowrap|[[Object Pascal]]}} ([[Delphi (programming language)|Delphi]])
+| <code>ClassVar ''':=''' ClassType.ConstructorName'''('''parameters''');</code>
+| <code>ClassVar'''.Free;'''</code>
+|-
+| [[Scala (programming language)|Scala]]
+| <source lang="scala">
+val obj = new Object // no parameters
+val obj = new Object(arg0, arg1, arg2...)
+val obj = Object(arg0, arg1, arg2...) // case class
+val obj = new Object(arg0, arg1, param1 = value1, ...) // named parameters
+</source>
+|<ref name="gc" />
+|-
+| [[COBOL]]
+| <code>'''INVOKE''' class '''"NEW"''' '''RETURNING''' variable</code> or<br/><code>'''MOVE''' class'''::"NEW"''' '''TO''' variable</code>
+|
+|-
+| [[Cobra (programming language) |Cobra]]
+| <code>variable «'''as''' class» '''=''' class'''('''parameters''')'''</code>
+| <code>variable'''.dispose'''</code>
+|-
+| [[ISLISP]]
+| <code>('''setq''' variable ('''create''' ('''class''' <some-class> [:field-1 value-1 [:field-2 value-2] ..])))</code>
+| <ref name="gc" />
+|-

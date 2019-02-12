@@ -1,0 +1,32 @@
+{
+    "filename": "comparison_of_programming_languages_object_oriented.json",
+    "url": "https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(object-oriented_programming)#Object_construction_and_destruction",
+    "technologies": [
+        "ABAP Objects",
+        "C#",
+        "COBOL",
+        "Cobra",
+        "Cocoa",
+        "D",
+        "Delphi",
+        "eC",
+        "Eiffel",
+        "F#",
+        "ISLISP",
+        "Java",
+        "JavaScript",
+        "OCaml",
+        "Perl",
+        "Perl 6",
+        "PHP",
+        "Python",
+        "Ruby",
+        "Scala",
+        "Smalltalk",
+        "Standard Template Library",
+        "Swift",
+        "Visual Basic .NET",
+        "Windows PowerShell",
+        "Xojo"
+    ]
+}

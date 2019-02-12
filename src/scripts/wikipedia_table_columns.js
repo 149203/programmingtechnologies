@@ -5,9 +5,8 @@ const _ = require('lodash')
 
 // Setup — set these constants then run the script
 
-const filename = 'comparison_of_programming_languages_general_comparison'
-const url =
-    'https://en.wikipedia.org/wiki/Comparison_of_programming_languages#General_comparison'
+const filename = 'timeline_of_programming_languages'
+const url = 'https://en.wikipedia.org/wiki/Timeline_of_programming_languages'
 const column_number = 2
 
 // End setup
@@ -45,7 +44,10 @@ try {
         })
     })
 
-    json_output.technologies = _.sortBy(_.uniq(json_output.technologies))
+    json_output.technologies = _.sortBy(
+        _.uniq(json_output.technologies),
+        technology => _.toLower(technology)
+    )
 
     fs.writeFileSync(
         `../../lists_by_page/${filename}.json`,
