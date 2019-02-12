@@ -5,14 +5,16 @@ const _ = require('lodash')
 
 // Setup — set these constants then run the script
 
-const filename = 'general_purpose_programming_language'
-const url = 'https://en.wikipedia.org/wiki/General-purpose_programming_language'
+const filename = 'fourth_generation_programming_language'
+const url =
+    'https://en.wikipedia.org/wiki/Fourth-generation_programming_language#Examples'
 
 // End setup
 
 // RegExps
 
 const link_text = /(?<=\*\s?\[\[)(.+?)(?=\]\])/gm
+const parentheticals = /\s\(.*$/gm
 
 /*
 const rows = /(?<=(\|\-)).+?(?=(\|\-))/gs
@@ -42,11 +44,13 @@ try {
         const pipe_location = _.lastIndexOf(technology, '|')
 
         if (pipe_location > 0) {
+            console.log(_.join(_.slice(technology, pipe_location + 1), ''))
             json_output.technologies.push(
-                _.join(_.slice(technology, pipe_location + 1), '')
+                format_name(_.join(_.slice(technology, pipe_location + 1), ''))
             )
         } else {
-            json_output.technologies.push(technology)
+            console.log(technology)
+            json_output.technologies.push(format_name(technology))
         }
     })
 
@@ -63,10 +67,6 @@ try {
     console.log('Error:', e.stack)
 }
 
-function format_name(column) {
-    return column
-        .replace(beginning_brackets, '')
-        .replace(ending_syntax_with_space, '')
-        .replace(ending_syntax, '')
-        .replace(sharp, '#')
+function format_name(technology) {
+    return technology.replace(parentheticals, '')
 }

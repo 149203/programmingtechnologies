@@ -1,0 +1,150 @@
+*[[Accelerator (software)|Accelerator]] (Productivity)
+*[[ACCELL/SQL|Accell/SQL (4GL)]] from [[Gupta Technologies|Unify Corporation]].
+*[[CA-Telon]] 4GL Cobol/PLI generator 
+*[[Clarion (programming language)|Clarion]]
+*[[Clipper (programming language)|Clipper]]
+*[[Powerhouse (programming language)|Cognos PowerHouse 4GL]]
+*[[DataFlex]]
+*[[FOCUS]]
+*[[Forte 4GL|Forté TOOL (transactional object-oriented language)]]
+*[[GeneXus]]
+*[[Harbour]]
+*IBM Rational EGL ([[Enterprise Generation Language]])
+*[[LabVIEW]]
+*[[LANSA (development environment)|LANSA]]
+*[[LINC 4GL|LINC]]
+*[[LiveCode]]
+*[[NATURAL]]
+* New Horizon
+*[[Omnis Studio]] SDK
+*[[Oracle Application Development Framework]]
+*[[OutSystems]] (Productivity/PaaS)
+*[[PowerBuilder]]
+*[[Digital Equipment Corporation|DEC]] RALLY
+*[[SheerPower4GL]] (Microsoft Windows only)
+*[[SQLWindows]]/[[Team Developer]]
+*[[Uniface (programming language)|Uniface]]
+*[[Unix Shell]]
+*[[Visual DataFlex]] (Microsoft Windows only)
+*[[Visual FoxPro]]
+*[[XBase++]]
+{{div col end}}
+
+===Database [[query language]]s===
+*[[FOCUS]]
+*[[4th Dimension (software)|4D QL]]
+*[[Informix-4GL]]
+*[[NATURAL]]
+*[[OpenEdge Advanced Business Language|OpenEdge ABL]]
+*[[OpenROAD|OpenROAD (Ingres 4GL)]]
+*[[Ramis software|Ramis]]
+*[[SQL]]
+
+===Report generators===
+*[[LINC 4GL|LIRC]]
+*[[Oracle Reports]]
+*[[Progress 4GL]] Query/Results
+*[[RPG programming language|RPG-II]]
+Extract data from files or database to create reports in a wide range of formats is done by the report generator tools.
+
+===Data manipulation, analysis, and reporting languages===
+{{div col|colwidth=25em}}
+*[[Ab Initio (company)|Ab Initio]]
+*[[ABAP]]
+*[[Audit Command Language]]
+*[[Clarion Programming Language]]
+*[[CorVision]]
+*[[Cullinet|Culprit]]
+*[[Cullinet|ADS/Online]] (plus transaction processing)
+*[[Easytrieve]]
+*[[FOCUS]]
+*[[GraphTalk]]
+*[[IDL (programming language)|IDL]]
+*[[IGOR Pro]]
+*[[Informix-4GL]]
+*[[JMP (statistical software)|JSL]]
+*[[LANSA (development environment)|LANSA]]
+*[[LabVIEW]]
+*[[LiveCode]]
+*[[Cincom|MANTIS]]
+*[[MAPPER (Software)|MAPPER]] ([[Unisys|Unisys/Sperry]]) now part of BIS
+*[[MARK-IV (Software)|MARK-IV]] ([[Sterling Software|Sterling/Informatics]]) now VISION:BUILDER of CA
+*[[Simulink]] a component of [[MATLAB]]
+*[[NATURAL]]
+*[[Nomad software|Nomad]]
+*[[GNU Octave|Octave]]
+*[[PL/SQL]]
+*[[Progress 4GL]]
+*[[PROIV]]
+*[[R programming language|R]]
+*[[Ramis software|Ramis]]
+*[[S programming language|S]]
+*[[Scilab]]
+*[[SAS Institute|SAS]]
+*[[SPSS]]
+*[[SQL PL]]
+*[[SQR]]
+*[[Stata]]
+*[[Synon]]
+*[[Wolfram Language]]
+*[[XBase++]]
+*[[Xquery]]
+*[[siva]]{{dn|date=December 2018}}
+{{div col end}}
+
+===[[GUI]] creators===
+{{div col|colwidth=25em}}
+*[[4th Dimension (Software)]]
+*[[LiveCode]]
+*[[MATLAB]]'s GUIDE
+*[[Omnis Studio]]
+*[[OpenROAD]]
+*[[Progress 4GL]] AppBuilder
+*[[SuperTalk]]
+*[[Visual DataFlex]]
+*[[XUL]] Can be used with [[Xquery]]
+{{div col end}}
+
+===Mathematical optimization===
+*[[AIMMS]]
+*[[AMPL]]
+*[[General Algebraic Modeling System|GAMS]]
+*[[MathProg]]
+*[[MATLAB]]
+
+===Database-driven GUI application development===
+*[[C/AL]]
+*[[Genexus]]
+*[[IBM SystemBuilder|SB+/SystemBuilder]]
+*[[Unify VISION]]
+
+===Low code / No code development platforms<ref>{{cite web|url=https://www.pcmag.com/roundup/353252/the-best-low-code-development-platforms|title=The Best Low-Code Development Platforms for 2019|first1=By Rob|last1=Marvin|first2=2018 1:50PM EST|last2=August 10|first3=2018|last3=August 10|website=PCMAG}}</ref><ref>{{cite web|url=https://www.infoworld.com/article/3214637/mobile-development/25-simple-tools-for-building-mobile-apps-fast.html|title=25 simple tools for building mobile apps fast|first=Martin Heller and Peter|last=Sayer|date=6 April 2018|website=InfoWorld}}</ref>===
+
+{{div col|colwidth=25em}}
+*[[Appcelerator]]
+*[https://appfarm.io/ Appfarm]
+*[[Appian Corporation|Appian]]
+*[[Bizagi]]
+*[[K2]]<ref>{{cite web|url=https://www.k2.com/|title=K2 - Digital Process Automation|website=www.k2.com}}</ref>
+*[[Kony, Inc.|Kony]]<ref>{{cite web|url=https://www.kony.com/|title=Kony. Accelerate digital success.|website=Kony}}</ref>
+*[[LANSA (development environment)|LANSA]]
+*[[Mendix]]
+*[[OutSystems]]
+*[[PNMsoft]]
+*[[Progress 4GL|Progress]]
+*[[ServiceNow]]
+*[[ViziApps]]
+*[https://getzenbase.com ZenBase]
+{{div col end}}
+
+===Screen painters and generators===
+*[[Oracle Forms]]
+*[[Progress 4GL]] ProVision
+*[[IBM SystemBuilder|SB+/SystemBuilder]]
+
+===Web development languages===
+*[[ActiveVFP]]
+*[[CFML]]
+*[[LANSA (development environment)|LANSA]]
+*[[OutSystems]]
+*[[Wavemaker]]
