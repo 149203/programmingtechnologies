@@ -5,9 +5,9 @@ const _ = require('lodash')
 
 // Setup — set these constants then run the script
 
-const filename = 'list_of_content_management_systems'
+const filename = 'comparison_of_single-board_computers'
 const url =
-    'https://en.wikipedia.org/wiki/List_of_content_management_systems#Free_and_open_source_software'
+    'https://en.wikipedia.org/wiki/Comparison_of_single-board_computers#General_comparison'
 const column_number = 1
 
 // End setup

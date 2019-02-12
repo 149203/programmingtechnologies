@@ -1,0 +1,411 @@
+|-
+| [[Novasom Industries]] || [[M7]] || RK3328 || 2018/10
+|-
+| [[Novasom Industries]] || [[M8]] || Snapdragon 410E || 2019/01
+|-
+| [[Novasom Industries]] || [[U5]] || NXP i.MX6ULL || 2017/11
+|-
+| [[Novasom Industries]] || [[M11]] || Intel Apollo Lake N42 || 2019/02
+|-
+| [[Novasom Industries]] || [[U1]] || Esp32 || 2018/01
+|-
+| [[Novasom Industries]] || [[N1]] || NXP LS1012 Layerscape QorIQ || 2018/09
+|-
+| [[Novasom Industries]] || [[P6]] || NXP iMX6 solo || 2017/01
+|-
+| [[Novasom Industries]] || [[P7]] || NXP iMX6 Dual lite || 2017/01
+|-
+| [[Novasom Industries]] || [[P8]] || NXP iMX6 Quad || 2017/01
+|-
+| [[Novasom Industries]] || [[S6]] || NXP iMX6 solo || 2016/01
+|-
+| [[Novasom Industries]] || [[S7]] || NXP iMX6 Dual lite || 2016/01
+|-
+| [[Novasom Industries]] || [[S8]] || NXP iMX6 Quad || 2016/01
+|-
+|Khadas
+|VIM2 Max
+|AMLogic S912
+|2017/08
+|-
+|Khadas
+|VIM2 Pro
+|AMLogic S912
+|2017/08
+|-
+|Khadas
+|VIM2 Basic
+|AMLogic S912
+|2017/08
+|-
+|Khadas
+|VIM2 Lite
+|S905D
+|2017/08
+|-
+|Khadas
+|VIM1
+|AMLogic S905X
+|2016/11
+|-
+| F&S Elektronik Systeme GmbH
+| armStone || A5<ref name="armstonea5">{{cite web |url=http://www.fs-net.de/en/products/armstone/armstonea5/ |title=armStone™A5 » F&S Elektronik Systeme GmbH |publisher=F&S Elektronik Systeme GmbH |accessdate=2014-08-17 }}</ref> || 2013/02 
+|-
+|F&S Elektronik Systeme GmbH
+| armStone  || A8<ref name="armstonea8">{{cite web |url=http://www.fs-net.de/en/products/armstone/armstonea8/ |title=armStone™A8 » F&S Elektronik Systeme GmbH |publisher=F&S Elektronik Systeme GmbH |accessdate=2014-08-17 }}</ref> || 2011/02 
+|-
+|F&S Elektronik Systeme GmbH
+| armStone || A9<ref name="armstonea9">{{cite web |url=http://www.fs-net.de/en/products/armstone/armstonea9/ |title=armStone™A9 » F&S Elektronik Systeme GmbH |publisher=F&S Elektronik Systeme GmbH |accessdate=2014-08-17 }}</ref> || 2012
+|-
+| || [[Arndale Board]]<ref name="Arndale Board">{{cite web| url=http://www.arndaleboard.org/wiki/index.php/Main_Page| title=ArndaleBoard.org| accessdate=2015-04-24| archive-url=https://web.archive.org/web/20130926124911/http://www.arndaleboard.org/wiki/index.php/Main_Page| archive-date=2013-09-26| dead-url=yes| df=}}</ref>|| 5250-AA || 2012/10 
+|-
+| || Arndale Octa ||  || 2013/10
+|-
+| [[Asus]] || [[Asus Tinker Board]] || RK3288 || 2017/01
+|-
+| Shenzhen SINOVOIP Co,Ltd || [[Banana Pi]]<ref name="banana-pi">{{cite web |url=http://www.bananapi.org/p/product.html |title=Banana Pi |accessdate=2014-07-22}}</ref> || || 2014/03 
+|-
+| Shenzhen SINOVOIP Co,Ltd || [[Banana Pi#Banana Pi M1+|Banana Pi BPI-M1+]] || [[Allwinner Technology|allwinner]] A20 || 2014/12 
+|-
+| Shenzhen SINOVOIP Co,Ltd || [[Banana Pi#Banana Pi M2|Banana Pi BPI-M2]] || [[Allwinner Technology|allwinner]] A31S  || 2015 
+|-
+| Shenzhen SINOVOIP Co,Ltd || [[Banana Pi#Banana Pi M3|Banana Pi BPI-M3]] || [[Allwinner Technology|allwinner]] A83T || 2015
+|-
+| Shenzhen SINOVOIP Co,Ltd || [[Banana Pi#Banana Pi M2+(Plus)|Banana Pi BPI-M2+]] || [[Allwinner Technology|allwinner]] H3  || 2016 
+|-
+| Shenzhen SINOVOIP Co,Ltd || [[Banana Pi#Banana Pi BPI-M2 Zero|Banana Pi BPI-M2 Zero]]|| [[Allwinner Technology|allwinner]] H2+ || 2017 
+|-
+| Shenzhen SINOVOIP Co,Ltd || [[Banana Pi#Banana Pi BPI-P2 Zero|Banana Pi BPI-P2 Zero]]|| [[Allwinner Technology|allwinner]] H2+ || 2018
+|-
+| Shenzhen SINOVOIP Co,Ltd || [[Banana Pi#Banana Pi M2 Berry|Banana Pi BPI-M2 berry]] || [[Allwinner Technology|allwinner]] V40  || 2016 
+|-
+| Shenzhen SINOVOIP Co,Ltd || [[Banana Pi#Banana Pi M2 Ultra|Banana Pi BPI-M2 Ultra]] || [[Allwinner Technology|allwinner]] R40  || 2016 
+|-
+| Shenzhen SINOVOIP Co,Ltd || [[Banana Pi#Banana Pi M2 Magic|Banana Pi BPI-M2 Magic]]|| [[Allwinner Technology|allwinner]] A33/R16  || 2016 
+|-
+| Shenzhen SINOVOIP Co,Ltd || [[Banana Pi#Banana Pi BPI-R1|Banana Pi BPI-R1]] || [[Allwinner Technology|allwinner]] A20  || 2015 
+|-
+| Shenzhen SINOVOIP Co,Ltd || [[Banana Pi#Banana Pi BPI-R2|Banana Pi BPI-R2]] || MTK 7623N  || 2017 
+|-
+| Shenzhen SINOVOIP Co,Ltd || [[Banana Pi#Banana Pi BPI-R64|Banana Pi BPI-R64]]|| MTK 7622 || 2018 
+|-
+| Shenzhen SINOVOIP Co,Ltd || [[Banana Pi#Banana Pi BPI-W2|Banana Pi BPI-W2]]|| RealTek RTD1296 || 2018 
+|-
+| [[BeagleBoard.org Foundation]] || [[BeagleBoard]] || D || 2012/10 
+|-
+| [[BeagleBoard.org Foundation]] || [[BeagleBoard#BeagleBoard-xM|BeagleBoard-xM]] || C2 || 2010/09 
+|-
+| [[BeagleBoard.org Foundation]] || [[BeagleBoard#BeagleBone|BeagleBone]] || A6A || 2011/10 
+|-
+| [[BeagleBoard.org Foundation]] || [[BeagleBoard#BeagleBone Black|BeagleBone Black]] || C || 2013/04 
+|-
+| || Boardcon EM210<ref name="Boardcon EM210 SBC">{{cite web|url=http://www.armdesigner.com/EM210/|title=Boardcon EM210|accessdate=2012-07-25}}</ref>
+|S5PV210
+|2012/2 
+|-
+| || Boardcon EM3399<ref name="Boardcon EM3399 SBC">{{cite web|url=http://www.armdesigner.com/EM3399/|title=Boardcon Embedded Design-EM3399 SBC|accessdate=2017-02-23}}</ref>
+|Rockchip RK3399
+|2017/02
+|-
+| [[Linaro Community Board Group]] || [[96Boards]] Bubblegum96<ref>{{Cite news|url=https://www.96boards.org/product/bubblegum-96/|title=Bubblegum-96|date=2017-07-26|work=96Boards|access-date=2017-08-03}}</ref><ref>{{Cite news|url=http://news.softpedia.com/news/ubuntu-snappy-core-now-officially-available-for-ucrobotics-bubblegum-96-board-506947.shtml|title=Ubuntu Snappy Core Now Officially Available for uCRobotics' Bubblegum-96 Board|last=Nestor|first=Marius|work=softpedia|access-date=2017-08-03}}</ref>
+|[[Actions Semiconductor|Actions Semi]] S900
+|2015
+|-
+| || [[CHIP (computer)|C.H.I.P.]] || || 2015/05 
+|-
+| || Cosmic+ Board<ref name="cosmic-board">{{cite web |url=http://www.phytec.com/products/single-board-computers/cosmic-vybrid/ |title=Cosmic-Vybrid - PHYTEC America, LLC. |accessdate=2014-08-05}}</ref> || || 2013/07 
+|-
+| || [[Cubieboard]] || || 2012/09 
+|-
+| || [[Cubieboard#Cubieboard2|Cubieboard 2]] || || 2013/06 
+|-
+| || [[Cubieboard#Cubietruck|Cubieboard 3]] || || 2013/10 
+|-
+| || [[Cubieboard#Cubieboard 8|Cubieboard 4 / CC-A80]] || Octo || 2014
+|-
+| [[SolidRun]] || CuBox-i<ref name="cubox-i-specs">{{cite web|url=https://www.solid-run.com/nxp-family/cubox-i/cubox-i-specifications/|title=CuBox-i Specifications|last=|first=|date=|website=|accessdate=2014-07-22}}</ref><ref name="cubox-i-hw">{{cite web|url=http://www.solid-run.com/wiki/CuBox-i_Hardware|title=CuBox-i Hardware|last=|first=|date=|website=|archive-url=https://web.archive.org/web/20150108205556/http://www.solid-run.com/wiki/CuBox-i_Hardware|archive-date=2015-01-08|dead-url=yes|accessdate=2015-01-22}}</ref>|| i1, i2, i2eX, i2ultra, TV,i4Pro || 2013/11 
+|-
+|[[SolidRun]]
+|HummingBoard-i<ref>{{Cite news|url=https://www.solid-run.com/nxp-family/hummingboard/hummingboard-specifications/|title=HummingBoard Specifications - SolidRun|work=SolidRun|access-date=2018-06-08|language=en-US}}</ref>
+|Base, Pro, Gate, Edge
+|
+|-
+| [[Linaro Community Board Group]] || [[96Boards]] Dragonboard 410c<ref>{{cite web |url=https://www.96boards.org/products/ce/dragonboard410c/ |title=Welcome to the DragonBoard™ 410c |website=www.96boards.org |accessdate=2015-11-24}}</ref> || [[List of Qualcomm Snapdragon systems-on-chip|Snapdragon]] 410 (APQ8016) || 2015/09 
+|-
+| [[Globalscale Technologies]] || [[DreamPlug]] || || 2011/02 
+|-
+| || Embest SBC8600B<ref name="embest-sbc8600b">{{cite web |url=http://www.embest-tech.com/resource/download/SBC8600B.pdf |title=Embest SBC8600B Single Board Computer |accessdate=2014-07-20}}</ref> || || 2013/01 
+|-
+| || [[WinSystems, Inc|WinSystems]] ||EPX-C380-D<ref name="winsystems-epx-c80-d">{{cite web |url=http://www.winsystems.com/product/epx-c380-d2-1/ |title=Industrial EPIC SBC with dual-core Intel D510 CPU and dual Ethernet |accessdate=2016-11-14}}</ref> || 2015/10 
+|-
+| || Espressobin || 3700LP (2x A53)<ref>http://wiki.espressobin.net/tiki-index.php</ref> || 2017
+|-
+| || Firefly-RK3288<ref name="Firefly-RK3288 Board">{{cite web | url=http://en.t-firefly.com/en/firenow/firefly_rk3288/| title=en.t-firefly.com|accessdate=2015-06-19}}</ref>|| RK3288 || 2014 
+|-
+| || Firefly-RK3288 Plus || RK3288 || 2015/01
+|-
+| || Firefly-RK3399<ref>{{Cite web|url=http://wiki.t-firefly.com/index.php/Firefly-RK3399/en|title=Firefly-RK3399 - Firefly wiki|website=wiki.t-firefly.com|access-date=2017-11-14}}</ref>
+|RK3399
+|2016/12
+|-
+| || [[Foxconn]] AT-5570<ref name="foxconn-at5570">{{cite web |url=http://www.foxconnchannel.com/ProductDetail.aspx?T=NanoPC&U=en-us0000019 |title=Foxconn PRODUCT: NanoPC Barebones: Details |accessdate=2014-08-02}}</ref> || || 2012/11 
+|-
+| || [http://www.forlinx.net Forlinx] OK335xD<ref name="forlinx-OK335xD">{{cite web |url=http://forlinx.net/?p=26&a=view&r=46|title=Forlinx PRODUCT: NanoPC Barebones: Details |accessdate=2014-08-02}}</ref> || || 2013/03 
+|-
+| [[PlayJam]] || [[GameStick]]<ref name="gamestick">{{cite web |url=https://gamestick.tv/ |title=GameStick |accessdate=2014-07-22}}</ref> || || 2013/11 
+|-
+| || Gizmo Board<ref name="gizmoboard">{{cite web |url=http://www.gizmosphere.org/why-gizmo/gizmoboard/ |title=Gizmo Board - GizmoSphere |accessdate=2014-08-02}}</ref> || || 2013/02 
+|-
+| || [[GoWarrior]]<ref name="GoWarrior">{{cite web|title=GoWarrior|url=http://www.gowarriorosh.com/wp/en_US/whatis/|website=GoWarrior}}</ref> || TIGER Board || 2015/09 
+|-
+| Graperain || G4418<ref>{{cite web|url=https://www.graperain.com/ARM-Embedded-S5P4418-Single-Board-Computer/|title=Embedded-S5P4418-Single-Board-Computer|publisher=|accessdate=25 June 2015}}</ref>
+|Samsung S5P4418
+|2015/06
+|-
+| Graperain || G6818<ref>{{cite web|url=https://www.graperain.com/ARM-Embedded-S5P6818-Single-Board-Computer/|title=Embedded-S5P6818-Single-Board-Computer|publisher=|accessdate=25 June 2015}}</ref>
+|Samsung S5P6818
+|2015/06
+|-
+| || Gumstix Overo EarthSTORM<ref name="gumstix-overo-earthstorm">{{cite web |url=https://store.gumstix.com/index.php/products/264/ |title=Gumstix Overo EarthSTORM COM |accessdate=2014-07-26}}</ref> + Summit<ref name="gumstix-summit">{{cite web |url=https://store.gumstix.com/index.php/products/215/ |title=Gumstix Summit |accessdate=2014-07-26}}</ref> || || 2012/01 
+|-
+| || Hackberry A10<ref name="hackberry-a10">{{cite web |url=https://www.miniand.com/products/Hackberry%20A10%20Developer%20Board |title=Miniland - Product - Hackberry A10 Developer Board |accessdate=2014-08-10}}</ref> || || 2012/09
+|-
+| [[ISEE (company)|ISEE]] || IGEP || [[IGEPv2]] || 2009
+|-
+| [[Linaro Community Board Group]] || 96Boards HiKey<ref>{{cite web |url=https://www.96boards.org/products/ce/hikey |title=Welcome to the HiKey board |website=www.96boards.org |accessdate=2015-11-24}}</ref> || Rev A1 || 2015/02 
+|-
+| [[Linaro Community Board Group]] || 96Boards Hikey960<ref>{{Cite news|url=http://www.96boards.org/product/hikey960/|title=HiKey 960 - AOSP Development Board based [Buy Now] Based on 96Boards CE Specification|date=2017-07-26|work=96Boards|access-date=2017-08-03}}</ref><ref>{{Cite web|url=http://www.cnx-software.com/2017/03/04/hikey-960-development-board-powered-by-hisilicon-kirin-960-cortex-a73a53-processor-to-sell-for-239/|title=HiKey 960 Development Board Powered by Hisilicon Kirin 960 Cortex A73/A53 Processor To Sell for $239|access-date=2017-08-03}}</ref><ref>{{Cite news|url=http://gadgets.ndtv.com/laptops/news/huawei-launches-hikey-960-a-super-powered-raspberry-pi-style-development-board-1687262|title=Huawei Launches a Super-Powered Raspberry Pi-Style Mini Computer|work=NDTV Gadgets360.com|access-date=2017-08-03}}</ref>
+|[[HiSilicon]] Kirin 960
+|2017
+|-
+| [[SolidRun#HummingBoard|SolidRun]] || HummingBoard<ref name="hummingboard-specs">{{cite web |url=http://www.solid-run.com/products/hummingboard/linux-sbc-specifications/ |title=HummingBoard – Linux Single Board Computer &#124; Specifications |accessdate=2014-07-27}}</ref><ref name="hummingboard-hw">{{cite web |url=http://www.solid-run.com/wiki/HummingBoard_Hardware |title=HummingBoard Hardware |accessdate=2014-07-27}}</ref> || i1, i2, i2eX || 2014/07 
+|-
+| || Inforce 6410<ref name="Inforce 6410">{{cite web |url=http://www.inforcecomputing.com/products/single-board-computers/6410-single-board-computer-sbc |title=Inforce Computing - Product - Inforce 6410 |accessdate=2014-08-10}}</ref> || Snapdragon 600 (APQ8064)|| 2013/04 
+|-
+| || Inforce 6540<ref name="Inforce 6540">{{cite web |url=http://www.inforcecomputing.com/products/single-board-computers/6540-single-board-computer-sbc |title=Inforce Computing - Product - Inforce 6540 |accessdate=2014-10-16}}</ref> ||Snapdragon 805 (APQ8084)|| 2014/10<ref name="Inforce 6540_2">{{cite web |url=http://inforcecomputing.com/blog/?p=279 |title=Inforce 6540 SBC with Qualcomm Snapdragon 805 Processor Now Available |accessdate=2014-10-16}}</ref> 
+|-
+| || Inforce 6410plus<ref name="Inforce 6410plus">{{cite web |url=http://www.inforcecomputing.com/products/single-board-computers/6410-plus-single-board-computer-sbc |title=Inforce Computing - Product - Inforce 6410plus |accessdate=2015-07-16}}</ref> || Snapdragon 600 (APQ8064)
+|| 2015/06
+|-
+| || Inforce 6309
+|Snapdragon 410 (APQ8016)
+|2016/06
+|-
+| [[Intel]] || [[Intel Galileo]]<ref name="intel-galileo">{{cite web |url=http://www.intel.com/content/www/us/en/do-it-yourself/galileo-maker-quark-board.html |title=Introducing the Intel Galileo Gen 2 Development Board |accessdate=2014-08-02}}</ref> || Gen 2 || 2013/10 
+|-
+| || Inventami<ref name=":0">{{Cite web|title = INVENTAMI - Powerful Single Board Computer (SBC)|url = http://www.inventami.com/|website = INVENTAMI|accessdate = 2015-11-03|language = it}}</ref> ||Entry || 2015/12 
+|-
+| || Inventami<ref name=":0" /> || Full || 2015/12 
+|-
+|iWave Systems
+| iW-RainboW-G23S RZ/G1C SBC
+|Renesas’ RZ/G1C 
+|2018/02
+|-
+| [[Libre Computer Project]] || Tritium || ALL-H3-CC<ref name="libre-computer-board-all-h3-cc">{{cite web |url=https://libre.computer/products/boards/all-h3-cc/ |title=ALL-H3-CC |accessdate=2018-01-08}}</ref> || 2018/02
+|-
+| [[Libre Computer Project]] || Le Potato || AML-S905X-CC<ref name="libre-computer-board-aml-s905x-cc">{{cite web |url=https://libre.computer/products/boards/aml-s905x-cc/ |title=AML-S905X-CC |accessdate=2018-01-08}}</ref> || 2017/10
+|-
+| [[Libre Computer Project]] || Renegade || ROC-RK3328-CC<ref name="libre-computer-board-roc-rk3328-cc">{{cite web |url=https://libre.computer/products/boards/roc-rk3328-cc/ |title=ROC-RK3328-CC |accessdate=2018-01-08}}</ref> || 2018/01
+|-
+| || MarsBoard || A10 New<ref name="marsboard-a10-new">{{cite web |url=http://www.marsboard.com/new_marsboard_a10_feature.html |title=New Marsboard A10 Feature |accessdate=2014-07-23}}</ref> || 2013/03 
+|-
+| || MarsBoard || A20 New<ref name="marsboard-a20-new">{{cite web |url=http://www.marsboard.com/new_marsboard_a20_feature.html |title=New Marsboard A20 Feature |accessdate=2014-07-23}}</ref> || 2013/04 
+|-
+| || MarsBoard || RK3066<ref name="marsboard-rk3066">{{cite web |url=http://www.marsboard.com/marsboard_rk3066_feature.html |title=Marsboard RK3066 Feature |accessdate=2014-07-23}}</ref> || 2014/05
+|-
+| [[Linaro Community Board Group]] || [[96Boards]] [[MediaTek|MdediaTek]] X20<ref>{{Cite news|url=http://www.96boards.org/product/mediatek-x20/|title=Mediatek X20 Development Board|date=2017-07-26|work=96Boards|access-date=2017-08-03}}</ref><ref>{{Cite news|url=http://www.infoworld.com/article/3124560/hardware/mediateks-developer-board-features-a-10-core-chip-and-android-60.html|title=Mediatek's developer board features a 10-core chip and Android Marshmallow|last=Shah|first=Agam|work=InfoWorld|access-date=2017-08-03}}</ref><ref>{{Cite news|url=http://www.anandtech.com/show/10462/mediatek-introduces-helio-x20based-board-for-a-broad-range-of-applications|title=MediaTek Introduces Helio X20-Based Board for a Broad Range of Applications|last=Shilov|first=Anton|access-date=2017-08-03}}</ref>
+|Helio X20
+|2017/04/25
+|-
+| || MinnowBoard<ref name="minnowboard">{{cite web |url=http://www.minnowboard.org/technical-features/ |title=Technical Features - MinnowBoard &#124; minnowboard.org |accessdate=2014-07-29}}</ref> || || 2013/04 
+|-
+| || [[MIPS Creator]] CI20<ref name="mips-creator-ci20">{{cite web |url=http://store.imgtec.com/uk/product/mips-creator-ci20/|title=MIPS Creator CI20 &#124; Imagination Store |accessdate=2015-05-30}}</ref> || {{dunno}} || 2014/08
+|-
+| || MiraBox<ref name="mirabox">{{cite web |url=https://www.globalscaletechnologies.com/p-58-mirabox-development-kit.aspx |title=MiraBox |accessdate=2014-07-20}}</ref> || || 2014/06 
+|-
+| || MK802 II || {{dunno}} || 2012/08<ref>{{cite web|url=http://www.rikomagic.co.uk/forum/viewtopic.php?f=2&t=305|title=Rikomagic MK802 Forums • View topic - THE MK802II IS HERE!|publisher=|accessdate=12 July 2016}}</ref>
+|-
+| || MK808 || {{dunno}} ||  2015/01
+|-
+| || MTB025 || {{dunno}} || 2013/01
+|-
+| || MYIR MYD-AM335X<ref name="MYD-AM335X">{{cite web |url=http://www.myirtech.com/list.asp?id=466 |title=MYD-AM335X Development Board &#124; TI AM3359, AM3352, ARM Cortex-A8 Processor, Linux, Android, WinCE, AM335x starter kit |publisher=MYIR Tech Limited |accessdate=2014-07-26 |deadurl=yes |archiveurl=https://web.archive.org/web/20140818120021/http://www.myirtech.com/list.asp?id=466 |archivedate=2014-08-18 |df= }}</ref> || || 2013/12
+|-
+| || MYIR MYS-6ULX<ref name="MYS-6ULX">{{cite web |url=http://www.myirtech.com/list.asp?id=561 |title=MYS-6ULX &#124; 528MHz NXP i.MX 6UltraLite / 6ULL ARM Cortex-A7 Processor  |publisher=MYIR Tech Limited |accessdate=2017-04-10}}</ref> || || 2017/04
+|-
+| || MYIR Rico Board<ref name="Rico Board">{{cite web |url=http://www.myirtech.com/list.asp?id=510 |title=Rico Board &#124; TI AM437x, ARM Cortex-A9 Processor, Linux, AM437x starter kit |publisher=MYIR Tech Limited |accessdate=2014-07-26 |deadurl=yes |archiveurl=https://web.archive.org/web/20150308051559/http://www.myirtech.com/list.asp?id=510 |archivedate=2015-03-08 |df= }}</ref> || || 2015/03 
+|-
+| [[FriendlyElec]] || NanoPC-T1 ||  || 2014/01
+|-
+| [[FriendlyElec]] || NanoPi 2 || || 2015/11
+|-
+| [[FriendlyElec]] || NanoPi NEO || 256 MB, 512 MB || 2016/07
+|-
+| [[Boundary Devices]] || Nitrogen6x || Rev 3 || 2013/06 
+|-
+| [[Boundary Devices]] || Nitrogen8M || || 2018/05 
+|-
+| [[Nvidia]] || Nvidia Jetson TK1<ref name="nvidia-jetson-tk1">{{cite web |url=https://developer.nvidia.com/jetson-tk1 |title=Buy Jetson TK1 Development Kit |accessdate=2014-07-26}}</ref> || || 2014/04
+
+|-
+| [[Hardkernel Co, Ltd]] || [[Odroid|ODROID-C1]] || || 2014/12 
+|-
+| [[Hardkernel Co, Ltd]] || [[Odroid|ODROID-C1+]] || || 2015/07 
+|-
+| [[Hardkernel Co, Ltd]] || [[Odroid|ODROID-C2]] || || 2016/03
+|-
+| [[Hardkernel Co, Ltd]] || [[Odroid|ODROID-U3]] || || 2014/01
+|-
+| [[Hardkernel Co, Ltd]] || [[Odroid|ODROID-W]]<ref name="odroid-w">{{cite web |url=http://hardkernel.com/main/products/prdt_info.php?g_code=G140610189490 |title=ODROID - Hardkernel |accessdate=2014-08-04}}</ref> || || 2014/08 
+|-
+| [[Hardkernel Co, Ltd]] || [[Odroid|ODROID-XU]]<ref name="odroid-xu">{{cite web |url=http://www.hardkernel.com/main/products/prdt_info.php?g_code=G13751030062 |title=ODROID - Hardkernel |accessdate=2014-08-17}}</ref> || || 2013
+|-
+| [[Hardkernel Co, Ltd]] || [[Odroid|ODROID-XU3]]<ref name="odroid-xu3">{{cite web |url=http://hardkernel.com/main/products/prdt_info.php?g_code=G140448267127 |title=ODROID - Hardkernel |accessdate=2014-08-02}}</ref> || || 2014/08
+|-
+| [[Hardkernel Co, Ltd]] || [[Odroid|ODROID-XU3 Lite]]<ref name="odroid-xu3-lite">{{cite web |url=http://www.hardkernel.com/main/products/prdt_info.php?g_code=G141351880955 |title=ODROID - Hardkernel |accessdate=2015-01-01}}</ref> || || 2015/01
+|-
+| [[Hardkernel Co, Ltd]] || [[Odroid|ODROID-XU4]]<ref name="odroid-xu4">{{cite web |url=http://www.hardkernel.com/main/products/prdt_info.php?g_code=G143452239825 |title=ODROID - Hardkernel |accessdate=2015-11-15}}</ref> || || 2015/07
+|-
+| [[OLIMEX Ltd]] || [[OLinuXino|A10-OLinuXino]] || LIME<ref name="A10-OLinuXino-LIME">{{cite web |url=https://www.olimex.com/Products/OLinuXino/A10/A10-OLinuXino-LIME-n4GB/open-source-hardware | title=A10-OLinuXino-LIME | work=Olimex | accessdate=2019-01-30}}</ref> || 2015/01
+|-
+| [[OLIMEX Ltd]] || [[OLinuXino#A13|A13-OLinuXino]] || base<ref name="A13-OLinuXino">{{cite web |url=https://www.olimex.com/Products/OLinuXino/A13/A13-OLinuXino/open-source-hardware | title=A13-OLinuXino | work=Olimex | accessdate=2019-01-30}}</ref>, MICRO<ref name="A13-OLinuXino-MICRO">{{cite web |url=https://www.olimex.com/Products/OLinuXino/A13/A13-OLinuXino-MICRO/open-source-hardware |title=A13-OLinuXino-MICRO | work=Olimex | accessdate=2019-01-30}}</ref>, WIFI || 2015/01
+|-
+| [[OLIMEX Ltd]] || [[OLinuXino#A20|A20-OLinuXino]] || LIME<ref name="A20-OLinuXino-LIME">{{cite web |url=https://www.olimex.com/Products/OLinuXino/A20/A20-OLinuXino-LIME/open-source-hardware |title=A20-OLinuXino-LIME | work=Olimex | accessdate=2019-01-30}}</ref>, MICRO<ref name="A20-OLinuXino-MICRO">{{cite web |url=https://www.olimex.com/Products/OLinuXino/A20/A20-OLinuXino-MICRO/open-source-hardware |title=A20-OLinuXino-MICRO | work=Olimex | accessdate=2019-01-30}}</ref> || 2013/06
+|-
+| [[OLIMEX Ltd]] || [[OLinuXino#A20|A20-OLinuXino]] || LIME2<ref name="A20-OLinuXino-LIME2">{{cite web |url=https://www.olimex.com/Products/OLinuXino/A20/A20-OLinuXino-LIME2/open-source-hardware |title=A20-OLinuXino-LIME2 | work=Olimex | accessdate=2019-01-30}}</ref> || 2014/09
+|-
+| [[OLIMEX Ltd]] || [[OLinuXino#A64|A64-OLinuXino]]<ref name="A64-OLinuXino">{{cite web |url=https://www.olimex.com/Products/OLinuXino/A64/A64-OLinuXino/open-source-hardware |title=A64-OLinuXino | work=Olimex | accessdate=2019-01-30}}</ref> || || 2016/02<ref name="A64-OLinuXino announcement">{{cite web |url=https://olimex.wordpress.com/2016/02/17/a64-olinuxino-64-bit-arm-oshw-designed-completely-with-kicad-is-live |title=A64-OLinuXino 64-bit ARM OSHW designed completely with KiCAD is live! | work=Olimex | accessdate=2019-01-30}}</ref>
+|-
+| || [[Omega2 (computer)|Omega2]]
+|
+|2016/11<ref>{{Cite news|url=https://www.theverge.com/circuitbreaker/2016/8/15/12484636/onion-omega2-tiny-computer-that-only-costs-5-dollars|title=The Onion Omega2 is a tiny little computer that only costs $5|work=The Verge|access-date=2017-03-22}}</ref>
+|-
+| || [[Orion R28]] || Pro || 2014
+|-
+| [[Shenzhen Xunlong Software Co., Ltd]]|| Orange Pi ||  || 2015/01 
+|-
+| [[Shenzhen Xunlong Software Co., Ltd.]] || Orange Pi 2<ref name="opi2" >{{cite web |url=http://www.orangepi.org/orangepi2/ |title=Orange Pi 2 |accessdate=2016-07-25}}</ref> || [[Allwinner Technology|Allwinner]] H3 Quad-core Cortex-A7 || 2015/01
+|-
+|[[Shenzhen Xunlong Software Co., Ltd.]] || Orange Pi Plus || H3 Quad-core Cortex-A7 || 2015/02
+|-
+|[[Shenzhen Xunlong Software Co., Ltd.]] || Orange Pi Plus 2<ref name="opiplus2" >{{cite web |url=http://www.orangepi.org/orangepiplus2/ |title=Orange Pi Plus 2 |accessdate=2016-07-25}}</ref> || || 2015/02 
+|-
+|[[Shenzhen Xunlong Software Co., Ltd.]] || Orange Pi Mini ||  || 2015/02
+|-
+|[[Shenzhen Xunlong Software Co., Ltd.]] || Orange Pi Mini 2<ref name="opimini2" >{{cite web |url=http://www.orangepi.org/orangepimini2/ |title=Orange Pi Mini 2 |accessdate=2016-07-25}}</ref> || || 2015/02 
+|-
+|[[Shenzhen Xunlong Software Co., Ltd.]] || Orange Pi PC<ref name="opipc" >{{cite web |url=http://www.orangepi.org/orangepipc/ |title=Orange Pi PC |accessdate=2016-07-25}}</ref> ||  || 2015/02
+|-
+|[[Shenzhen Xunlong Software Co., Ltd.]] || Orange Pi One<ref name="opione" >{{cite web |url=http://www.orangepi.org/orangepione/ |title=Orange Pi One |accessdate=2016-07-25}}</ref> ||  || 2016/01 
+|-
+| [[Shenzhen Xunlong Software Co., Ltd.]]|| Orange Pi Lite ||  || 2016/01 
+|-
+|[[Shenzhen Xunlong Software Co., Ltd.]] || Orange Pi PC Plus ||  || 2016/04 
+|-
+|[[Shenzhen Xunlong Software Co., Ltd.]] || Orange Pi Plus 2E ||  || 2016/04 
+|-
+|[[Shenzhen Xunlong Software Co., Ltd.]] || Orange Pi PC 2<ref name="opipc2" >{{cite web |url=http://www.orangepi.org/orangepipc2/ |title=Orange Pi PC 2 |accessdate=2017-11-16}}</ref> || [[Allwinner Technology|Allwinner]] H5 Quad ARM64 Cortex-A53 || 2016/11
+|-
+|[[Shenzhen Xunlong Software Co., Ltd.]] || Orange Pi Win || || 2017/03
+|-
+| [[Shenzhen Xunlong Software Co., Ltd.]]|| Orange Pi Zero Pluz 2 || || 2017/03
+|-
+| [[Shenzhen Xunlong Software Co., Ltd.]]|| [http://www.orangepi.org/OrangePiR1 Orange Pi R1] || ARM Cortex-A7 || 2017/08 
+|-
+| || [[Ouya#Hardware|Ouya]] || || 2013
+|-
+| || [[P112]] || || 1996
+|-
+| || [[PandaBoard|PandaBoard ES]]<ref name="pandaboard-es">{{cite web |url=http://pandaboard.org/content/pandaboard-es |title=PandaBoard ES |accessdate=2014-07-29}}</ref> || Rev. 3 || 2011/12
+|-
+| || [[Adapteva#Parallella project|Adapteva Parallella]]||  || 2013
+|-
+| || pcDuino Lite<ref name="pcduino-lite">{{cite web |url=http://www.pcduino.com/pcduino-lite/ |title=pcDuino Lite |accessdate=2014-07-23}}</ref> || || 2013/10
+|-
+| || pcDuino v2<ref name="pcduino-v2">{{cite web |url=http://www.pcduino.com/pcduino-v2/ |title=pcDuino V2 |accessdate=2014-07-23}}</ref> || || 2013/09
+|-
+| || pcDuino3<ref name="pcduino3">{{cite web |url=http://www.pcduino.com/pcduino-v3/ |title=pcDuino3 |accessdate=2014-07-23}}</ref> || || 2014/02
+|-
+| || pcDuino3Nano<ref name="pcduino3nano">{{cite web |url=http://www.pcduino.com/pcduino3nano/ |title=pcDuino3Nano |accessdate=2014-07-23}}</ref> || || 2014/07
+|-
+| || PC Engines APU<ref name="pc-engines-apu1">{{cite web |url=http://www.pcengines.ch/apu.htm |title=PC Engines APU system board |accessdate=2014-07-31}}</ref> || APU.1D,<ref name="pc-engines-apu1d">{{cite web |url=http://www.pcengines.ch/apu1d.htm |title=PC Engines APU.1D product file |accessdate=2016-07-08}}</ref> APU.1D4<ref name="pc-engines-apu1d4">{{cite web |url=http://www.pcengines.ch/apu1d4.htm |title=PC Engines APU.1D4 product file |accessdate=2014-08-02}}</ref> || 2014/04
+|-
+| || PC Engines APU<ref name="pc-engines-apu2">{{cite web |url=http://www.pcengines.ch/apu.htm |title=PC Engines APU system board |accessdate=2016-07-08}}</ref> || APU.2C2,<ref name="pc-engines-apu2c2">{{cite web |url=http://www.pcengines.ch/apu2c2.htm |title=PC Engines APU.2C2 product file |accessdate=2016-07-08}}</ref> APU.2C4<ref name="pc-engines-apu2c4">{{cite web |url=http://www.pcengines.ch/apu2c4.htm |title=PC Engines APU.2C4 product file |accessdate=2016-07-08}}</ref> || 2016/03
+|-
+| || phyBOARD-Wega<ref name="phyBOARD-Wega">{{cite web |url=http://www.phytec.de/de/produkte/single-board-computer/sbc-single-board-computer/phyboard-sbc/produktdetails/p/phyboard-wega-am335x-5v.html |title=phyBOARD-Wega - Phytec Messtechnik GmbH.}}</ref> || 5V, 12-24V || 2013
+|-
+| || phyBOARD-Mira<ref name="phyBOARD-Mira">{{cite web |url=http://www.phytec.de/de/produkte/single-board-computer/sbc-single-board-computer/phyboard-sbc/produktdetails/p/phyboard-mira-imx6.html |title=phyBOARD-Mira - Phytec Messtechnik GmbH.}}</ref> || Solo, Quad || 2014
+|-
+| [[Pine64]] || [[Pine64|PINE A64]] || ||2015 
+|-
+| [[Pine64]] || [[Pine64|PINE A64+]] || || 2015 
+|-
+| [[Pine64]] || PINE64 Rock64<ref>{{Cite web|url=https://www.pine64.org/?page_id=7147|title=ROCK64 – PINE64|website=www.pine64.org|access-date=2017-11-14}}</ref>
+|RK3328
+|2017
+|-
+| || Radxa Rock || base, Lite || 2014/01 
+|-
+| [[Raspberry Pi Foundation]] || [[Raspberry Pi]] || Model A, B, A+, B+ || 2012/02 (A)<br />2012/10 (B)<br />2014/07 (B+)<br />2014/11 (A+)
+|-
+| [[Raspberry Pi Foundation]] || [[Raspberry Pi]] Zero ||  || 2015/11
+2017/02 (W)
+|-
+| [[Raspberry Pi Foundation]] || [[Raspberry Pi]] 2 || Generation 2 Model B || 2015/02
+|-
+| [[Raspberry Pi Foundation]] || [[Raspberry Pi]] 3 || Model B || 2016/02
+|-
+| [[Raspberry Pi Foundation]] || [[Raspberry Pi]] 3 || Model B+ || 2018/03
+|-
+| || Rikomagic [[Android Mini PC MK802|MK802]] || base,<ref name="mk802">{{cite web |title=MK802 / MK802+  Die offizielle Seite von rikomagic |url=http://www.rikomagic.de/produkte/android-mini-pcs/mk802-mk802/ |language=de}}</ref> +<ref name="mk802"/> / II<ref name="rikomagic-mk802-2">{{cite web|title=MK802 II Die offizielle Seite von rikomagic |url=http://www.rikomagic.de/produkte/android-mini-pcs/mk802-ii-2/ |language=de}}</ref> || 2015/01
+|-
+| || RIoTboard || {{dunno}} || 2014/01
+|-
+| || RouterBOARD RB450G<ref name="routerboard-rb450g">{{cite web |url=http://routerboard.com/RB953GS-5HnT |title=RouterBoard.com RB953GS-5HnT |accessdate=2014-07-31}}</ref> || || 2012/12
+|-
+| || RouterBOARD RB953GS-5HnT<ref name="routerboard-rb953gs-5hnt">{{cite web |url=http://routerboard.com/RB450G |title=RouterBoard.com RB450G |accessdate=2014-08-02}}</ref> || || 2014/06
+|-
+| || SkateBoard <ref name="Skate-Board">{{cite web |url=http://www.kemsys.com/products/single-board-computers/qualcomm-snapdragon-212-skate-212-sbc/ |title=SkateBoard |accessdate=2017-08-07}}</ref> || SKATE-212 || 2017/08
+|-
+| || [[Snowball (single-board computer)|Snowball]] || SKY-S9500 || 2011/08
+|-
+| [[Super Micro Computer, Inc.]] || Supermicro E100-8Q<ref name="E100-8Q">{{cite web |url=http://www.supermicro.com/products/system/Compact/IoT/SYS-E100-8Q.cfm |title=IoT Gateway System E100-8Q |accessdate=2014-10-19}}</ref><ref name="A1SQN">{{cite web |url=http://www.supermicro.com/products/motherboard/Quark/A1SQN.cfm |title=A1SQN motherboard |accessdate=2014-10-19}}</ref> || || 2014/11
+|-
+| || TBS 2910 Matrix<ref name="tbs-2910-matrix">{{cite web |url=http://www.tbsdtv.com/products/tbs2910-matrix-arm-mini-pc.html |title=TBS 2910 Matrix ARM mini PC |accessdate=2014-07-25}}</ref> || || 2014/01
+|-
+| [[Tinkerforge]] || RED Brick || Model 1.0 || 2018/04
+|-
+| ||[[Tronsmart]] Draco || Octo Meta, Octo Telos || 2015/01
+|-
+| || TS-7250-V2<ref name="ts7250-v2">{{cite web |url=https://www.embeddedarm.com/products/TS-7250-V2 |title=TS-7250-V2 SBC |accessdate=2016-11-21}}</ref> || || 2014/11
+|-
+| || TS-7680<ref name="ts7680">{{cite web |url=https://www.embeddedarm.com/products/TS-7680 |title=TS-7680 SBC |accessdate=2016-11-21}}</ref> || || 2016/04
+|-
+| || TS-7970<ref name="ts7970">{{cite web |url=https://www.embeddedarm.com/products/TS-7970 |title=TS-7970 SBC |accessdate=2016-11-21}}</ref> || || 2016
+|-
+| || [[UDOO]] || Dual Basic, Dual, Quad || 2013/10
+|-
+| || UDOO X86<ref name="UDOO X86">{{cite web |url=https://www.kickstarter.com/projects/udoo/udoo-x86-the-most-powerful-maker-board-ever |title=UDOO X86 Kickstarter |accessdate=2016-05-26}}</ref> || Basic, Advanced, Ultra || 2016/11
+|-
+| || UP<ref name="UP Board">{{cite web | url=http://www.up-board.org/up/ | title=UP Board : Power your ideas! | accessdate=2017-03-24}}</ref> || ||2016/04 
+|-
+| || UP Squared<ref name="UP Squared">{{cite web | url=http://www.up-board.org/upsquared/ | title=UP Squared : Power your ideas! | accessdate=2017-03-24}}</ref> || ||2017/04
+|-
+| [[CompuLab]] || [[Utilite]]<ref name="utilite">{{cite web |url=http://utilite-computer.com/web/utilite-models |title=Utilite Models - Utilite |accessdate=2014-08-07}}</ref> || Value, Standard, Pro || 2013/07 
+|-
+| [[CompuLab]] || [[Utilite2]]<ref name="Utilite2">{{cite web |url=http://www.compulab.co.il/utilite-computer/web/utilite2-models |title=Utilite2 Models - Utilite2 |accessdate=2015-02-04}}</ref> || 4GB, SSD || 2015/02 
+|-
+| || Ventana GW5510 Femto<ref>{{cite web|url=http://www.gateworks.com/product/item/ventana-gw5510-single-board-computer|title=Ventana GW5510 Single Board Computer|first=Ryan|last=Erbstoesser|publisher=|accessdate=12 July 2016}}</ref> || Solo, Dual, Quad || 2014
+|-
+| [[VIA Technologies|VIA]] || [[VIA APC]] 8750 / Rock || || 2012/05
+|-
+| [[VIA Technologies|VIA]] || VIA Springboard VAB-600<ref name="via-springboard-vab600">{{cite web |url=http://www.viaspringboard.com/via-vab-600.html |title=VIA Springboard - VIA VAB-600 |accessdate=2014-08-06}}</ref> || || 2013/11
+|-
+| [[Wandboard]] || Wandboard<ref name="Wandboard">{{cite web |url=http://www.Wandboard.org |title=Wandboard i.MX6}}</ref> || Solo, Dual, Quad || 2013
+|-
+| [[Wandboard]] || WandPi 8M<ref name="WandPi-cnx">{{cite web |url=https://www.cnx-software.com/2017/11/17/wandpi-8m-development-board-coming-soon-with-nxp-i-mx8m-soc-for-89-and-up/ |title=WandPi 8M Development Board Coming Soon with NXP i.MX8M SoC for $89 and Up}}</ref> || Lite, Pro, Deluxe
+|data-sort-value=2018/4| 2018 spring
+|-
+| [[VersaLogic]] || Zebra<ref>{{cite web|title=Tough, COM-sized SBC runs Linux on i.MX6|url=http://linuxgizmos.com/tough-com-sized-linux-sbc-runs-linux-on-i-mx6/|website=LinuxGizmos.com|accessdate=2 May 2018}}</ref> || Solo, DualLite || 2018/04
+|-
