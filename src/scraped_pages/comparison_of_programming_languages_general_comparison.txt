@@ -1,0 +1,1980 @@
+|- align="center"
+! [[Ada (programming language)|Ada]] <!-- Language -->
+| Application, embedded, realtime, [[System programming language|system]] <!-- Intended use -->
+<!-- Sparse matrix for Ada -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<ref>[http://www.adaic.org/standards/05rm/html/RM-TTL.html Ada Reference Manual, ISO/IEC 8652:2005(E) Ed. 3], [http://www.adaic.org/standards/05rm/html/RM-3-9.html 3.9 Tagged Types and Type Extensions]</ref> <!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<ref>[http://www.adaic.org/standards/05rm/html/RM-TTL.html Ada Reference Manual, ISO/IEC 8652:2005(E) Ed. 3], [http://www.adaic.org/standards/05rm/html/RM-6.html Section 6: Subprograms]</ref> <!-- Procedural -->
+| {{Yes}}<ref>[http://www.adaic.org/standards/05rm/html/RM-TTL.html Ada Reference Manual, ISO/IEC 8652:2005(E) Ed. 3], [http://www.adaic.org/standards/05rm/html/RM-12.html Section 12: Generic Units]</ref> <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| [[concurrent programming language|concurrent]],<ref>[http://www.adaic.org/standards/05rm/html/RM-TTL.html Ada Reference Manual, ISO/IEC 8652:2005(E) Ed. 3], [http://www.adaic.org/standards/05rm/html/RM-9.html Section 9: Tasks and Synchronization]</ref> [[distributed programming|distributed]],<ref>[http://www.adaic.org/standards/05rm/html/RM-TTL.html Ada Reference Manual, ISO/IEC 8652:2005(E) Ed. 3] [http://www.adaic.org/standards/05rm/html/RM-E.html Annex E: Distributed Systems]</ref><!-- Other paradigms -->
+| {{yes|1983}}, 2005, 2012, ANSI, ISO, [[GOST]] 27831-88<ref>[http://vak.ru/lib/exe/fetch.php/book/gost/pdf/gost-27831-88.pdf Vak.ru]</ref> <!-- Standardized? -->
+
+|- align="center"
+! [[Aldor]] <!-- Language -->
+| Highly domain-specific, symbolic computing <!-- Intended use -->
+<!-- Sparse matrix for Aldor -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[ALGOL 58]] <!-- Language -->
+| Application <!-- Intended use -->
+<!-- Sparse matrix for ALGOL 58 -->
+| {{Yes}}<!-- Imperative -->
+| <!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[ALGOL 60]] <!-- Language -->
+| Application <!-- Intended use -->
+<!-- Sparse matrix for ALGOL 60 -->
+| {{Yes}}<!-- Imperative -->
+| <!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{yes|1960}}, [[IFIP WG 2.1]], ISO<ref>[http://www.open-std.org/jtc1/sc22/docs/oldwgs/wg6.html ISO 1538:1984]</ref> <!-- Standardized? -->
+
+|- align="center"
+! [[ALGOL 68]] <!-- Language -->
+| Application <!-- Intended use -->
+<!-- Sparse matrix for ALGOL 68 -->
+| {{Yes}}<!-- Imperative -->
+| <!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| concurrent <!-- Other paradigms -->
+| {{yes|1968}}, [[IFIP WG 2.1]], [[GOST 27974-88]],<ref>[http://vak.ru/lib/exe/fetch.php/book/gost/pdf/gost-27974-88.pdf Vak.ru]</ref> <!-- Standardized? -->
+
+|- align="center"
+! [[Ateji PX]] <!-- Language -->
+| Parallel application <!-- Intended use -->
+<!-- Sparse matrix for Ateji PX -->
+| <!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| [[pi calculus]] <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[APL (programming language)|APL]] <!-- Language -->
+| Application, data processing <!-- Intended use -->
+<!-- Sparse matrix for APL -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| [[array programming|array-oriented]], [[tacit programming|tacit]] <!-- Other paradigms -->
+| {{yes|1989}}, ISO <!-- Standardized? -->
+
+|- align="center"
+! [[Assembly language]] <!-- Language -->
+| [[General purpose programming language|General]] <!-- Intended use -->
+<!-- Sparse matrix for Assembly language -->
+| {{Yes}}<!-- Imperative -->
+| <!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| any, syntax is usually highly specific, related to the target processor <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[AutoHotkey]] <!-- Language -->
+| GUI automation (macros), highly domain-specific <!-- Intended use -->
+<!-- Sparse matrix for AutoHotkey -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<ref>[https://autohotkey.com/docs/objects/Object.htm AutoHotkey object protocol and concepts]</ref><!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[AutoIt]] <!-- Language -->
+| GUI automation (macros), highly domain-specific <!-- Intended use -->
+<!-- Sparse matrix for AutoIt -->
+| {{Yes}}<!-- Imperative -->
+| <!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Bash (Unix shell)|Bash]] <!-- Language -->
+| Shell, scripting <!-- Intended use -->
+<!-- Sparse matrix for BASIC -->
+| {{Yes}}<!-- Imperative -->
+| <!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| <!-- Standardized? -->
+
+|- align="center"
+! [[Ballerina (programming language)|Ballerina]] <!-- Language -->
+| Integration, agile, server-side, general <!-- Intended use -->
+<!-- Sparse matrix for BASIC -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| concurrent, transactional, statically and strongly typed programming, diagrammatic / visual programming <!-- Other paradigms -->
+| {{Yes|2018}} De facto standard via Ballerina Language Specification<ref>{{cite web|url=https://ballerina.io/res/Ballerina-Language-Specification-WD-2015-05-01.pdf |publisher=WSO2 |title=Ballerina Language Specification |date=2018-05-01 |accessdate=2018-05-03}}</ref><!-- Standardized? -->
+
+|- align="center"
+! [[BASIC]] <!-- Language -->
+| Application, education <!-- Intended use -->
+<!-- Sparse matrix for BASIC -->
+| {{Yes}}<!-- Imperative -->
+| <!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{yes|1983}}, ANSI, ISO, ECMA <!-- Standardized? -->
+
+|- align="center"
+! [[BBj]] <!-- Language -->
+| Application, business, web <!-- Intended use -->
+<!-- Sparse matrix for BBj -->
+| <!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[BeanShell]] <!-- Language -->
+| Application, scripting <!-- Intended use -->
+<!-- Sparse matrix for BeanShell -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no|In progress}}, [[Java Community Process|JCP]]<ref>[http://jcp.org/en/jsr/detail?id=274 JSR 274]</ref> <!-- Standardized? -->
+
+|- align="center"
+! [[BitC]] <!-- Language -->
+| System <!-- Intended use -->
+<!-- Sparse matrix for BitC -->
+| {{Yes}}<!-- Imperative -->
+| <!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[BLISS]] <!-- Language -->
+| System <!-- Intended use -->
+<!-- Sparse matrix for BLISS -->
+| <!-- Imperative -->
+| <!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[BlitzMax]] <!-- Language -->
+| Application, game <!-- Intended use -->
+<!-- Sparse matrix for BlitzMax -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Blue (programming language)|Blue]] <!-- Language -->
+| Education <!-- Intended use -->
+<!-- Sparse matrix for Blue -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Boo (programming language)|Boo]] <!-- Language -->
+| Application <!-- Intended use -->
+<!-- Sparse matrix for Boo -->
+| <!-- Imperative -->
+| <!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Bro (software)|Bro]] <!-- Language -->
+| domain-specific, application <!-- Intended use -->
+<!-- Sparse matrix for Bro -->
+| {{Yes}}<!-- Imperative -->
+| <!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[C (programming language)|C]] <!-- Language -->
+| Application, system,<ref>[https://www.bell-labs.com/usr/dmr/www/chist.html bell-labs.com]</ref> general purpose, low-level operations <!-- Intended use -->
+<!-- Sparse matrix for C -->
+| {{Yes}}<!-- Imperative -->
+| <!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{yes|1989}}, [[ANSI C|ANSI C89, ISO C90, ISO C99, ISO C11]]<ref>[http://www.open-std.org/JTC1/SC22/WG14/ ANSI C89, ISO/IEC 9899:1990, 1999, 2011, 2018]</ref> <!-- Standardized? -->
+
+|- align="center"
+! [[C++]] <!-- Language -->
+| Application, system <!-- Intended use -->
+<!-- Sparse matrix for C++ -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{yes|1998}}, ISO/IEC 1998, ISO/IEC 2003, ISO/IEC 2011,ISO/IEC 2014,ISO/IEC 2017<ref>[http://www.open-std.org/JTC1/SC22/WG21/ ISO/IEC 14882:1998, 2003, 2011, 2014, 2017]</ref> <!-- Standardized? -->
+
+|- align="center"
+! [[C Sharp (programming language)|C#]] <!-- Language -->
+| Application, RAD, business, client-side, general, server-side, web <!-- Intended use -->
+<!-- Sparse matrix for C# -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<ref>[http://www.codeproject.com/KB/cs/intro_functional_csharp.aspx Codeproject.com: Functional Programming in C# 3.0 using Lambda Expression]</ref> <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| structured, concurrent <!-- Other paradigms -->
+| {{yes|2000}}, ECMA, ISO<ref>ECMA-334; ISO/IEC 23270:2006</ref> <!-- Standardized? -->
+
+|- align="center"
+! [[Clarion (programming language)|Clarion]] <!-- Language -->
+| General, business, web <!-- Intended use -->
+<!-- Sparse matrix for Clarion -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<ref>[http://www.softvelocity.com Softvelocity.com]</ref> <!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+|{{unknown}}<!-- Standardized? -->
+
+|- align="center"
+! [[Clean (programming language)|Clean]] <!-- Language -->
+| General <!-- Intended use -->
+<!-- Sparse matrix for Clean -->
+| <!-- Imperative -->
+| <!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| <!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Clojure]] <!-- Language -->
+| General <!-- Intended use -->
+<!-- Sparse matrix for Clojure -->
+| <!-- Imperative -->
+| <!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| concurrent <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[CLU (programming language)|CLU]] <!-- Language -->
+| General <!-- Intended use -->
+<!-- Sparse matrix for CLU -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[COBOL]] <!-- Language -->
+| Application, business <!-- Intended use -->
+<!-- Sparse matrix for COBOL -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{yes|ANSI X3.23 1968, 1974, 1985; ISO/IEC 1989:1985, 2002, 2014}} <!-- Standardized? -->
+
+|- align="center"
+! [[Cobra (programming language)|Cobra]] <!-- Language -->
+| Application, business, general, web <!-- Intended use -->
+<!-- Sparse matrix for Cobra -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| <!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[ColdFusion Markup Language|ColdFusion]] (CFML) <!-- Language -->
+| Web <!-- Intended use -->
+<!-- Sparse matrix for ColdFusion(CFML) -->
+| <!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Common Lisp]] <!-- Language -->
+| General <!-- Intended use -->
+<!-- Sparse matrix for Common Lisp -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| extensible syntax, [https://github.com/equwal/CLAPL Array-oriented], [[Macro (computer science)#Syntactic macros|syntactic macros]], [[multiple dispatch]], concurrent<!-- Other paradigms -->
+| {{yes|1994}}, ANSI <!-- Standardized? -->
+
+|- align="center"
+! [[COMAL]] 80 <!-- Language -->
+| Education <!-- Intended use -->
+<!-- Sparse matrix for COMAL 80 -->
+| {{Yes}}<!-- Imperative -->
+| <!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Crystal (programming language)|Crystal]]<!-- Language -->
+| General purpose <!-- Intended use -->
+<!-- Sparse matrix for Crystal -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<ref>https://github.com/crystal-lang/crystal#why</ref><!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| alpha stage<ref>https://github.com/crystal-lang/crystal#status</ref> <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Cython]] <!-- Language -->
+| Application, general, numerical computing <!-- Intended use -->
+<!-- Sparse matrix for Cython -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| [[aspect-oriented programming|aspect-oriented]] <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[D (programming language)|D]] <!-- Language -->
+| Application, system <!-- Intended use -->
+<!-- Sparse matrix for D -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| generative, concurrent <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Dart (programming language)|Dart]] <!-- Language -->
+| Application, web, server-side, mobile, IoT <!-- Intended use -->
+<!-- Sparse matrix for Dart -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| structured <!-- Other paradigms -->
+| {{yes|Ecma-408 standard}} <!-- Standardized? -->
+
+|- align="center"
+! [[Dylan (programming language)|Dylan]] <!-- Language -->
+| Application <!-- Intended use -->
+<!-- Sparse matrix for Dylan -->
+| <!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Eiffel (programming language)|Eiffel]] <!-- Language -->
+| General, application, business, client-side, server-side, web (EWF) <!-- Intended use -->
+<!-- Sparse matrix for Eiffel -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<ref>[http://se.ethz.ch/~meyer/publications/online/eiffel/basic.html#Agents: Basic Eiffel language mechanisms]</ref><ref>[[Closure (computer programming)#Inline agents .28Eiffel.29:|Closure (computer programming)]]</ref> <!-- Functional -->
+| <!-- Procedural -->
+| {{Yes}} <!-- Generic -->
+| {{Yes}} [http://se.inf.ethz.ch/old/people/leitner/erl_g Erl-G] <!-- Reflective -->
+| {{Yes}} [[Eiffel (programming language)#Agents:|Agents]] <!-- Event-driven -->
+<!-- -------------------- -->
+| [[distributed programming|distributed]] [https://docs.eiffel.com/book/solutions/concurrent-eiffel-scoop: SCOOP], [https://docs.eiffel.com/book/method/void-safe-programming-eiffel: Void-safe] <!-- Other paradigms -->
+| {{yes|2005}}, ECMA, ISO<ref>ECMA-367; ISO/IEC 25436:2006</ref> <!-- Standardized? -->
+
+|- align="center"
+! [[Elixir (programming language)|Elixir]] <!-- Language -->
+| Application, distributed <!-- Intended use -->
+<!-- Sparse matrix for Elixir -->
+| <!-- Imperative -->
+| <!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| concurrent, [[distributed programming|distributed]] <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Erlang (programming language)|Erlang]] <!-- Language -->
+| Application, distributed <!-- Intended use -->
+<!-- Sparse matrix for Erlang -->
+| <!-- Imperative -->
+| <!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| concurrent, [[distributed programming|distributed]] <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Euphoria (programming language)|Euphoria]] <!-- Language -->
+| Application<!-- Intended use -->
+<!-- Sparse matrix for Euphoria -->
+| <!-- Imperative -->
+| <!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Factor (programming language)|Factor]] <!-- Language -->
+| General<!-- Intended use -->
+<!-- Sparse matrix for Factor -->
+| {{Yes}}<!-- Imperative -->
+| <!-- Object-oriented -->
+| can be viewed as<!-- Functional -->
+| <!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| [[stack-oriented programming language|stack-oriented]] <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[FP (programming language)|FP]] <!-- Language -->
+| <!-- Intended use -->
+<!-- Sparse matrix for FP -->
+| <!-- Imperative -->
+| <!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[F Sharp (programming language)|F#]] <!-- Language -->
+| Application <!-- Intended use -->
+<!-- Sparse matrix for F# -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| <!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Forth (programming language)|Forth]] <!-- Language -->
+| General <!-- Intended use -->
+<!-- Sparse matrix for Forth -->
+| {{Yes}}<!-- Imperative -->
+| <!-- Object-oriented -->
+| can be viewed as<!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| stack-oriented <!-- Other paradigms -->
+| {{yes|1994}}, ANSI <!-- Standardized? -->
+
+|- align="center"
+! [[Fortran]] <!-- Language -->
+| Application, numerical computing <!-- Intended use -->
+<!-- Sparse matrix for Fortran -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{yes|1966}}, ANSI 66, ANSI 77, MIL-STD-1753, ISO 90, ISO 95, ISO 2003, ISO/IEC 1539-1:2010 (2008) <!-- Standardized? -->
+
+|- align="center"
+! [[FreeBASIC]] <!-- Language -->
+| Application, numerical computing <!-- Intended use -->
+<!-- Sparse matrix for FreeBASIC -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! G2 <!-- Language -->
+| Application, inference, expert system <!-- Intended use -->
+<!-- Sparse matrix for G2 -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| common graphical development and runtime environment <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Gambas]] <!-- Language -->
+| Application <!-- Intended use -->
+<!-- Sparse matrix for Gambas -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Game Maker Language]]
+| Application, games
+<!-- Sparse matrix for Game Maker Language -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- Other paradigms -->
+| <!-- Other paradigms for Game Maker Language -->
+| {{no}}
+
+|- align="center"
+! [[GLBasic]] <!-- Language -->
+| Application, games <!-- Intended use -->
+<!-- Sparse matrix for GLBasic -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| simple object-oriented <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Go (programming language)|Go]] <!-- Language -->
+| Application, web, server-side<!-- Intended use -->
+<!-- Sparse matrix for Go -->
+| {{Yes}}<!-- Imperative -->
+| <ref>[https://golang.org/doc/faq#Is_Go_an_object-oriented_language]</ref> <!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| {{Yes}}<!-- Event-driven (channels are built-in) -->
+<!-- -------------------- -->
+| concurrent <!-- Other paradigms -->
+| {{yes|''De facto'' standard}} via Go Language Specification <!-- Standardized? -->
+
+|- align="center"
+! [[Gosu (programming language)|Gosu]] <!-- Language -->
+| Application, general, scripting, web <!-- Intended use -->
+<!-- Sparse matrix for Gosu -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[GraphTalk]] <!-- Language -->
+| Application <!-- Intended use -->
+<!-- Sparse matrix for GraphTalk -->
+| <!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| logic <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Groovy (programming language)|Groovy]] <!-- Language -->
+| Application, general, scripting, web <!-- Intended use -->
+<!-- Sparse matrix for Groovy -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| aspect-oriented <!-- Other paradigms -->
+| {{no|In progress}}, [[Java Community Process|JCP]]<ref>[http://jcp.org/en/jsr/detail?id=241 JSR 241]</ref> <!-- Standardized? -->
+
+|- align="center"
+! [[Harbour (programming language)|Harbour]] <!-- Language -->
+| Application, business, data processing, general, web <!-- Intended use -->
+<!-- Sparse matrix for Harbour -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| [[declarative programming|declarative]] <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Haskell (programming language)|Haskell]] <!-- Language -->
+| Application <!-- Intended use -->
+<!-- Sparse matrix for Haskell -->
+| <!-- Imperative -->
+| <!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| <!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| [[lazy evaluation]] <!-- Other paradigms -->
+| {{yes|2010}}, Haskell 2010<ref>{{cite web|url=http://www.haskell.org/onlinereport/haskell2010/ |title=The Haskell 2010 Language Report |accessdate=2011-12-07}} Most Haskell implementations extend the Haskell 2010 standard.</ref> <!-- Standardized? -->
+
+|- align="center"
+! [[Haxe]] <!-- Language -->
+| Application, general, web <!-- Intended use -->
+<!-- Sparse matrix for Haxe -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| <!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[HyperNext]] <!-- Language -->
+| Application, education <!-- Intended use -->
+<!-- Sparse matrix for HyperNext -->
+| <!-- Imperative -->
+| <!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| [[weak typing|weakly typed]] <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[HyperTalk]] <!-- Language -->
+| Application, RAD, general <!-- Intended use -->
+<!-- Sparse matrix for HyperTalk -->
+| <!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| [[weak typing|weakly typed]] <!-- Other paradigms -->
+| {{unk}} <!-- Standardized? -->
+
+|- align="center"
+! [[Io (programming language)|Io]] <!-- Language -->
+| Application, host-driven scripting <!-- Intended use -->
+<!-- Sparse matrix for Io -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Information Processing Language|IPL]] <!-- Language -->
+| General <!-- Intended use -->
+<!-- Sparse matrix for IPL -->
+| <!-- Imperative -->
+| <!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{unk}} <!-- Standardized? -->
+
+|- align="center"
+! [[ISLISP]] <!-- Language -->
+| General <!-- Intended use -->
+<!-- Sparse matrix for ISLISP -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| <!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{yes|1997}}, [[International Organization for Standardization|ISO]] <!-- Standardized? -->
+
+|- align="center"
+! [[J (programming language)|J]] <!-- Language -->
+| Data processing <!-- Intended use -->
+<!-- Sparse matrix for J -->
+| <!-- Imperative -->
+| <!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| array-oriented, [[function-level programming|function-level]], tacit <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[JADE (programming language)|JADE]] <!-- Language -->
+| Application, distributed <!-- Intended use -->
+<!-- Sparse matrix for JADE -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Java (programming language)|Java]] <!-- Language -->
+| Application, business, client-side, general, mobile development, server-side, web <!-- Intended use -->
+<!-- Sparse matrix for Java -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| concurrent <!-- Other paradigms -->
+| {{yes|''De facto'' standard}} via Java Language Specification <!-- Standardized? -->
+
+|- align="center"
+! [[JavaScript]] <!-- Language -->
+| Client-side, server-side, web <!-- Intended use -->
+<!-- Sparse matrix for JavaScript -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| [[prototype-based]] <!-- Other paradigms -->
+| {{yes|1997}}, ECMA <!-- Standardized? -->
+
+|- align="center"
+! [[Joy (programming language)|Joy]] <!-- Language -->
+| Research <!-- Intended use -->
+<!-- Sparse matrix for Joy -->
+| <!-- Imperative -->
+| <!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| stack-oriented <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Julia (programming language)|Julia]] <!-- Language -->
+| General, technical computing <!-- Intended use -->
+<!-- Sparse matrix for Julia -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| [[multiple dispatch]], meta, scalar and [[Array programming|array-oriented]], parallel, concurrent, distributed ("cloud") <!-- Other paradigms -->
+| {{No}}<!-- Standardized? -->
+
+|- align="center"
+! [[K (programming language)|K]] <!-- Language -->
+| Data processing, business <!-- Intended use -->
+<!-- Sparse matrix for K -->
+| <!-- Imperative -->
+| <!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| array-oriented, tacit <!-- Other paradigms -->
+| {{unk}} <!-- Standardized? -->
+
+|- align="center"
+! [[Kotlin (programming language)|Kotlin]] <!-- Language -->
+| Application, mobile development, server-side, client-side, web<!-- Intended use -->
+<!-- Sparse matrix for Kotlin -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| <!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| {{Yes}}<ref>{{cite web|url=http://blog.jetbrains.com/kotlin/2014/07/m8-is-out/|title=M8 is out!|quote=As a first peek into the future reflective capabilities of Kotlin, you can now access properties as first-class objects in Kotlin}}</ref><!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+|{{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[LabVIEW]] (G) <!-- Language -->
+| Application, industrial instrumentation-automation <!-- Intended use -->
+<!-- Sparse matrix for LabVIEW (G) -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| [[dataflow programming|dataflow]], [[visual programming language|visual]] <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Lisp (programming language)|Lisp]] <!-- Language -->
+| General <!-- Intended use -->
+<!-- Sparse matrix for Lisp -->
+| <!-- Imperative -->
+| <!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{unk}} <!-- Standardized? -->
+
+|- align="center"
+! [[LiveCode]] <!-- Language -->
+| Application, RAD, general <!-- Intended use -->
+<!-- Sparse matrix for LiveCode -->
+| <!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| [[weak typing|weakly typed]] <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Logtalk]] <!-- Language -->
+| Artificial intelligence, application <!-- Intended use -->
+<!-- Sparse matrix for Logtalk -->
+| <!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| logic <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Linden Scripting Language|LSL]] <!-- Language -->
+| Virtual worlds content scripting and animation <!-- Intended use -->
+<!-- Sparse matrix for LSL -->
+| {{Yes}}<!-- Imperative -->
+| <!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| Scripts exist in in-world objects <!-- Other paradigms -->
+| {{Yes}}<ref>"De facto" reference is the [[Second_Life]] implementation of LSL. Halcyon (Inworldz) and Open Sims propose compatible implementations with additionnal functions </ref> <!-- Standardized? -->
+
+|- align="center"
+! [[Lua (programming language)|Lua]] <!-- Language -->
+| Application, embedded scripting <!-- Intended use -->
+<!-- Sparse matrix for Lua -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<ref>Lua doesn't have explicit "object" type (more general type of "table" is used for object definition), but does have explicit syntax for object method calling</ref> <!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| aspect-oriented <!-- Other paradigms -->
+| {{no}}<ref>Version releases are accompanied with a definitive Lua Reference Manual showing full syntax and semantics; a reference implementation, and a test suite. These are used to generate other Lua [[virtual machine|VM]] implementations and compilers such as [[Kahlua (software)|Kahlua]] and [[LLVM-Lua]].</ref> <!-- Standardized? -->
+
+|- align="center"
+! [[Maple (software)|Maple]] <!-- Language -->
+| Symbolic computation, numerical computing <!-- Intended use -->
+<!-- Sparse matrix for Maple -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| [[distributed programming|distributed]] <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Mathematica]] <!-- Language -->
+| Symbolic language <!-- Intended use -->
+<!-- Sparse matrix for Mathematica -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| logic, distributed <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[MATLAB]] <!-- Language -->
+| Highly domain-specific, numerical computing <!-- Intended use -->
+<!-- Sparse matrix for MATLAB -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Modula-2]] <!-- Language -->
+| Application, system <!-- Intended use -->
+<!-- Sparse matrix for Modula-2 -->
+| {{Yes}}<!-- Imperative -->
+| <!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{yes|1996}}, ISO<ref>ISO/IEC 10514-1:1996</ref> <!-- Standardized? -->
+
+|- align="center"
+! [[Modula-3]] <!-- Language -->
+| Application <!-- Intended use -->
+<!-- Sparse matrix for Modula-3 -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[MUMPS]] (M) <!-- Language -->
+| Application, databases <!-- Intended use -->
+<!-- Sparse matrix for MUMPS -->
+| {{Yes}}<!-- Imperative -->
+| <!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| [[Concurrent computing|concurrent]], [[multi-user]], [[NoSQL]], [[transaction processing]]<!-- Other paradigms -->
+| {{yes|1977}}, ANSI <!-- Standardized? -->
+
+|- align="center"
+! [[Nim (programming language)|Nim]] <!-- Language -->
+| Application, general, web, scripting, system <!-- Intended use -->
+<!-- Sparse matrix for Nim -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| [[multiple dispatch]], Concurrent, [[Metaprogramming|meta]]<!-- Other paradigms -->
+| {{no}}<!-- Standardized? -->
+
+|- align="center"
+! [[Oberon (programming language)|Oberon]] <!-- Language -->
+| Application, system <!-- Intended use -->
+<!-- Sparse matrix for Oberon -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}}<!-- Standardized? -->
+
+|- align="center"
+! [[Object Pascal]] <!-- Language -->
+| Application, general, mobile app, web <!-- Intended use -->
+<!-- Sparse matrix for Dart -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| structured <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Objective-C]] <!-- Language -->
+| Application, general <!-- Intended use -->
+<!-- Sparse matrix for Objective-C -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| concurrent <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[OCaml]] <!-- Language -->
+| Application, general <!-- Intended use -->
+<!-- Sparse matrix for OCaml -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Occam (programming language)|Occam]] <!-- Language -->
+| General <!-- Intended use -->
+<!-- Sparse matrix for Occam -->
+| {{Yes}}<!-- Imperative -->
+| <!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| concurrent, [[process-oriented programming|process-oriented]] <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Opa (programming language)|Opa]] <!-- Language -->
+| Web applications <!-- Intended use -->
+<!-- Sparse matrix for Opa -->
+| {{Yes}}<!-- Imperative -->
+| <!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| <!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| [[distributed programming|distributed]] <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[OpenLisp]] <!-- Language -->
+| General, Embedded Lisp Engine <!-- Intended use -->
+<!-- Sparse matrix for ISLISP -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| <!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{yes|Supersedes [[ISLISP]]}}, [[International Organization for Standardization|ISO]] <!-- Standardized? -->
+
+|- align="center"
+! [[Oxygene (programming language)|Oxygene]] <!-- Language -->
+| Application <!-- Intended use -->
+<!-- Sparse matrix for Oxygene -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Oz (programming language)|Oz-Mozart]] <!-- Language -->
+| Application, distribution, education <!-- Intended use -->
+<!-- Sparse matrix for Oz -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| concurrent, logic <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Pascal (programming language)|Pascal]] <!-- Language -->
+| Application, education <!-- Intended use -->
+<!-- Sparse matrix for Pascal -->
+| {{Yes}}<!-- Imperative -->
+| <!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{yes|1983}}, ISO<ref>ISO 7185</ref> <!-- Standardized? -->
+
+|- align="center"
+! [[Perl]] <!-- Language -->
+| Application, scripting, text processing, Web <!-- Intended use -->
+<!-- Sparse matrix for Perl -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Perl 6]] <!-- Language -->
+| Scripting, text processing, glue <!-- Intended use -->
+<!-- Sparse matrix for Perl 6 -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| aspect-oriented, array, lazy evaluation, multiple dispatch, metaprogramming<!-- Other paradigms -->
+| {{yes}} <!-- Standardized? -->
+
+|- align="center"
+! [[PHP]] <!-- Language -->
+| Server-side, web application, web <!-- Intended use -->
+<!-- Sparse matrix for PHP -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<ref>[http://php.net/manual/en/index.php PHP Manual], [http://php.net/manual/en/language.oop5.php Chapter 19. Classes and Objects (PHP 5)],</ref> <!-- Object-oriented -->
+| {{Yes}}<ref>[http://php.net/manual/en/index.php PHP Manual], [http://php.net/manual/en/language.functions.php Chapter 17. Functions]</ref><!-- Functional -->
+| {{Yes}} <!-- Procedural -->
+| <!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{yes|"De facto" standard}} via language specification and Requests for Comments (RFCs) <!-- Standardized? -->
+
+|- align="center"
+! [[PL/I]] <!-- Language -->
+| Application <!-- Intended use -->
+<!-- Sparse matrix for PL/I -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{yes|1969}}, ECMA-50 (1976)<!-- Standardized? -->
+
+|- align="center"
+! [[Plus (programming language)|Plus]] <!-- Language -->
+| Application, system development <!-- Intended use -->
+<!-- Sparse matrix for Plus -->
+| {{Yes}}<!-- Imperative -->
+| <!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Windows PowerShell|PowerShell]] <!-- Language -->
+| Administration, application, general, scripting <!-- Intended use -->
+<!-- Sparse matrix for PowerShell -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| [[pipeline programming|pipeline]] <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Prolog]] <!-- Language -->
+| Application, artificial intelligence <!-- Intended use -->
+<!-- Sparse matrix for Prolog -->
+| <!-- Imperative -->
+| <!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| logic, declarative <!-- Other paradigms -->
+| {{yes|1995}}, ISO <!-- Standardized? -->
+
+|- align="center"
+! [[PureBasic]] <!-- Language -->
+| Application <!-- Intended use -->
+<!-- Sparse matrix for PureBasic -->
+| <!-- Imperative -->
+| <!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Python (programming language)|Python]] <!-- Language -->
+| Application, general, web, scripting, artificial intelligence, scientific computing <!-- Intended use -->
+<!-- Sparse matrix for Python -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| aspect-oriented <!-- Other paradigms -->
+| {{yes|"De facto" standard}} via Python Enhancement Proposals (PEPs) <!-- Standardized? -->
+
+|- align="center"
+! [[R (programming language)|R]] <!-- Language -->
+| Application, statistics <!-- Intended use -->
+<!-- Sparse matrix for R -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Racket (programming language)|Racket]] <!-- Language -->
+| Education, general, scripting <!-- Intended use -->
+<!-- Sparse matrix for Racket -->
+| <!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| modular, logic, meta <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[REALbasic]] <!-- Language -->
+| Application <!-- Intended use -->
+<!-- Sparse matrix for REALbasic -->
+| <!-- Imperative -->
+| <!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{unk}} <!-- Standardized? -->
+
+|- align="center"
+! [[Rebol]] <!-- Language -->
+| Distributed <!-- Intended use -->
+<!-- Sparse matrix for REBOL -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| [[dialecting|dialected]] <!-- Other paradigms -->
+| {{no}}<!-- Standardized? -->
+
+|- align="center"
+! [[IBM RPG|RPG]] <!-- Language -->
+| Application, system <!-- Intended use -->
+<!-- Sparse matrix for IBM RPG -->
+| {{Yes}}<!-- Imperative -->
+| <!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Ruby (programming language)|Ruby]] <!-- Language -->
+| Application, scripting, web <!-- Intended use -->
+<!-- Sparse matrix for Ruby -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| aspect-oriented <!-- Other paradigms -->
+| {{yes|2011(JIS X 3017), 2012(ISO/IEC 30170)}} <!-- Standardized? -->
+
+|- align="center"
+! [[Rust (programming language)|Rust]] <!-- Language -->
+| Application, system <!-- Intended use -->
+<!-- Sparse matrix for Rust -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<ref>[https://doc.rust-lang.org/book/second-edition/ch17-00-oop.html Is Rust an Object-Oriented Programming Language?]</ref><!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| concurrent <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[S (programming language)|S]] <!-- Language -->
+| Application, statistics <!-- Intended use -->
+<!-- Sparse matrix for S -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[S-Lang (programming library)|S-Lang]] <!-- Language -->
+| Application, numerical, scripting <!-- Intended use -->
+<!-- Sparse matrix for S-Lang -->
+| {{Yes}}<!-- Imperative -->
+| <!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Scala (programming language)|Scala]] <!-- Language -->
+| Application, distributed, web <!-- Intended use -->
+<!-- Sparse matrix for Scala -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| <!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{yes|''De facto'' standard}} via Scala Language Specification (SLS) <!-- Standardized? -->
+
+|- align="center"
+! [[Scheme (programming language)|Scheme]] <!-- Language -->
+| Education, general <!-- Intended use -->
+<!-- Sparse matrix for Scheme -->
+| <!-- Imperative -->
+| <!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| extensible syntax<!-- Other paradigms -->
+| {{yes|1998}}, R<sup>6</sup>RS <!-- Standardized? -->
+
+|- align="center"
+! [[Seed7]] <!-- Language -->
+| Application, general, scripting, web <!-- Intended use -->
+<!-- Sparse matrix for Seed7 -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| multi-paradigm, extensible, structured <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Simula]] <!-- Language -->
+| Education, general <!-- Intended use -->
+<!-- Sparse matrix for Simula -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| [[discrete event simulation]], [[multi-threaded]] (quasi-parallel) program execution <!-- Other paradigms -->
+| {{yes|1968}} <!-- Standardized? -->
+
+|- align="center"
+! [[Microsoft Small Basic|Small Basic]] <!-- Language -->
+| Application, education, games <!-- Intended use -->
+<!-- Sparse matrix for Small Basic -->
+| {{Yes}}<!-- Imperative -->
+| <!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| [[component-oriented programming|component-oriented]] <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Smalltalk]] <!-- Language -->
+| Application, general, business, artificial intelligence, education, web <!-- Intended use -->
+<!-- Sparse matrix for Smalltalk -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| concurrent, declarative <!-- Other paradigms -->
+| {{yes|1998}}, [ANSI <!-- Standardized? -->
+
+|- align="center"
+! [[SNOBOL]] <!-- Language -->
+| Text processing <!-- Intended use -->
+<!-- Sparse matrix for SNOBOL -->
+| <!-- Imperative -->
+| <!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{unk}} <!-- Standardized? -->
+
+|- align="center"
+! [[Standard ML]] <!-- Language -->
+| Application <!-- Intended use -->
+<!-- Sparse matrix for Standard ML -->
+| {{Yes}}<!-- Imperative -->
+| <!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| <!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{yes|1997}}, SML '97<ref>[http://www.smlnj.org/sml97.html SMLNJ.org]</ref> <!-- Standardized? -->
+
+|- align="center"
+! [[Swift (programming language)|Swift]] <!-- Language -->
+| Application, general <!-- Intended use -->
+<!-- Sparse matrix for Swift -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| concurrent, Multi-paradigm <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Tcl]] <!-- Language -->
+| Application, scripting, web <!-- Intended use -->
+<!-- Sparse matrix for Tcl -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Visual Basic]] <!-- Language -->
+| Application, RAD, education, business, general, (Includes VBA), office automation <!-- Intended use -->
+<!-- Sparse matrix for Visual Basic -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| <!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| [[component-oriented programming|component-oriented]] <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! {{nowrap|[[Visual Basic .NET]]}} <!-- Language -->
+| Application, RAD, education, web, business, general <!-- Intended use -->
+<!-- Sparse matrix for Visual Basic .NET -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| {{Yes}}<!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| structured, concurrent <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Visual FoxPro]] <!-- Language -->
+| Application <!-- Intended use -->
+<!-- Sparse matrix for Visual FoxPro -->
+| <!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| data-centric, logic <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Visual Prolog]] <!-- Language -->
+| Application <!-- Intended use -->
+<!-- Sparse matrix for Visual Prolog -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| declarative, logic <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Wolfram Language]] <!-- Language -->
+| Symbolic language <!-- Intended use -->
+<!-- Sparse matrix for Wolfram Language -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| logic, distributed <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[XL (programming language)|XL]] <!-- Language -->
+| <!-- Intended use -->
+<!-- Sparse matrix for XL -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| [[concept programming]] <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[Xojo]] <!-- Language -->
+| Application, RAD, general, web <!-- Intended use -->
+<!-- Sparse matrix for Xojo -->
+| {{Yes}}<!-- Imperative -->
+| {{Yes}}<!-- Object-oriented -->
+| <!-- Functional -->
+| {{Yes}}<!-- Procedural -->
+| <!-- Generic -->
+| {{Yes}}<!-- Reflective -->
+| {{Yes}}<!-- Event-driven -->
+<!-- -------------------- -->
+| <!-- Other paradigms -->
+| {{no}} <!-- Standardized? -->
+
+|- align="center"
+! [[XPath]]/[[XQuery]] <!-- Language -->
+| Databases, data processing, scripting <!-- Intended use -->
+<!-- Sparse matrix for XQuery -->
+| <!-- Imperative -->
+| <!-- Object-oriented -->
+| {{Yes}}<!-- Functional -->
+| <!-- Procedural -->
+| <!-- Generic -->
+| <!-- Reflective -->
+| <!-- Event-driven -->
+<!-- -------------------- -->
+| [[Tree (data structure)|tree-oriented]] <!-- Other paradigms -->
+| {{yes|W3C}} 1999 XPath 1, 2010 XQuery 1, 2014 XPath/XQuery 3.0 <!-- Standardized? -->
+
+<!-- -------------------- -->
+|- align="center"
+! Caché Object Script
+| Application Programming<!--What this was to be used for originally. Not what it is used for now, which is hard to verify.-->
+| {{Yes}}
+| {{No}}
+| {{Yes}}
+| {{Yes}}
+| 
+| 
+| 
+| Concurrent
+| {{No}}
+|}
+|-

@@ -5,12 +5,10 @@ const _ = require('lodash')
 
 // Setup — set these constants then run the script
 
-const page_title = 'Timeline of programming languages'
-const filename = 'timeline_of_programming_languages.json'
-const page_url =
-    'https://en.wikipedia.org/wiki/Timeline_of_programming_languages'
-const column_number = 2
-const scraped_data = '../scraped_pages/timeline_of_programming_languages.txt'
+const filename = 'comparison_of_programming_languages_general_comparison'
+const url =
+    'https://en.wikipedia.org/wiki/Comparison_of_programming_languages#General_comparison'
+const column_number = 1
 
 // End setup
 
@@ -26,10 +24,14 @@ const sharp = /\s+sharp$/i
 
 // End RegExps
 
-const json_output = { page_title, filename, page_url, technologies: [] }
+const json_output = {
+    filename: `${filename}.json`,
+    url,
+    technologies: [],
+}
 
 try {
-    let text = fs.readFileSync(scraped_data, 'utf8')
+    let text = fs.readFileSync(`../scraped_pages/${filename}.txt`, 'utf8')
     text.match(rows).forEach(row => {
         row.match(columns).forEach((column, i) => {
             // if we're on the selected column number
@@ -45,7 +47,7 @@ try {
     json_output.technologies = _.sortBy(_.uniq(json_output.technologies))
 
     fs.writeFileSync(
-        `../../lists_by_page/${filename}`,
+        `../../lists_by_page/${filename}.json`,
         JSON.stringify(json_output, null, 4)
     )
 } catch (e) {
