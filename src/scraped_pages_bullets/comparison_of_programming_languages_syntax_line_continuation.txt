@@ -1,0 +1,62 @@
+
+;[[Whitespace character|Whitespace]] – Languages that do not need continuations
+* [[Ada (programming language)|Ada]] – Lines terminate with semicolon
+* [[C Sharp (programming language)|C#]] – Lines terminate with semicolon
+* [[JavaScript]] - Lines terminate with semicolon (which may be inferred)
+* [[Lua (programming language)|Lua]]
+* [[OCaml]]
+
+;[[Ampersand]] as last character of line
+* [[Fortran 90]], [[Fortran 95]], [[Fortran 2003]], [[Fortran 2008]]
+
+;[[Backslash]] as last character of line
+* [[Bash (Unix shell)|bash]]<ref>''[https://www.gnu.org/software/bash/manual/bashref.html Bash Reference Manual],'' [https://www.gnu.org/software/bash/manual/bashref.html#Escape-Character 3.1.2.1 Escape Character]</ref> and other Unix shells
+* [[C (programming language)|C]] and [[C++]] preprocessor
+* [[Mathematica]] and [[Wolfram Language]]
+* [[Python (programming language)|Python]]<ref>[https://docs.python.org/ Python Documentation], [https://docs.python.org/3/reference/lexical_analysis.html 2. Lexical analysis]: [https://docs.python.org/3/reference/lexical_analysis.html#explicit-line-joining 2.1.5. Explicit line joining]</ref>
+* [[Ruby (programming language)|Ruby]]
+* [[JavaScript]] - only within single- or double-quoted strings
+
+;[[Backtick]] as last character of line
+* [[PowerShell]]
+
+;[[Hyphen]] as last character of line
+* [[SQL*Plus]]
+
+;[[Underscore]] as last character of line
+* [[Autoit]]
+* [[Cobra (programming language)|Cobra]]
+* [[Visual Basic]]
+* [[Xojo]]
+
+;[[Ellipsis]] (as three periods–not one special character)
+* [[MATLAB]]: The ellipsis token need not be the last characters on the line, but any following it will be ignored.<ref>[http://www.mathworks.com/access/helpdesk/help/techdoc/matlab_env/f0-5789.html Mathworks.com] {{webarchive|url=https://web.archive.org/web/20100207151905/http://www.mathworks.com/access/helpdesk/help/techdoc/matlab_env/f0-5789.html |date=7 February 2010 }}</ref> (In essence, it begins a comment that extends ''through'' (i.e. including) the first subsequent newline character. Contrast this with an inline comment, which extends ''until'' the first subsequent newline.)
+
+;[[Delimiter|Comma delimiter]] as last character of line
+* Ruby (comment may follow delimiter)
+
+;[[Delimiter#Bracket delimiters|Left bracket delimiter]] as last character of line
+* [[Batch file]]: starting a parenthetical block can allow line continuation<ref>https://ss64.com/nt/syntax-brackets.html</ref>
+* Ruby: [[brackets|left parenthesis, left square bracket, or left curly bracket]]
+
+;[[Operator (computer programming)|Operator]] as last object of line
+* Ruby (comment may follow operator)
+
+;[[Operator (computer programming)|Operator]] as first character of continued line
+* [[AutoHotkey]]: Any expression operators except ++ and --, as well as a comma or a period<ref>https://autohotkey.com/docs/Scripts.htm#continuation</ref>
+
+;[[Backslash]] as first character of continued line
+* [[Vimscript]]
+
+;Some form of [[#Inline comments|inline comment]] serves as line continuation
+* [[Turbo Assembler]]: <code>\</code>
+* [[M4 (computer language)|m4]]: <code>dnl</code>
+* [[TeX]]: <code>%</code>
+
+;Character position
+* [[Fortran 77]]: A non-comment line is a continuation of the previous non-comment line if any non-space character appears in column 6.  Comment lines cannot be continued.
+* [[COBOL]]: String constants may be continued by not ending the original string in a PICTURE clause with <code>'</code>, then inserting a <code>-</code> in column 7 (same position as the <code>*</code> for comment is used.)
+* [[TUTOR (programming language)|TUTOR]]: Lines starting with a tab (after any indentation required by the context) continue the previous command.
+
+;[End and Begin] using normal quotes
+* [[C (programming language)|C]] and [[C++]] preprocessor: The string is ended normally and continues by starting with a quote on the next line.

@@ -5,9 +5,9 @@ const _ = require('lodash')
 
 // Setup — set these constants then run the script
 
-const filename = 'fourth_generation_programming_language'
+const filename = 'comparison_of_programming_languages_syntax_line_continuation'
 const url =
-    'https://en.wikipedia.org/wiki/Fourth-generation_programming_language#Examples'
+    'https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax)#Line_continuation'
 
 // End setup
 

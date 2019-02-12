@@ -1,0 +1,33 @@
+{
+    "filename": "comparison_of_programming_languages_syntax_line_continuation.json",
+    "url": "https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax)#Line_continuation",
+    "technologies": [
+        "Ada",
+        "AutoHotkey",
+        "Autoit",
+        "bash",
+        "Batch file",
+        "C",
+        "C#",
+        "COBOL",
+        "Cobra",
+        "Fortran 77",
+        "Fortran 90",
+        "JavaScript",
+        "Lua",
+        "m4",
+        "Mathematica",
+        "MATLAB",
+        "OCaml",
+        "PowerShell",
+        "Python",
+        "Ruby",
+        "SQL*Plus",
+        "TeX",
+        "Turbo Assembler",
+        "TUTOR",
+        "Vimscript",
+        "Visual Basic",
+        "Xojo"
+    ]
+}
