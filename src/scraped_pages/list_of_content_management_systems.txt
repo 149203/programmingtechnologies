@@ -1,0 +1,777 @@
+|-
+|{{rh}}|[[Apache Roller]]
+|[[Java (programming language)|Java]]
+|[[HSQL]], [[MySQL]], [[Oracle database|Oracle]], [[Microsoft SQL Server|SQL Server]], [[IBM DB2|DB2]], [[PostgreSQL]], [[Apache Derby]]
+|5.2.0
+|[[Apache License|Apache 2.0 License]]
+|2017-11-06
+|-
+|{{rh}}|[[Ametys CMS]]
+|[[Java (programming language)|Java]]
+|[[MySQL]], [[Oracle database|Oracle]], [[Microsoft SQL Server|SQL Server]], [[Content repository API for Java|JCR]], [[Apache Derby]]
+|3.7.1
+|[[Apache License|Apache 2.0 License]]
+|2015-04-27
+|-
+|{{rh}}|[[Crafter CMS]]
+|[[Java (programming language)|Java]]
+|[[Git]], [[Solr]], [[CMIS]]
+|3.0.0
+|[[GNU]] [[GPL]] v3
+|2017-08-01
+|-
+|{{rh}}|[[dotCMS]]
+|[[Java (programming language)|Java]]
+|[[MySQL]], [[Oracle Database|Oracle]], [[MSSQL]], [[PostgreSQL]]
+|5.0.3
+|[[GNU]] [[GPL]] v3
+|2018-11-09
+|-
+|{{rh}}|[[DSpace]]
+|[[Java (programming language)|Java]]
+|[[Oracle database|Oracle]], [[PostgreSQL]]
+|5.0
+|[[BSD License]]
+|2015-01-16
+|-
+|{{rh}}|[[Enonic XP]]
+|[[Java (programming language)|Java]]
+|Embedded [[NoSQL]]
+|6.15.0
+|[[GPL]] v3
+| 2018-07-17
+|-
+|{{rh}}|[[Fedora Commons]]
+|[[Java (programming language)|Java]]
+|[[MySQL]], [[Oracle database|Oracle]], [[PostgreSQL]], [[Mulgara (software)|Mulgara]] (MPTSTore RDF Semantic Triplestore)
+|4.1.0
+|[[Apache License]]
+| 2015-02-04
+|-
+|{{rh}}|[[LogicalDOC]] Community Edition
+|[[Java platform|Java]]
+|[[MySQL]], [[Oracle database|Oracle]], [[Microsoft SQL Server|SQL Server]], [[PostgreSQL]]
+|7.4.2<ref>{{cite web|url=https://sourceforge.net/p/logicaldoc/news/2016/03/opensource-document-management-742-logicaldoc-dms/|title=OpenSource Document Management 7.4.2 LogicalDOC DMS|work=sourceforge.net}}</ref>
+|[[LGPL]]
+|2016-03-24
+|-
+|{{rh}}|[[Nuxeo|Nuxeo EP]]
+|[[Java (programming language)|Java]]
+|[[MySQL]], [[Oracle database|Oracle]], [[Microsoft SQL Server|SQL Server]], [[Ingres (database)|Ingres]], [[PostgreSQL]], [[MongoDB]]
+|10.2
+|[[Apache License|Apache 2.0 License]]
+|2018-07-26
+|-
+|{{rh}}|[[OpenCms]]
+|[[Java (programming language)|Java]]
+|[[HSQL]], [[MySQL]], [[Oracle database|Oracle]], [[Microsoft SQL Server|SQL Server]], [[IBM DB2|DB2]], [[PostgreSQL]]
+|10.5.4
+|[[LGPL]]
+|2018-05-17
+|-
+|{{rh}}|[[Alfresco (software)|Alfresco]] Community Edition
+|[[Java platform|Java]]
+|[[MySQL]], [[Oracle database|Oracle]], [[Microsoft SQL Server|SQL Server]], [[PostgreSQL]], [[IBM DB2|DB2]], 
+|201808 EA
+|[[LGPL]]
+|2018-08-14
+|-
+|{{rh}}|[[Hippo CMS]]
+|[[Java (programming language)|Java]]
+|[[MySQL]], [[Oracle database|Oracle]], [[Microsoft SQL Server|SQL Server]], [[Ingres (database)|Ingres]], [[PostgreSQL]], [[Content repository API for Java|JCR]]
+|12.0.2<ref>{{cite web|url=http://www.onehippo.org/library/about/release-notes/release-notes-overview.html|title=Hippo CMS Release Notes Overview - Enterprise Java Content management system - Hippo CMS|work=onehippo.org}}</ref>
+|[[Apache License|Apache 2.0 License]]
+|2018-08-01
+|-
+|{{rh}}|[[OpenWGA]]
+|[[Java (programming language)|Java]]
+|[[MySQL]], [[PostgreSQL]], [[IBM DB2]], [[HSQLDB]], [[Oracle database|Oracle]], [[Microsoft SQL Server|SQL Server]], [[IBM Lotus Domino]], [[Content Management Interoperability Services|CMIS]]
+|7.1
+|[[GPL]] & proprietary
+|2015-02-25
+|-
+|{{rh}}|[[Jahia]] Community Distribution
+|[[Java (programming language)|Java]]
+|[[Apache Derby]], [[Content repository API for Java|JCR]], [[MySQL]], [[PostgreSQL]]
+|7.2.2
+|[[GPL]]
+|2018-03-01
+|-
+|{{rh}}|[[Magnolia (CMS)|Magnolia]]
+|[[Java (programming language)|Java]]
+|[[H2 (DBMS)|H2]], [[Apache Derby|Derby]], [[MySQL]], [[PostgreSQL]], [[Oracle database|Oracle]], [[Microsoft SQL Server|MSSQL]]
+|5.6
+|[[GPL]] & proprietary
+|2017-11-15
+|-
+|{{rh}}|[[OpenKM]]
+|[[Java (programming language)|Java]]
+|[[MySQL]], [[PostgreSQL]], [[Oracle database|Oracle]], [[Microsoft SQL Server|SQL Server]], [[HSQLDB]]
+|6.3.6
+|[[GPL]]
+|2018-03-06
+|-
+|{{rh}}|[[XWiki]]
+|[[Java (programming language)|Java]]
+|[[MySQL]], [[PostgreSQL]], [[Oracle database|Oracle]], [[Microsoft SQL Server|SQL Server]], [[HSQLDB]]
+|10.2
+|[[LGPL]]
+|2018-03-26
+|-
+|{{rh2}}|[[Apache Lenya]]
+|[[Java (programming language)|Java]], [[XML]], [[Apache Cocoon]]
+|
+|2.0.4<ref>[http://mail-archives.apache.org/mod_mbox/lenya-user/201103.mbox/%3Calpine.DEB.2.00.1103142027440.12871@wintermute.proteosys%3E [Announce&#93; Apache Lenya 2.0.4 released]. Mail-archives.apache.org (2011-03-14). Retrieved on 2013-08-11.</ref>
+|[[Apache License]]
+|2011-03-14
+|-
+|{{rh2}}|[[Daisy (software)|Daisy]]
+|[[Java (programming language)|Java]], [[XML]], [[Apache Cocoon]]
+||[[MySQL]]
+|2.4.2
+|[[Apache License]]
+|2011-02-21
+|-
+|{{rh}}|[[C1 CMS]]
+|[[ASP.NET]] (Web Forms, MVC)
+|[[XML]], [[Microsoft SQL Server|SQL Server]]
+|6.4
+|[[Mozilla Public License]]
+|2018-03-07<ref>[https://github.com/Orckestra/C1-CMS-Foundation/releases Orckestra C1 - Releases]. github.com/Orckestra. Retrieved on 2018-05-21.</ref>
+|-
+|{{rh}}|[[DotNetNuke|DNN]]
+|[[ASP.NET]] (Web Forms, MVC)
+|[[Microsoft SQL Server|SQL Server]], [[SQL Server Express]], [[SQL Azure]]
+|9.2.0
+|[[MIT License]]
+|2017-07-05<ref>{{cite web|title=Releases · dnnsoftware_Dnn.Platform|url=https://github.com/dnnsoftware/Dnn.Platform/releases/|website=GitHub|publisher=GitHub|accessdate=7 July 2017}}</ref>
+|-
+|{{rh}}|[[Kentico CMS]]
+|[[ASP.NET]]
+|[[Microsoft SQL Server|SQL Server]]
+|10.0
+|Proprietary, [[Free software|Free]]
+|2016-11-30<ref>[http://www.kentico.com/product/version-history Kentico Version History]</ref>
+|-
+|{{rh}}|[[mojoPortal]]
+|[[ASP.NET]]
+|[[Microsoft SQL Server|SQL Server]], [[MySQL]], [[PostgreSQL]], [[SQLite]], [[Firebird (database server)|Firebird]], [[SQLCE|SQL CE]]
+|2.4.1.0
+|[[Common Public License|CPL]]
+|2016-04-10<ref>[https://www.mojoportal.com/mojoportal-2410-released]. mojoPortal. Retrieved on 2016-04-10.</ref>
+|-
+|{{rh}}|[[Orchard Project]]
+|[[ASP.NET]] (Web Forms, MVC)
+|[[Microsoft SQL Server|SQL Server]], [[MySQL]], [[PostgreSQL]], [[SQLite]]
+|1.10.1
+|[[New BSD License]]
+|2016-05-11<ref>http://docs.orchardproject.net/Documentation/Orchard-1-10-1.Release-Notes</ref>
+|-
+|{{rh}}|[[Umbraco]]
+|[[ASP.NET]] (Web Forms, MVC)
+|[[Microsoft SQL Server|SQL Server]], [[SQL Server Compact|SQL CE]], [[SQL Azure]], [[MySQL]]
+|7.13.1
+|[[MIT License]]
+|2019-01-15<ref>[https://our.umbraco.com/download/releases/7131]</ref>
+|-
+|{{rh}}|[[BetterCMS]]
+|[[ASP.NET]] (Web Forms, MVC)
+|[[Microsoft SQL Server|SQL Server]], [[SQL Azure]]<ref name="devbridge">{{cite web|url=https://www.devbridge.com/articles/better-cms-for-developers/|title=Better CMS for Developers|publisher=devbridge.com|accessdate=2016-05-13|deadurl=yes|archiveurl=https://web.archive.org/web/20160416112958/https://www.devbridge.com/articles/better-cms-for-developers/|archivedate=2016-04-16|df=}}</ref>
+|2.0.6
+|[[GNU Lesser General Public License|LGPL]]
+|2016-06-14<ref name=":0">{{cite web|url=http://wiki.sensenet.com/Changelog_6.5.3_-_6.5.4|title=Sensenet ECM Release Notes|last=|first=|date=|website=|publisher=Sense/Net Inc.|access-date=}}</ref>
+|-
+|{{rh2}}|[[blosxom]]
+|[[Perl]]
+|[[Flat-file database]]
+|2.1.2
+|[[MIT License|MIT]]
+|2008-10-02
+|-
+|{{rh2}} | [[Bricolage (software)|Bricolage]]
+|[[Perl]] on [[mod perl]]
+||[[MySQL]], [[PostgreSQL]], [[Oracle database|Oracle]]
+|2.0.1
+|[[BSD licenses|BSD]]
+|2011-02-09
+|-
+|{{rh}}|[[EPrints]]
+|[[Perl]] on [[mod perl]]
+||[[MySQL]], [[PostgreSQL]]
+|3.3.15
+|[[GPL]]
+|2015-12-22<ref name="ep_release">{{cite web | url=http://www.eprints.org/uk/index.php/2015/12/22/eprints-3-3-15-available-to-download/ | title=EPrints 3.3.15 available to download | publisher=eprints.org | accessdate=20 July 2016}}</ref>
+|-
+|{{rh}}|[[Foswiki]]
+|[[Perl]]
+|[[Flat-file database]]
+|2.1.6
+|[[GPL]]
+|2018-03-02<ref name="foswiki_release">https://blog.foswiki.org/Blog/Foswiki216SecurityUpdate</ref>
+|-
+|{{rh}}|[[Ikiwiki]]
+|[[Perl]]
+|[[Git (software)]], [[Apache Subversion]], [[Mercurial]]
+| 3.20170111
+|[[GPL]]
+|2017-01-11<ref name="iki_release">http://ikiwiki.info/news/version_3.20170111//</ref>
+|-
+|{{rh2}}|[[Movable Type]] Open Source
+|[[Perl]], [[mod perl]], [[FastCGI]], w/[[PHP]]
+|[[MySQL]]
+|5.2.13
+|[[GPL]]
+|2015-04-14<ref name="mt_release">{{cite web | url=https://movabletype.org/news/2015/04/movable_type_608_and_5213_released_to_close_security_vulnera.html | title=Movable Type 6.0.8 and 5.2.13 released to close security vulnerability | publisher=moveabletype.org | accessdate=10 January 2017}}</ref>
+|-
+|{{rh2}}|[[TWiki]]
+|[[Perl]]
+|Plain files (under version control)
+|6.0.2
+|[[GPL]]
+|2015-11-29<ref name="twiki_release">http://www.twiki.org/cgi-bin/view/Blog/BlogEntry201511x1</ref>
+|-
+|{{rh2}}|[[Sellerdeck]] eCommerce
+|[[Perl]]
+|[[Flat-file database]], [[Flat-file database]]
+|16.0.3
+|[[GPL]]
+|2017-02-20
+|-
+|{{rh2}}|[[SPINE (software)|SPINE]]
+|[[Perl]], [[mod perl]]
+||[[MySQL]], [[PostgreSQL]]
+|1.2.2
+|[[GPL]]
+|2006-12-27
+|-
+|{{rh}}|[[WebGUI]]
+|[[Perl]] on [[mod perl]]
+|[[MySQL]]
+|7.10.30
+|[[GPL]]
+|2016-01-06<ref>http://blog.webgui.org/post/136751315064/webgui-71030-stable-release</ref>
+|-
+|{{rh}}|[[ATutor]]
+|[[PHP]]
+|[[MySQL]]
+|{{ATutor version}}
+|[[GPL]]
+|{{ATutor version|releasedate}}
+|-
+|{{rh}}|[[b2evolution]]
+|[[PHP]]
+|[[MySQL]], [[MariaDB]]<ref name="requirements">{{Cite web |url=http://b2evolution.net/man/system-requirements |title=System requirements |website=b2evolution.net}}</ref>
+|{{b2evolution version}}
+|[[GNU General Public License#Version 2|GPLv2]]
+|{{b2evolution version|releasedate}}
+|-
+|{{rh}}|[[CMSimple]]
+|[[PHP]]
+|[[Flat-file database]]
+| 4.7.5
+|[[GPLv3]]
+|2018-07-21<ref>{{cite web|url=http://www.cmsimple.org/|title=CMSimple|author=Gert Ebersbach|work=cmsimple.org}}</ref>
+|-
+|{{rh}}|[[CMS Made Simple]]
+|[[PHP]]
+|[[MySQL]]
+|2.2.7
+|[[GPL]]
+|2018-03-10<ref name="cms_release">http://www.cmsmadesimple.org/downloads/</ref>
+|-
+|{{rh2}}|[[Coderity]]
+|[[PHP]]
+|[[MySQL]]
+|3.3.13
+|[[MIT License|MIT]]
+|2015-02-27<ref name="coderity_release">https://github.com/coderity/app</ref>
+|-
+|{{rh}}|[[Composr CMS]]
+|[[PHP]]
+|[[MySQL]]
+|10.0.13
+|[[Common Public Attribution License|CPAL]]
+|2018-01-22<ref>{{Cite web|url=https://compo.sr/news/view/new-releases/composr-10-0-13-released.htm|title=Composr 10.0.13 released|website=Composr CMS|language=en-GB|access-date=2018-03-13}}</ref>
+|-
+|{{rh}}|[[concrete5]]
+|[[PHP]]
+|[[MySQL]], [[MariaDB]]
+|8.4.4
+|[[MIT license|MIT]]
+|2019-01-10<ref>[https://documentation.concrete5.org/developers/background/version-history Version History]. concrete5. Retrieved on 2019-01-12.</ref>
+|-
+|{{rh}}|[[Contao]]
+|[[PHP]]
+|[[MySQL]]
+|4.5.3
+|[[GNU Lesser General Public License|LGPL]]
+|2018-01-23<ref>[https://contao.org/en/news/contao-4_5_3.html Contao 4.5.3 is available]. Contao.org.</ref>
+|-
+|{{rh}}|[[DokuWiki]]
+|[[PHP]]
+|[[Flat-file database]]
+|{{Dokuwiki version}}
+
+|[[GPL]]
+
+|{{Dokuwiki version|releasedate}}
+|-
+|{{rh}}|[[Dotclear]]
+|[[PHP]]
+|[[MySQL]], [[PostgreSQL]], [[SQLite]]
+|2.12
+|[[GPL]]
+|2017-07-27<ref name="dotclear_release">https://dotclear.org/</ref>
+|-
+|{{rh}}|[[Drupal]]
+|[[PHP]]
+|[[MariaDB]], [[Microsoft SQL Server]], [[MySQL]], [[Oracle database|Oracle]], [[Percona Server]], [[PostgreSQL]], [[SQLite]]<ref>{{cite web|url=http://drupal.org/requirements|title=System requirements|publisher=Drupal.org|accessdate=2017-07-02}}</ref>
+|{{Drupal version}}
+|[[Gpl#Version 2|GPLv2+]]
+|2018-10-17
+|-
+|{{rh}}|[[Exponent CMS]]
+|[[PHP]]
+|[[MySQL]]
+|{{ExponentCMS version}}
+|[[GPL]]
+|{{ExponentCMS version|releasedate}}
+|-
+|{{rh2}}|[[eZ Publish]]
+|[[PHP]]
+|[[MySQL]], [[PostgreSQL]], [[Oracle database|Oracle]], [[Microsoft SQL Server]]
+|5.4
+|[[GPL]]
+|2014-12-02<ref>{{cite web | url=http://ez.no/5.4 | title=Introducing eZ Publish Platform 5.4 | publisher=eZ Systems | accessdate=2014-12-12}}</ref>
+|-
+|{{rh}}|[[eZ Platform]]
+|[[PHP]]
+|[[MySQL]], [[MariaDB]], [[PostgreSQL]]
+|{{EZ Platform version}}
+|[[GPL]]
+|{{EZ Platform version|releasedate}}
+|-
+|{{rh}}|[[Geeklog]]
+|[[PHP]]
+|[[MySQL]], [[PostgreSQL]], [[Microsoft SQL Server]]
+|2.1.3
+|[[GPL]]
+|2017-06-22<ref name="geeklog">{{cite web|url=https://www.geeklog.net/article.php/geeklog-v2-1-3 |title=2.1.3 |publisher=Geeklog |date= |accessdate=2017-07-26}}</ref>
+|-
+|{{rh}}|[[GetSimple CMS]]
+|[[PHP]]
+|[[Flat-file database]]
+|3.3.14
+|[[GPL]]
+|2018-09-01<ref>{{cite web|url=http://get-simple.info/changelog/|title=Version Change Log &#124; GetSimple CMS|work=get-simple.info}}</ref>
+|-
+|{{rh}}|[[Grav]]
+|[[PHP]]
+|[[Flat-file database]]
+|1.5.3
+|[[MIT license|MIT]]
+|2018-10-05<ref>{{cite web|url=https://getgrav.org/downloads#changelog|title=Version Change Log &#124; Grav|work=getgrav.org}}</ref>
+|-
+|{{rh2}}|[[Habari]]
+|[[PHP]]
+|[[MySQL]], [[PostgreSQL]],<ref>{{cite web|url=http://wiki.habariproject.org/en/FAQ#Does_Habari_work_with_PostgreSQL.3F|title=FAQ|work=habariproject.org}}</ref> [[SQLite]]
+|0.9.2
+|[[Apache License]]
+|2014-09-16<ref name="hab_release">{{cite web|url=http://habariproject.org/en/blog/habari-092-released|title=Habari Project|publisher=habariproject.org|accessdate=2016-05-13}}</ref>
+|-
+|{{rh}}|[[ImpressCMS]]
+|[[PHP]]
+|[[MySQL]]
+|1.3.11
+|[[GPL]]
+|2018-12-08<ref name="impcms_release">https://github.com/ImpressCMS/impresscms/releases/latest</ref>
+|-
+|{{rh}}|[[ImpressPages]]
+|[[PHP]]
+|[[MySQL]]
+|4.8.0
+|[[GPL]] [[MIT License|MIT]]
+|2016-10-30<ref>{{cite web|url=https://www.impresspages.org/impresspages-4-8-0|title=ImpressPages 4.8.0|work=impresspages.org}}</ref>
+|-
+|{{rh}}|[[Jamroom]]
+|[[PHP]]
+|[[MySQL]], [[MariaDB]], [[Percona]]
+|6.1.0
+|[[Mozilla Public License|MPL]]
+|2017-08-30<ref>{{cite web |publisher=Jamroom |title=Jamroom 6.1 Has Been Released |url=https://www.jamroom.net/the-jamroom-network/forum/new_posts/53689/jamroom-61-has-been-released |accessdate=2017-08-30}}</ref>
+|-
+|{{rh}}|[[Joomla!]]
+|[[PHP]]
+|[[MySQL]], [[PostgreSQL]], [[MSSQL]], [[SQLite]]
+|3.9.2
+|[[GPL]]
+|2019-01-15<ref>{{cite web |url=https://www.joomla.org/announcements/release-news/5755-joomla-3-9-2-release.html |title=Joomla! 3.9.2 Released |date=2019-01-15 |work=Joomla.org |accessdate=2019-01-17}}</ref>
+|-
+|{{rh}}|[[Kajona]]
+|[[PHP]]
+|[[MySQL]], [[PostgreSQL]], [[SQLite]], [[MariaDB]], [[Oracle Database|Oracle]]
+|6.2
+|[[LGPL]]
+|2017-06-08<ref name="kajona_release">{{cite web | url=https://github.com/kajona/kajonacms/releases | title=Releases | publisher=github.com | accessdate=10 June 2017}}</ref>
+|-
+|{{rh}}|[[Known (software)|Known]]
+|[[PHP]]
+|[[MySQL]], [[MongoDB]]
+|0.9.9
+|[[Apache License]]
+|2017-05-16<ref name="known_release">https://github.com/idno/Known/releases</ref>
+|-
+|{{rh}}|[[Magento]]
+|[[PHP]]
+|[[MySQL]]
+|2.2.5
+|[[OSL Ver. 3]] / [[AFL Ver. 3]]
+|2018-06-27<ref name="magentocommerce.com">{{cite web|url=https://magento.com/tech-resources/download|title=Open Source Ecommerce Software & Solutions - Magento}}</ref>
+|-
+|{{rh2}}|[[Mambo (software)|Mambo]]
+|[[PHP]]
+|[[MySQL]]
+|4.6.5
+|[[GPL]]
+|2008-06-01
+|-
+|{{rh}}|[[MediaWiki]]
+|[[PHP]]
+|[[MySQL]], [[MariaDB]], [[PostgreSQL]], [[SQLite]], [[MSSQL]]<ref>https://www.mediawiki.org/wiki/Manual:Installation_requirements#Database_server</ref>
+|1.32.0
+|[[GPL]]
+|2019-01-11<ref name="mw_release">{{cite web|url=https://www.mediawiki.org/wiki/MediaWiki|title=Welcome to MediaWiki.org|at=News section|accessdate=11 January 2019}}</ref>
+|-
+|{{rh2}}|[[MiaCMS]]
+|[[PHP]]
+|[[MySQL]]
+|4.9
+|[[GPL]]
+|2009-07-29<ref>{{cite web|url=http://miacms.org/ |title=Home - MiaCMS Official Website |publisher=Miacms.org |date= |accessdate=2014-02-23}}</ref>
+|-
+|{{rh}}|[[Microweber]]
+|[[PHP]]
+|[[MySQL]], [[PostgreSQL]], [[SQLite]]
+|1.0.15
+|[[Apache License]]
+|2018-04-10
+|-
+|{{rh2}}|[[Midgard (software)|Midgard CMS]]
+|[[PHP]] (Midgard framework)
+|[[MySQL]]
+|12.0.9.2
+|[[GNU Lesser General Public License|LGPL]]
+|2012-09-26<ref>{{cite press release|url=http://lists.midgard-project.org/pipermail/dev/2012-September/003202.html|title=Midgard2 12.09.1 "Gjallarhorn" released|publisher=The Midgard Project|deadurl=yes|archiveurl=https://web.archive.org/web/20121015041639/http://lists.midgard-project.org/pipermail/dev/2012-September/003202.html|archivedate=2012-10-15|df=}}</ref>
+|-
+|{{rh}}|[[MODX]]
+|[[PHP]]
+|[[MySQL]]
+|2.6.5
+|[[GPL]]
+|2018-07-11<ref>{{cite web|author=MODX Systems, LLC |url=http://modx.com/download/ |title=Downloads |publisher=MODX}}</ref>
+|-
+|{{rh2}}|[[Novius OS]]
+|[[PHP]]
+|[[MySQL]]
+| 5.0.1 (Elche)
+|[[AGPLv3]]
+|2014-07-08<ref>{{cite web|author=novius-os |url=https://github.com/novius-os/novius-os/blob/elche/CHANGELOG.md |title=novius-os/CHANGELOG.md at elche · novius-os/novius-os · GitHub |publisher=Github.com |date= |accessdate=2014-02-23}}</ref>
+|-
+|{{rh2}}|[[Nucleus CMS]]
+|[[PHP]]
+|[[MySQL]]
+|3.64
+|[[GPL]]
+|2011-03-14<ref>{{cite web|url=http://nucleuscms.org/index.php?itemid=3060|title=Nucleus CMS: Pure Publishing|work=nucleuscms.org}}</ref>
+|-
+|{{rh}}|[[October (CMS)|OctoberCMS]]
+|[[PHP]]
+|[[MySQL]], [[PostgreSQL]], [[SQLite]]
+|443
+|[[MIT license|MIT]]
+|2018-09-25<ref>{{cite web|url=http://octobercms.com/changelog|title=OctoberCMS Changelog}}</ref>
+|-
+|{{rh}}|[[OpenCart]]
+|[[PHP]]
+|[[MySQL]]
+|3.0.2.0
+|[[GNU]]
+|2017-07-18<ref>{{cite web|url=https://github.com/opencart/opencart/blob/master/CHANGELOG.md|title=OpenCart Changelog}}</ref>
+|-
+|{{rh}}|[[Omeka]]
+|[[PHP]]
+|[[MySQL]]
+|2.5
+|[[GPL]]
+|2017-01-31<ref>{{Cite web|url=http://omeka.org/blog/2017/01/31/meet-omeka-classic-2-5/|title=Meet Omeka Classic 2.5 – Omeka|website=omeka.org|language=en|access-date=2017-02-06}}</ref>
+|-
+|{{rh2}}|[[papaya CMS]]
+|[[PHP]]
+|[[MySQL]], [[PostgreSQL]], [[SQLite]]
+|5.5.2
+||[[GNU General Public License|GPL v2]]
+|2013-02-12<ref>{{cite web|url=http://www.papaya-cms.com/download.990.en.html |title=papaya CMS / Open Source Content Management System (GPL) - Download |publisher=Papaya-cms.com |date= |accessdate=2014-02-23}}</ref>
+|-
+|{{rh}}|[[Ph7cms|pH7CMS]]
+|[[PHP]]
+|[[MySQL]], [[MariaDB]]
+|12.6.0
+|[[GPL#Version 3|GPL 3.0]]
+|2018-05-25<ref name="ph7_release">https://ph7cms.com/ph7cms-12-6-released/</ref>
+|-
+|{{rh}}|[[Phire CMS]]
+|[[PHP]]
+|[[MySQL]]
+|2.1.0
+|[[New BSD License]]
+|2016-07-07<ref name="phire_release">https://github.com/phirecms/phirecms/releases</ref>
+|-
+|{{rh2}}|[[PHP-Nuke]]
+|[[PHP]]
+|[[MySQL]]
+|8.3.2
+|[[GPL]]
+|2014-01-30<ref>{{cite web|url=http://installatron.com/updatefeed/php_nuke_8_3_2|title=PHP-Nuke 8.3.2|work=installatron.com}}</ref>
+|-
+|{{rh2}}|[[phpWebLog]]
+|[[PHP]]
+|[[MySQL]]
+|0.5.3
+|[[GPL]]
+|2001-10-31
+|-
+|{{rh2}}|[[phpWiki]]
+|[[PHP]]
+|[[MySQL]]
+|1.5.5
+|[[GPL]]
+|2015-12-11<ref>{{cite web|url=http://sourceforge.net/projects/phpwiki/|title=PhpWiki|author=carstenklapp|work=SourceForge}}</ref>
+|-
+|{{rh}}|[[Pimcore]]
+|[[PHP]]
+|[[MySQL]]
+|5.1
+|[[GPL]]
+|2018-01-02<ref name="pimcore_release">{{cite web | url=https://pimcore.com/en/download | title=Get on board and download Pimcore! · pimcore/pimcore | publisher=pimcore.org | accessdate=2018-01-02}}</ref>
+|-
+|{{rh2}}|[[PivotX]]
+|[[PHP]]
+|[[MySQL]], [[Flat-file database]]
+|2.3.11
+|[[GPL]]
+|2015-06-21<ref>{{cite web|url=http://blog.pivotx.net/2015-06-21/pivotx-2311-released|title=PivotX 2.3.11 released - PivotX Blog|work=pivotx.net}}</ref>
+|-
+|{{rh2}}|[[Pixie (CMS)]]
+|[[PHP]]
+|[[MySQL]]
+|1.0.4
+|[[GPL]]
+|2010-03-21
+|-
+|{{rh}}|[[PmWiki]]
+|[[PHP]]
+||[[Flat-file database]]<ref>{{cite web|url=http://www.pmwiki.org/wiki/PmWiki/FlatFileAdvantages|title=PmWiki - PmWiki / FlatFileAdvantages|work=pmwiki.org}}</ref> [[SQLite]]<ref>{{cite web|url=http://www.pmwiki.org/wiki/Cookbook/SQLite|title=PmWiki - Cookbook / SQLite PageStore class|work=pmwiki.org}}</ref>
+| {{PmWiki version}}
+|[[GPL]]
+|{{PmWiki version|releasedate}}
+|-
+|{{rh}}|[[Prestashop]]
+|[[PHP]]
+|[[MySQL]]
+|1.7.4.3
+|[[Open Software License 3.0]]
+|2018-10-03<ref>{{cite web|url=https://www.prestashop.com/en/previous-versions|title=Previous versions - Presta Shop|last=|first=|date=|work=prestashop.com|archive-url=|archive-date=|dead-url=|access-date=}}</ref>
+|-
+|{{rh}}|[[ProcessWire]]
+|[[PHP]]
+|[[MySQL]]
+|3.0.123
+|[[Mozilla Public License|Mozilla Public License 2.0]]
+|2018-12-21<ref>{{cite web|url=http://processwire.com/download/|title=ProcessWire 3.0.123|work=processwire.com}}</ref>
+|-
+|{{rh2}}|[[Semantic MediaWiki Plus|SMW+]]
+|[[PHP]] - [[MediaWiki]]
+|[[MySQL]]
+|1.7.0
+|[[GPL]]
+|2012-04-24<ref>{{cite web|url=http://www.smwplus.com/index.php/Download |title=smwplus.com |publisher=smwplus.com |date= |accessdate=2014-02-23}}</ref>
+|-
+|{{rh}}|[[Serendipity (weblog software)|Serendipity]]
+|[[PHP]] + [[Smarty (template engine)|Smarty]]
+|[[MySQL]], [[PostgreSQL]], [[MySQLi]], [[SQLite]]
+|{{Serendipity version}}
+
+|[[BSD licenses|BSD]]
+|{{Serendipity version|releasedate}}
+
+|-
+|{{rh}}|[[SilverStripe]]
+|[[PHP]]
+|[[MySQL]], [[Microsoft SQL Server]], [[PostgreSQL]], [[SQLite]], [[Oracle database|Oracle]]
+|4.2.1
+|[[BSD licenses|BSD]]
+|2018-07-31<ref name="silverstripe_release">{{cite web|url=https://www.silverstripe.org/download|title=Download|work=silverstripe.org}}</ref>
+|-
+|{{rh}}|[[SPIP]]
+|[[PHP]]
+|[[MySQL]], [[PostgreSQL]], [[SQLite]]
+|3.2.1
+|[[LGPL]]
+|2018-03-16<ref>http://www.spip.net/en_download</ref>
+|-
+|{{rh}}|[[Textpattern]]
+|[[PHP]]
+|[[MySQL]], [[MariaDB]]<ref>{{Cite web |url=https://docs.textpattern.com/installation/configuring-a-web-server-for-textpattern |title=Configuring a web server for Textpattern. |last=contributors |first=The Textpattern Development Team and |website=textpattern.github.io |language=en-US |access-date=2018-11-27}}</ref>
+|{{Textpattern version}}
+|[[GPL]]
+|{{Textpattern version|releasedate}}
+
+|-
+
+|{{rh}}|[[Tiki Wiki CMS Groupware]]
+|[[PHP]]
+|[[MySQL]]
+|18.0
+|[[LGPL]]
+|2018-01-29<ref name="tiki_release">{{cite web|url=https://tiki.org/article451-Tiki-18-0-released|title= Tiki 18.0 released  |publisher=Info.tiki.org |date=2018-02-14 |accessdate=2018-02-18}}</ref>
+|-
+|{{rh}}|[[TYPO3]]
+|[[PHP]]
+|[[MySQL]], [[Oracle database|Oracle]], [[PostgreSQL]]
+|{{TYPO3 version}}
+|[[GPL]]
+|{{TYPO3 version|releasedate}}
+|-
+|{{rh}}|[[WordPress]]
+|[[PHP]]
+|[[MySQL]], [[MariaDB]]
+|{{Wordpress version}}
+|[[GPL]]
+|{{Wordpress version|releasedate}}
+|-
+|{{rh2}}|[[Xaraya]]
+|[[PHP]]
+|[[MySQL]], [[PostgreSQL]]
+|2.4.0
+|[[GPL]]
+|2013-02-23<ref name="xaraya1">{{cite web |url=http://www.xaraya.com/index.php/news/946 |title=Archived copy |accessdate=2013-03-22 |deadurl=yes |archiveurl=https://archive.is/20130412050912/http://www.xaraya.com/index.php/news/946 |archivedate=2013-04-12 |df= }}</ref>
+|-
+|{{rh}}|[[XOOPS]]
+|[[PHP]]
+|[[MySQL]]
+|2.5.9
+|[[GPL]]
+|2017-08-01<ref name="xoops_release">http://xoops.org/modules/core/</ref>
+|-
+|{{rh}}|[[django CMS]]
+|[[Python (programming language)|Python]]/[[Django (Web framework)|Django]]
+|[[PostgreSQL]], [[MySQL]], [[SQLite]] 3 and [[Oracle Database|Oracle]]
+|3.5.2
+|[[BSD]]
+|2018-04-18<ref name="django_release">{{cite web|url=https://www.django-cms.org/en/blog/2018/04/18/django-cms-3-5-2-released/|title=django CMS 3.5.2 released}}</ref>
+|-
+|{{rh}}|[[Mezzanine (CMS)|Mezzanine]]
+|[[Python (programming language)|Python]]/[[Django (Web framework)|Django]]
+|[[PostgreSQL]], [[MySQL]], [[SQLite]] 3 and [[Oracle Database|Oracle]]
+|4.2.2
+|[[BSD]]
+|2016-11-25<ref name="mezz_release">{{cite web|url=http://mezzanine.jupo.org/|title=Mezzanine}}</ref>
+|-
+|{{rh}}|[[MoinMoin]]
+|[[Python (programming language)|Python]]
+|[[Flat-file database]]
+|1.9.10
+|[[GPL]]
+|2018-09-09<ref name="mm_release">{{cite web|url=https://moinmo.in/MoinMoinDownload|title=MoinMoinDownload - MoinMoin|work=moinmo.in}}</ref>
+|-
+|{{rh}}|[[Plone (software)|Plone]]
+|[[Python (programming language)|Python]]/[[Zope]]
+|[[MySQL]], [[PostgreSQL]], [[SQLite]], [[Oracle database|Oracle]], [[Zope Object Database|ZODB]], via [[Zope]]
+|5.1.4
+|[[GPL]]
+|2018-10-11<ref name="plone_release">https://plone.org/download/releases/5.1.4</ref>
+|-
+|{{rh}}|[[Wagtail (CMS)|Wagtail]]
+|[[Python (programming language)|Python]]/[[Django (Web framework)|Django]]
+|[[PostgreSQL]], [[MySQL]], [[SQLite]] 3 and [[Oracle Database|Oracle]]
+|1.12.2
+|[[BSD]]
+|2017-09-18<ref name="wagtail_release">{{cite web|url=https://github.com/wagtail/wagtail/blob/master/CHANGELOG.txt|title=wagtail CHANGELOG |accessdate=2017-09-29}}</ref>
+|-
+|{{rh}}|[[Alchemy CMS]]
+|[[Ruby on Rails]]
+|[[PostgreSQL]], [[MySQL]], [[SQLite]]
+|3.5
+|[[BSD license|BSD]]
+|2016-12-22
+|-
+|{{rh2}}|[[Radiant (software)|Radiant]]
+|[[Ruby on Rails]]
+|[[MySQL]], [[PostgreSQL]], [[SQLite]], [[IBM DB2|DB2]]<ref>{{cite web|url=http://radiantcms.org/download/|title=Download|work=radiantcms.org}}</ref>
+|1.1.4<ref name="radiant_release">{{cite web|url=https://rubygems.org/gems/radiant/versions/1.1.3|title=radiant - RubyGems.org - your community gem host|work=rubygems.org}}</ref>
+|[[MIT License|MIT]]
+|2013-09-24
+|-
+|{{rh}}|[[Refinery CMS]]
+|[[Ruby on Rails]]
+|[[MySQL]], [[PostgreSQL]], [[SQLite]]
+|3.0.5<ref name="ref_version">{{Cite web |url=http://www.refinerycms.com/blog/refinery-cms-3-0-5-released |title=Refinery CMS 3.0.5 Released}}</ref>
+|[[MIT License|MIT]]
+|2016-11-23
+|-
+|{{rh}}|[[Typo (software)|Typo]]
+|[[Ruby on Rails]]
+|[[MySQL]], [[PostgreSQL]], [[SQLite]]
+|8.3.3<ref name="typo_release">https://github.com/publify/publify/releases</ref>
+|[[MIT License|MIT]]
+|2016-11-03
+|-
+|{{rh}}|[[ContentBox Modular CMS]]
+|[[Lucee]] / [[Railo]] / [[Adobe ColdFusion]]
+|[[MySQL]]/[[Microsoft SQL Server]]/[[PostgreSQL]]/[[HSQLDB]]/[[Apache Derby]]
+|2.1.0
+|[[Apache License]] or proprietary
+|2015-05-05<ref name="ortussolutions">{{cite web|url=http://www.ortussolutions.com/products/contentbox/|title=ContentBox|publisher=ortussolutions.com|accessdate=2016-05-13}}</ref>
+|-
+|{{rh}}|[[Mura CMS]]
+|[[Lucee]] / [[Railo]] / [[OpenBD]] / [[Adobe ColdFusion]]
+|[[MySQL]]/[[Microsoft SQL Server]]/[[Oracle database|Oracle]]
+|7.1
+|[[GPL]] or proprietary
+|2018-07-13<ref name="mura_version">{{Cite web |url=https://www.getmura.com/blog/now-available-the-immutable-mura-7-1/ |title=Now Available: Immutable Mura 7.1|publisher=getmura.com |date=2018-07-13 |accessdate=2018-11-25}}</ref>
+|-
+|{{rh}}|[[FarCry CMS]]
+|[[Lucee]] / [[Railo]] / [[OpenBD]] / [[Adobe ColdFusion]]
+|[[MySQL]]/[[Microsoft SQL Server]]/[[Oracle database|Oracle]]/[[Postgres]]
+|7.0.7
+|[[GPL]] or proprietary
+|2015-01-14<ref>{{cite web|url=http://blog.farcrycore.org/blog/farcry-7-released|title=FarCry 7 (codename: Shiny) released|work=FarCry Core Blog}}</ref>
+|-
+|{{rh}}|[[Ghost (blogging platform)|Ghost]]
+|[[Node.js]]
+|[[SQLite]], [[MySQL]]
+|2.8.0<ref>{{cite web|url=https://github.com/TryGhost/Ghost/releases/tag/2.8.0|work=Ghost|title="Release 2.8.0 · TryGhost/Ghost · GitHub"}}</ref>
+|[[MIT license|MIT]]
+|2018-12-10
+|-
+|{{rh}}|[[TiddlyWiki]]
+|[[Node.js]] & client-side [[JavaScript]]
+|[[Flat-file database]]
+|5.1.18<ref>{{cite web|url=https://tiddlywiki.com/#Release%205.1.18|title=TiddlyWiki — a non-linear personal web notebook|publisher=tiddlywiki.com|accessdate=2018-12-15}}</ref>
+|[[BSD license]]
+|2018-12-06
+|-
+|{{rh}}|[[Wiki.js]]
+|[[Node.js]]
+|[[MongoDB]]
+|1.0.102<ref>{{cite web|url=https://github.com/Requarks/wiki/releases/tag/v1.0.102|title=Wiki.js|publisher=github.com|accessdate=2018-12-15}}</ref>
+|[[GNU Affero General Public License]]
+|2018-08-12
+|-
+|{{rh}}|[[OpenACS]]
+|[[Tcl]] [[AOLserver]]
+|[[PostgreSQL]]/[[Oracle database|Oracle]]
+|5.9.0
+|[[GPL]]
+|2015-12-01<ref name="openacs_release">{{cite web|url=http://openacs.org/news/item?item_id=4869584|title=OpenACS 5.9.0 final released|work=openacs.org}}</ref>
+|-
