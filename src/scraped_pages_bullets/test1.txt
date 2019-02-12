@@ -1,0 +1,27 @@
+* [[4DOS]] (extended command-line shell for [[IBM Personal Computer|IBM PC]]s)
+* [[Bash (Unix shell)|bash]] (the Bourne-Again shell from [[GNU]]/[[Free Software Foundation|FSF]])
+* [[CLIST]] ([[MVS]] Command List)
+* [[CMS EXEC]]
+* [[C shell|csh]] and [[tcsh]] (C-like shell from [[Bill Joy]] at UC [[BSD|Berkeley]])
+* [[Assembly language]]
+* [[OpenUI5]] by [[SAP (company)|SAP]]
+* [[BASIC]]
+* [[Vue.js]]
+* [[C (programming language)|C]]
+* [[C++]]
+* [[C Sharp (programming language)|C#]]
+*[[4th Dimension (software)|4D QL]]
+*[[Informix-4GL]]
+*[[NATURAL]]
+*[[OpenEdge Advanced Business Language|OpenEdge ABL]]
+*[[OpenROAD|OpenROAD (Ingres 4GL)]]
+* [[C Sharp (programming language)|C#]] – Lines terminate with semicolon
+* [[Bash (Unix shell)|bash]]<ref>''[https://www.gnu.org/software/bash/manual/bashref.html Bash Reference Manual],'' [https://www.gnu.org/software/bash/manual/bashref.html#Escape-Character 3.1.2.1 Escape Character]</ref> and other Unix shells
+* [[Mathematica]] and [[Wolfram Language]]
+* [[Fortran 90]], [[Fortran 95]], [[Fortran 2003]], [[Fortran 2008]]
+* [[PandaBoard]], a variation of the [[BeagleBoard]]
+* [[Rascal (single-board computer)|Rascal]], an ARM based Linux board that works with Arduino shields, with a web server that includes an editor for users to program it in Python. Hardware design files released under the Creative Commons BY-SA license.
+* [[Amber (processor core)|Amber]] is an [[ARM architecture|ARM]]-compatible 32-bit [[RISC]] processor. Amber implements the ARMv2 [[instruction set]].
+* [[LEON]], a 32-bit, [[SPARC]]-like CPU created by the [[European Space Agency]]
+* [[Arduino]] – open-source [[microcontroller board]]
+* [https://mntmn.com/reform/ MNT Reform DIY Laptop] - A DIY laptop made with free software and open source hardware.

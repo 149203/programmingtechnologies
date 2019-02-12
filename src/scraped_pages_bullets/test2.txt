@@ -1,0 +1,26 @@
+4DOS
+Bash (Unix shell)|bash
+CLIST
+CMS EXEC
+C shell|csh
+Assembly language
+OpenUI5
+BASIC
+Vue.js
+C (programming language)|C
+C++
+C Sharp (programming language)|C#
+4th Dimension (software)|4D QL
+Informix-4GL
+NATURAL
+OpenEdge Advanced Business Language|OpenEdge ABL
+OpenROAD|OpenROAD (Ingres 4GL)
+C Sharp (programming language)|C#
+Bash (Unix shell)|bash
+Mathematica
+Fortran 90
+PandaBoard
+Rascal (single-board computer)|Rascal
+Amber (processor core)|Amber
+LEON
+Arduino
