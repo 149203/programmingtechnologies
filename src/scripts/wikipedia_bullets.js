@@ -5,8 +5,9 @@ const _ = require('lodash')
 
 // Setup — set these constants then run the script
 
-const filename = 'list_of_javascript_libraries'
-const url = 'https://en.wikipedia.org/wiki/List_of_JavaScript_libraries'
+const filename = 'list_of_programming_languages_by_type'
+const url =
+    'https://en.wikipedia.org/wiki/List_of_programming_languages_by_type'
 
 // End setup
 
