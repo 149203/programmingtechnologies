@@ -1,0 +1,267 @@
+|-
+| [[AngularJS]]
+| {{Free}}: [[MIT License|MIT]]
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[JavaScript]]
+|-
+| [[Apache Cordova]], formerly PhoneGap
+| {{Free}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[iOS]], [[Android (operating system)|Android]], [[BlackBerry OS]], [[WebOS]], [[Windows Phone 7]], [[Symbian]], [[Bada]]
+|-
+| [[Apache Flex]], formerly Adobe Flex
+| {{Free}}: [[Apache License|Apache]] 2
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[Adobe AIR]], [[SWF]]
+|-
+| [[Appcelerator Titanium]]
+| {{Proprietary}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[Java (programming language)|Java]] server, [[JavaScript]] client
+|-
+| [[Blend4Web]]
+| {{Some|Mixed: [[GNU General Public License|GPL]] v3 or [[Commercial software|commercial]]}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[JavaScript]]
+|-
+| [[Cappuccino (application development framework)|Cappuccino]]
+| {{Free}}: [[GNU Lesser General Public License|LGPL]]
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[JavaScript]], .sj
+|-
+| [[Curl (programming language)|Curl]]
+| {{Proprietary}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| Curl
+|-
+| [[Dojo Toolkit|Dojo]]
+| {{Free}}: [[BSD licenses|BSD]] modified
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[JavaScript]]
+|-
+| [[Echo Framework|Echo3]]
+| {{Free}}: [[Mozilla Public License|MPL]], [[GNU General Public License|GPL]], [[GNU Lesser General Public License|LGPL]]
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[Java (programming language)|Java]] server, [[JavaScript]] client
+|-
+| [[Ember.js]]
+| {{Free}}: [[MIT License|MIT]]
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[JavaScript]]
+|-
+| [[expanz]]
+| {{Proprietary}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[Adobe Air]], [[Flash Video|Flash]], [[Java FX]], [[Microsoft Silverlight]], [[Windows Mobile]], [[Windows Presentation Foundation|WPF]]
+|-
+| [[ExtJS]]
+| {{Some|Mixed: [[GNU General Public License|GPL]] v3 or [[Commercial software|commercial]]}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[JavaScript]]
+|-
+| [[Google Web Toolkit]]
+| {{Free}}: [[Apache License|Apache]] 2
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[JavaScript]]
+|-
+| [[iPFaces mobile framework]]
+| {{Free}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[BlackBerry OS]], [[iOS]], [[Java ME]]
+|-
+| [[JavaFX]]
+| {{Free}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[jar]], [[applet]]
+|-
+| [[JavaScriptMVC]]
+| {{Free}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[JavaScript]], compressed and one file
+|-
+| [[JVx (Framework)|JVx]]
+| {{Free}}: [[Apache License|Apache]] 2
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[Java (programming language)|Java]], [[Vaadin]], [[iOS]], [[Android (operating system)|Android]];<br />[[User interface|UI]] independent architecture
+|-
+| [[Lively Kernel]]
+| {{Free}}: [[MIT License|MIT]]
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[JavaScript]]
+|-
+| [[LiveCode]]
+| {{Free}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[Android (operating system)|Android]],  [[iPhone]],  [[Windows Mobile]]
+|-
+| [[Meteor (platform)|Meteor]]
+| {{Free}}: [[MIT License|MIT]]
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[JavaScript]]
+|-
+| [[.NET Framework]]
+| {{Proprietary}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[Microsoft Silverlight]]
+|-
+| [[OpenLaszlo]]
+| {{Free}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[DHTML]], [[SWF]]
+|-
+| [[Panda3D]]
+| {{Free}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[Panda3d|P3D]]
+|-
+| [[qooxdoo]]
+| {{Free}}: [[GNU Lesser General Public License|LGPL]], [[Eclipse Public License|EPL]]
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[JavaScript]]
+|-
+| [[Qt Quick]] {{Citation needed|date=March 2011}}
+| {{Some|Mixed: [[GNU General Public License|GPL]], [[GNU Lesser General Public License|LGPL]], [[Commercial software|commercial]]}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[QML]]
+|-
+| [[Remote Application Platform]], formerly Rich Ajax Platform
+| {{Free}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| Java
+|-
+| [[Rhomobile]]
+| {{Free}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[Android (operating system)|Android]], [[BlackBerry OS]], [[iOS]], [[Symbian]], [[Windows Mobile]]
+|-
+|[[SmartClient]]
+| {{Some|Mixed: [[GNU Lesser General Public License|LGPL]], [[Commercial software|commercial]]}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[Java (programming language)|Java]] server, [[JavaScript]] client
+|-
+| [[Sproutcore]]
+| {{Free}}: [[MIT License|MIT]]
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[JavaScript]]
+|-
+| [[Tersus]]
+| {{Free}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[Android (operating system)|Android]], [[iOS]], [[JavaScript]]; planned: [[BlackBerry OS]], [[Symbian]]
+|-
+| [[Unity (game engine)|Unity]]
+| {{Proprietary}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[Unity (game engine)|Unity]] Web Player, [[iOS]], [[Android (operating system)|Android]], [[Microsoft Windows|Windows]], [[macOS]], [[Wii]]; planned: [[Adobe Flash|Flash]] (SWF), [[PlayStation]], [[Xbox]]
+|-
+| [[Vaadin]]
+| {{Free}}: [[Apache License|Apache]] 2
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[Java (programming language)|Java]] server, [[JavaScript]] client
+|-
+| [[Vue.js|Vue]]
+| {{Free}}: [[MIT License|MIT]]
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[JavaScript]]
+|-
+| [[Wakanda (software)|Wakanda]]
+| {{Some|Mixed: Community ([[Affero General Public License|AGPL]]) or [[Commercial software|commercial]]}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[JavaScript]] client and server
+|-
+| [[Webix]]
+| {{Some|Mixed: [[GNU General Public License|GPL]] v3 or [[Commercial software|commercial]]}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[JavaScript]]
+|-
+| [[Wt (web toolkit)|Wt]]
+| {{Some|Mixed: [[GNU General Public License|GPL]], [[Commercial software|commercial]]}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[C++]] or Java server ↔ HTML; uses JavaScript if available
+|-
+| [[Xojo]]
+| {{Proprietary}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| Xojo Server, [[JavaScript]] client
+|-
+| [[ZK (framework)|ZK]]
+| {{Some|Mixed: [[GNU Lesser General Public License|LGPL]], [[GNU General Public License|GPL]], [[Commercial software|commercial]]}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| [[Java (programming language)|Java]] server, [[JavaScript]] client
+|-

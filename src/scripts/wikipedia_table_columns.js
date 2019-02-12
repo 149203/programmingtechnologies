@@ -5,8 +5,9 @@ const _ = require('lodash')
 
 // Setup — set these constants then run the script
 
-const filename = 'comparison_of_web_frameworks'
-const url = 'https://en.wikipedia.org/wiki/Comparison_of_web_frameworks'
+const filename = 'list_of_rich_internet_application_frameworks'
+const url =
+    'https://en.wikipedia.org/wiki/List_of_rich_Internet_application_frameworks'
 const column_number = 1
 
 // End setup
