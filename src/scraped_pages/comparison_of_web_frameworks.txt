@@ -1,0 +1,744 @@
+|-
+!{{rh}}| [[ASP.NET Dynamic Data]]
+| 
+| 
+| 
+|-
+!{{rh2}}| [[Base One Foundation Component Library]] (BFC)
+| 7.44
+| 2013-07-19
+| {{proprietary|[[proprietary software|Proprietary]]}}
+|-
+!{{rh}}| [[Component-based Scalable Logical Architecture]] (CSLA)
+| 4.6.603
+| 2017-07-19<ref name="csla_release">{{cite web | url=https://github.com/MarimerLLC/csla/releases/tag/v4.6.603 | title=Version 4.6.603 | publisher=Github | accessdate=14 September 2017}}</ref>
+| {{free|MIT}}
+|-
+!{{rh2}}| [[MonoRail (software)|MonoRail]]
+| 2.1
+| 2011-03-17<ref>http://www.castleproject.org/download/</ref>
+| {{free|Apache}}
+|-
+!{{rh2}}| [[OpenRasta]]
+| 2.1.0.83282449
+| 2011-09-28
+| {{free|[[MIT License|MIT]]}}
+|-
+!{{rh}}| [[CppCMS]]
+| 1.2.0
+| 2018-01-16<ref>{{cite web|url=http://blog.cppcms.com/ |title=CppCMS Blog |publisher=Blog.cppcms.com |date= |accessdate=2013-08-18}}</ref>
+| {{free|[[MIT License|MIT]]}}
+|-
+!{{rh}}| [[POCO C++ Libraries|Poco]]
+| 1.9.0
+| 2018-03-08<ref>{{cite web |url=https://pocoproject.org/blog/?p=1078 |title=Release 1.9.0 Available |website=pocoproject.org |date=8 March 2018 |access-date=27 March 2018}}</ref>
+| [[Boost Software License]]
+|-
+!{{rh}}| [[Tntnet]]
+| 2.2.1
+| 2014-01-17<ref>{{cite web|url=http://www.tntnet.org/ |title=Tntnet homepage |publisher=Tntnet.org |date= |accessdate=2013-08-18}}</ref>
+| [[GNU Lesser General Public License|LGPL]]
+|-
+!{{rh}}| [[Wt (web toolkit)|Wt]]
+| 4.0.3
+| 2018-04-12<ref>{{Cite web
+ | url = http://www.webtoolkit.eu/wt/doc/reference/html/Releasenotes.html
+ | title = Wt: Release v4.0.3
+ | date = {{date|2018-04-12|mdy}} | accessdate = {{date|2018-05-04|mdy}}
+ | website = webtoolkit.eu
+}}</ref>
+| [[GNU General Public License|GPL]], [[Proprietary software|Proprietary]]
+|-
+!{{rh}}| [[ColdFusion on Wheels|CFWheels]]
+| 2.0.1
+| 2018-01-31
+| {{free|[[Apache License|Apache]] v2}}
+|-
+!{{rh}}| [[ColdBox Platform]]
+| {{ColdBox Platform version}}
+| {{ColdBox Platform version|releasedate}}
+| {{free|[[Apache License|Apache]] v2}}
+|-
+!{{rh2}}| [[ColdSpring]]
+| 1.2
+| 2008-09-12
+| {{free|[[Apache License|Apache]] v2}}
+|-
+!{{rh2}}| [[Fusebox (programming)|Fusebox]]
+| 5.5.2
+| 2012-05-08
+| {{free|[[Apache License|Apache]]}}
+|-
+!{{rh2}}| [[Model-Glue]]
+| 3.1.299
+| 2010-03-05
+| {{free|[[Apache License|Apache]]}}
+|-
+!{{rh}}| [[Caveman2]]
+| 2.4.0
+| 2015-06-05<ref>{{cite web|url=https://github.com/fukamachi/caveman/commit/7b5561eb74e74c8e6c419328a0b4ce9865075e3c|title=v2.4.0 commit on GitHub|date=2015-06-05|accessdate=2015-09-18}}</ref>
+| {{free|LLGPL<ref>{{cite web|url=http://opensource.franz.com/preamble.html|title=LLGPL License|accessdate=2015-09-18}}</ref>}}
+|-
+!{{rh}}| [[vibe.d]]
+| 0.8.1
+| 2017-8-29<ref>{{cite web|url=http://vibed.org/blog/posts/vibe-release-0.8.1|title=vibe.d|publisher=RejectedSoftware|accessdate=29 August 2017}}</ref>
+| {{free|[[MIT License]]}}
+|-
+!{{rh}}|[[Phoenix (web framework)|Phoenix]]
+| 1.4.0
+| 2018-11-07
+| {{free|[[MIT License]]}}
+|-
+!{{rh}}| [[Snap (web framework)|Snap]]
+| 0.13
+| 2014-05-06
+| {{free|[[BSD-3]]}}
+|-
+!{{rh}}| [[Yesod (web framework)|Yesod]]
+| 1.4.1
+| 2014-11-23<ref>{{cite web|url=http://www.yesodweb.com |title=Yesod Web Framework for Haskell |publisher=Yesodweb.com |date=2013-07-19 |accessdate=2013-08-18}}</ref>
+| {{free|[[MIT License]]}}
+|-
+!{{rh}}| [[Bootstrap (front-end framework)]]
+| 4.2.1
+| 2018-12-21
+| [[MIT]], [[Apache]]
+|-
+![[Foundation (framework)]]
+!
+!
+![[MIT License|MIT]]
+|-
+!{{rh2}}| [[Apache Click]]
+| 2.3.0
+| 2011-03-27
+| {{free|[[Apache Software License|Apache]] 2.0}}
+|-
+!{{rh}}| [[Apache OFBiz]]
+| 13.07.03
+| 2016-04-04
+| {{free|Apache 2.0}}
+|-
+!{{rh2}}| [[Shale Framework (software)|Apache Shale]]
+| 1.0.4
+| 2007-12-19
+| {{free|Apache}}
+|-
+!{{rh}}| [[Apache Sling]]
+| 8
+| 2015-10-16
+| {{free|Apache 2.0}}
+|-
+!{{rh}}| [[Apache Struts 2]]
+| 2.5.13
+| 2017-09-05
+| {{free|Apache 2.0}}
+|-
+!{{rh}}| [[Apache Tapestry]]
+| 5.4.3
+| 2017-04-24
+| {{free|Apache 2.0}}
+|-
+!{{rh}}| [[Apache Wicket]]
+| 7.9.0
+| 2017-09-19
+| {{free|Apache 2.0}}
+|-
+!{{rh}}| [[AppFuse]]
+| 3.5.0
+| 2015-02-20
+| {{free|Apache 2.0}}
+|-
+!{{rh}}| [[Brutos Framework]]
+| 2.0-rc3
+| 2018-08-14
+| {{free|Apache 2.0}}
+|-
+!{{rh}}| [[Remote Application Platform|Eclipse RAP]]
+| 3.1 M4
+| 2015-12-22
+| {{free|[[Eclipse Public License|Eclipse]]}}
+|-
+!{{rh2}}| [[FormEngine]]
+| 2.0.1
+| 2012-05-08
+| {{proprietary}}
+|-
+!{{rh}}| [[Grails (framework)|Grails]]
+| 3.3.2
+| 2017-09-22
+| {{free|Apache}}
+|-
+!{{rh}}| [[Google Web Toolkit]]
+| 2.8.2
+| 2017-10-19
+| {{free|Apache 2.0}}
+|-
+!{{rh2}}| [[Hamlets]]
+| 1.7.1
+| 2012-06-29
+| {{free|[[BSD licenses|BSD]]}}
+|-
+!{{rh}}| [[ItsNat]]
+| 1.4
+| 2015-09-18
+| [[GNU Lesser General Public License|GNU LGPL]], proprietary
+|-
+!{{rh}}| [[JavaServer Faces]] (Mojarra)
+| 2.2.8
+|2016-05-30
+| {{free|[[Common Development and Distribution License|CDDL]], [[GNU General Public License|GNU GPL]] 2, Apache 2.0}}
+|-
+!{{rh2}}| [[JBoss Seam]]
+| 3.1.0 final
+| 2012-01-13
+| {{free|GNU LGPL}}
+|-
+!{{rh}}| [[Jspx-bay]]
+| 2.1
+| 2015-12-23
+| {{free|Apache 2.0}}
+|-
+!{{rh}}| [[JVx (Framework)|JVx]]
+| 2.4
+| 2015-12-23
+| {{free|Apache 2.0}}
+|-
+!{{rh}}| [[JWt (Java web toolkit)|JWt]]
+| 3.3.10
+| 2018-04-12<ref>{{Cite web
+ | url = http://www.webtoolkit.eu/jwt
+ | title = Jwt: Release v3.3.10
+ | date = {{date|2018-04-12|mdy}} | accessdate = {{date|2018-05-04|mdy}}
+ | website = webtoolkit.eu
+}}</ref>
+| [[GNU General Public License|GPL]], [[Proprietary software|Proprietary]]
+|-
+!{{rh}}| [[Netty (software)]]
+| 4.1.31
+| 2018-10-30
+| [[Apache License]] 2.0
+|-
+!{{rh2}}| [[OpenLaszlo]]
+| 4.9.0
+| 2010-10-21
+| {{free|[[Common Public License|CPL]]}}
+|-
+!{{rh}}| [[OpenXava]]
+| 5.5
+| 2016-04-27
+| {{free|GNU LGPL}}
+|-
+!{{rh}}| [[Oracle Application Development Framework|Oracle ADF]]
+| 12.1.3.0
+| 2014-06-26
+| Oracle Technology Network Developer License
+|-
+!{{rh}}| [[Play Framework|Play]]
+| 2.6.6
+| 2017-10-05
+| {{free|Apache 2.0}}
+|-
+!{{rh2}}| [[RIFE]]
+| 1.6.1
+| 2007-07-14
+| {{free|CDDL, GNU LGPL}}
+|-
+!{{rh}}| [[Spark (software)|Spark]]
+| 2.5
+| 2016-05-03
+| {{free|Apache}}
+|-
+!{{rh}}| [[Spring Framework|Spring]]
+| 5.0.4
+| 2018-02-19
+| {{free|Apache 2.0}}
+|-
+!{{rh}}| [[Stripes (framework)|Stripes]]
+| 1.6.0
+| 2015-07-23
+| {{free|Apache}}
+|-
+!{{rh}}| [[Vaadin]]
+| 8.4.0
+| 2018-04-26
+| {{free|Apache 2.0}}
+|-
+!{{rh}}| [[VRaptor]]
+| 4.2.0.Final
+| 2017-09-19
+| {{free|Apache 2.0}}
+|-
+!{{rh}}| [[Wavemaker]]
+| 8.2<ref>http://www.wavemaker.com/learn/docs/wavemaker-studio-release-notes/</ref>
+| 2016-06-07
+| {{free|Apache}}
+|-
+!{{rh2}}| [[WebObjects]]
+| 5.4.3
+| 2008-09-15
+| {{proprietary}}
+|-
+!{{rh2}}| [[WebWork]]
+| 2.2.6
+| 2007-07-21
+| {{free|Apache}}
+|-
+!{{rh2}}| [[ztemplates]]
+| 2.4.0
+| 2011-09-11
+| {{free|Apache}}
+|-
+| {{rh}} class="table-rh" |[[AngularJS]]
+| 1.7.2
+| 2018-06-12
+| {{free|[[MIT License]]}}
+|-
+| {{rh}} class="table-rh" |[[Angular (application platform)|'''Angular''']]
+|6.0.7
+|2018-06-28
+| {{free|[[MIT License]]}}
+|-
+!{{rh}}|[[React.js]]
+| 16.2.0
+| 2017-11-28
+| {{free|[[MIT License]]}}
+|-
+!{{rh}}|[[Backbone.js]]
+| 1.3.3
+| 2016-04-05
+| {{free|[[MIT License]]}}
+|-
+!{{rh}}|[[Ember.js]]
+| 2.12.0
+| 2017-03-13<ref>{{Cite web|url=https://github.com/emberjs/data/blob/v2.12.0/CHANGELOG.md|title=emberjs/data|website=GitHub|language=en|access-date=2017-04-07}}</ref>
+| {{free|[[MIT License]]}}
+|-
+!{{rh}}|[[Express.js]]
+| 4.15.3
+| 2016-06-16
+| {{free|[[MIT License]]}}
+|-
+!{{rh}}|[[KnockoutJS]]
+| 3.4.2
+| 2017-03-06
+| {{free|[[MIT License]]}}
+|-
+!{{rh}}|[[Meteor (web framework)|Meteor]]
+| {{Meteor (web framework) version}}
+| {{Meteor (web framework) version|releasedate}}
+| {{free|[[MIT License]]}}
+|-
+! {{rh}} class="table-rh" |[[Node.js]]
+|10.5.0
+|2018-06-20<ref>{{Cite web|url=https://github.com/nodejs/node/releases|title=Releases nodejs/node|website=GitHub|language=en|access-date=2018-02-03}}</ref>
+| {{free|[[MIT License]]}}
+|-
+!{{rh}}|[[OpenUI5]]
+| 1.54.7
+| 2018-07-02
+| Apache 2.0 License by SAP
+|-
+!{{rh}}|[[Polymer (library)|'''Polymer''']]
+|2.0.2
+|2017-07-14
+|BSD
+|-
+! {{rh}} class="table-rh" |[[Sails.js]]
+|1.0.2
+|2018-08-24
+| {{free|[[MIT License]]}}
+|-
+!{{rh}}|[[Vue.js]]
+|2.5.21
+|2018-12-11
+| {{free|[[MIT License]]}}
+|-
+!{{rh2}}| [[Kepler (software)|Kepler]]
+| 1.1.1
+| 2009-03-11
+| {{free|[[MIT License|MIT]]}}
+|-
+! {{rh}} class="table-rh" |[[Lift (web framework)|Lift]]
+| 3.1.0
+| 2017-07-02
+| Apache licence |Apache 2.0
+|-
+!{{rh}}| [[Play Framework|Play]]
+| 2.6.6
+| 2017-10-05
+| [[Apache licence|Apache 2.0]]
+|-
+!{{rh}}| [[Scalatra]]
+| 2.5.1
+| 2017-06-01
+| [[BSD licence|BSD]]
+|-
+!{{rh}}| [[Catalyst (software)|Catalyst]]
+| 5.90112
+| 2016-07-25
+| [[Artistic License|Artistic]], [[GNU General Public License|GPL]]
+|-
+!{{rh}}| [[Dancer (software)|Dancer]]
+| 1.3202
+| 2015-11-07
+| {{free|Artistic, GPL}}
+|-
+!{{rh2}}| [[Mason (Perl)|Mason]]
+| 2.24<ref>{{cite web|url=https://metacpan.org/author/JSWARTZ|title=Jonathan Swartz|publisher=[[CPAN]]|accessdate=2016-03-16}}</ref>
+| 2015-05-16
+| {{free|Artistic, GPL}}
+|-
+!{{rh2}}| [[Maypole framework|Maypole]]
+| 2.13
+| 2008-04-18
+| {{free|Artistic, GPL}}
+|-
+!{{rh}}| [[Mojolicious]]
+| {{Mojolicious version}}
+| {{Mojolicious version|releasedate}}
+| Artistic
+|-
+!{{rh2}}| [[Agavi]]
+| 2005-05
+| 1.0.8<ref name="agavi_release">{{cite web | url=http://blog.agavi.org/post/122714455018/agavi-108-released | title=Agavi 1.0.8 released! | publisher=agavi.org | accessdate=7 November 2015}}</ref>
+| 2015-06-29
+| {{free|[[GNU Lesser General Public License|LGPL]]}}
+|-
+!{{rh}}| [[CakePHP]]
+| 2005-08
+| {{CakePHP version}}
+| {{CakePHP version|releasedate}}
+| {{free|[[MIT License|MIT]]}}
+|-
+!{{rh}}| [[CodeIgniter]]
+| 2006-02-28
+| 3.1.9<ref name="ci_release">{{cite web | url=https://forum.codeigniter.com/thread-70877.html | title=CodeIgniter 3.1.9 Released | publisher=codeigniter.com | accessdate=July 11, 2018}}</ref>
+| 2018-06-12
+| {{free|MIT}}
+|-
+!{{rh}}| [[Drupal]]
+| 2000-05-18
+| 8.4.4<ref name="drupal_release">{{cite web | url=https://www.drupal.org/project/drupal/releases/8.4.4 | title=drupal 8.4.4 | publisher=Drupal | accessdate=February 5, 2018}}</ref>
+| 2018-01-03
+| {{free|GPLv2}}
+|-
+!{{rh}}| [[Fat-Free Framework|Fat-Free]]
+| 2009-09
+| 3.6.4<ref name="fatfreegit">{{cite web | url=https://github.com/bcosca/fatfree-core/blob/master/CHANGELOG.md | title=Fatfree Changelog | publisher=Github | accessdate=19 April 2018}}</ref>
+| 2018-04-19
+| {{free|GPLv3}}
+|-
+!{{rh}}| [[FuelPHP]]
+| 2011-08
+| 1.8.1<ref name="fuel_release">{{cite web | url=https://github.com/fuel/core/wiki/Changelog-v1.8.1 | title=Changelog v1.8.1 | publisher=FuelPHP | date=18 April 2018 | accessdate=9 Feb 2019}}</ref>
+| 2018-04-18
+| {{free|MIT}}
+|-
+!{{rh}}| [[Gyroscope (software)|Gyroscope]]
+| 2008-11-20
+| 13.3.0<ref>{{cite web
+ | url = http://www.antradar.com/download/gyroscope/
+ | title = Gyroscope Archive
+ | date = {{date|2018-03-19|mdy}} | accessdate = {{date|2018-04-02|mdy}}
+ | website = antradar.com
+}}</ref>
+| 2018-03-19
+| {{free|[[BSD licenses|BSD]]}}
+|-
+!{{rh}}| [[Jamroom]]
+| 2003-07-28
+| 6.1.0<ref name="jamroom_release">{{cite web | url=https://www.jamroom.net/the-jamroom-network/forum/new_posts/53689/jamroom-61-has-been-released | title=Jamroom 6.1.0 | publisher=jamroom.net}}</ref>
+| 2017-08-30
+| {{free|[[Mozilla Public License|MPL]]}}
+|-
+!{{rh}}| [[Kajona]]
+| 2006
+| 6.2<ref name="kajona_release">{{cite web | url=https://github.com/kajona/kajonacms/releases | title=Releases | publisher=github.com | accessdate=10 June 2017}}</ref>
+| 2017-06-08
+| {{free|[[GNU Lesser General Public License|LGPLv2]]}}
+|-
+!{{rh2}}| [[Kohana (framework)|Kohana]]
+| 2007-07
+| 3.3.5<ref name="kohana_release">{{cite web | url=https://github.com/kohana/kohana/releases |title=Kohana V3.3.5 |publisher=kohanaframework.org |date= |accessdate=2016-03-10}}</ref>
+| 2016-03-10
+| {{free|[[BSD licenses|BSD]]}}
+|-
+!{{rh}}| [[Laravel]]
+| 2011-07-31  
+| 5.7.22<ref>{{Cite web|url=https://github.com/laravel/framework/releases|title=laravel/framework: Releases|last=|first=|date={{date|2019-01-22|mdy}}|website=github.com|publisher=|accessdate={{date|2019-01-25|mdy}}}}</ref>
+| 2019-01-22
+| {{free|MIT}}
+|-
+!{{rh}}| [[Li3 (software)|Li3]] (Lithium)
+| 2009-10
+| 1.1.0<ref name="li3_release">{{cite web | url=http://news.li3.me/post/159895804728/releasing-1-1-0 | title=Releasing 1.1.0}}</ref>
+| 2017-04-23
+| {{free|[[BSD licenses|BSD]]}}
+|-
+!{{rh}}| [[Nette Framework]]
+| 2006-01<ref>{{cite web
+ | url = https://github.com/nette/nette/commit/c13ed82c2f170f89cd380b399fe4528d50f064d7
+ | title = Nette Framework - first commit
+ | year = 2014 | accessdate = 2014-04-23
+ | website = nette.org
+}}</ref>
+| 2.4.0<ref>{{cite web |url=https://github.com/nette/nette/releases/tag/v2.4.0 |title=Released version 2.4.0 }}</ref>
+| 2016-05-03
+| {{free|[[New BSD License|New BSD]], GPLv2, GPLv3<ref>{{cite web
+ | url = https://github.com/nette/nette/blob/master/license.md
+ | title = Nette Framework Licence
+ | year = 2014 | accessdate = 2014-04-23
+ | website = nette.org
+}}</ref>}}
+|-
+!{{rh}}| [[Phalcon (framework)|Phalcon]]
+| 2012-11-14
+| 3.4.2<ref name="phalcon_release">{{cite web | url=https://github.com/phalcon/cphalcon/releases/tag/v3.4.2 | title=Release Version 3.4.2 · phalcon/cphalcon | publisher=github.com | date = 2018-12-01 | accessdate = 2018-12-01}}</ref>
+| 2018-12-01
+| {{free|BSD}}
+|-
+!{{rh}}| [[Pop PHP Framework|Pop PHP]]
+| 2012-03-19
+| 4.0.1<ref>{{cite web | url=https://github.com/popphp/popphp-framework/releases/tag/4.0.1 | title=Release Version 4.0.1 popphp/popphp-framework | publisher=github.com | date = 2019-02-09 | accessdate = 2019-02-09}}</ref>
+| 2019-02-09
+| {{free|[[New BSD Licence|New BSD]]}}
+|-
+!{{rh}}| [[PRADO (framework)|PRADO]]
+| 2004-01
+| 3.3.2<ref>{{cite web
+ | url = https://github.com/pradosoft/prado/releases/tag/3.3.2
+ | title = pradosoft/prado: Release 3.3.2
+ | date = 2015-08-23 | accessdate = 2016-09-03
+ | website = github.com
+}}</ref>
+| 2016-08-23
+| {{free|New BSD<ref>{{cite web
+ | url = http://www.pradosoft.com/license/
+ | title = License of PRADO
+ | year = 2013 | accessdate = 2013-10-16
+ | publisher = pradosoft.com
+}}</ref>}}
+|-
+!{{rh}}| [[Silex (web framework)|Silex]]
+| 2011-09
+| 2.0.0<ref name="silex_release">{{cite web | url=http://silex.sensiolabs.org/doc/master/changelog.html | title=Changelog | publisher=sensiolabs.org | accessdate=27 May 2016}}</ref>
+| 2016-05-18
+| {{free|MIT}}
+|-
+!{{rh}}| [[SilverStripe]]
+| 2007-02-03
+| 3.6.1<ref name="silverstripe_release">https://www.silverstripe.org/download</ref>
+| 2017-06-27
+| {{free|BSD}}
+|-
+!{{rh}}| [[Smart Framework PHP|Smart.Framework]]
+| 2015-02-01
+| 3.7.7<ref>https://github.com/unix-world/Smart.Framework</ref>
+| 2018-10-10
+| {{free|BSD}}
+|-
+!{{rh}}| [[Symfony]]
+| 2005-10
+| {{Symfony version}}
+| {{Symfony version|releasedate}}
+| {{free|MIT}}
+|-
+!{{rh}}| [[TwistPHP]]
+| 2014-07
+| 3.0.5<ref name="twistphp_release">{{cite web | url=https://github.com/TwistPHP/TwistPHP/releases/tag/v3.0.5 | title=TwistPHP Version 3.0.5 | publisher=twistphp.com | accessdate=17 May 2017}}</ref>
+| 2017-01-11
+| {{free|[[GNU General Public License|GPLv3]]}}
+|-
+!{{rh}}| [[TYPO3 Flow]]
+| 2011-10
+| 3.3.4<ref name="typo3release">{{cite web | url=https://github.com/neos/flow-development-collection/releases | title=Release Overview | publisher=neos.io | accessdate=16 October 2016}}</ref>
+| 2016-09-29
+| {{free|[[GNU Lesser General Public License|LGPLv3]]}}
+|-
+!{{rh}}| [[Yii]]
+| 2008-12-03
+| 2.0.16<ref>{{cite web |url=https://www.yiiframework.com/news/196/yii-2-0-16-is-released |title=Yii 2.0.16 is released |publisher=Yiiframework.com |date=2019-01-30|accessdate=2019-01-30}}</ref>
+| 2019-01-30
+| {{free|[[New BSD Licence|New BSD]]}}
+|-
+!{{rh}}| [[Zend Framework]]
+| 2006-03
+| 3.0.0<ref name="zend_release">[https://github.com/zendframework/zendframework/blob/master/CHANGELOG.md Zend Framework Changelog]</ref>
+| 2016-06-28
+| {{free|New BSD}}
+|-
+!{{rh}}| [[Bottle (web framework)|Bottle]]
+| 0.12.13
+| 2017-01-09<ref name="bottle_release">https://github.com/bottlepy/bottle/releases</ref>
+| {{free|[[MIT License|MIT]]}}
+|-
+!{{rh2}}| [[BlueBream]]
+| 1.0
+| 2011-01-18
+| [[Zope Public License|ZPL]]
+|-
+!{{rh}}| [[CherryPy]]
+| 18.0.1
+| 2018-09-09<ref name="cp_release">https://pypi.python.org/pypi/CherryPy</ref>
+| [[BSD licenses|BSD]]
+|-
+!{{rh}}| [[CubicWeb]]
+| 3.22.2
+| 2016-02-23<ref name="cubicweb_release">https://www.cubicweb.org/project/cubicweb/3.22.2</ref>
+| [[GNU Lesser General Public License|LGPL]]
+|-
+!{{rh}}| [[Django (web framework)|Django]]
+|2.1.3
+| 2018-11-01<ref>https://github.com/django/django/releases</ref>
+| {{free|BSD}}
+|-
+!{{rh}}| [[Flask (web framework)|Flask]]
+| 1.0.2
+| 2018-05-02<ref>https://github.com/pallets/flask/releases</ref><ref>https://pypi.org/project/Flask</ref>
+| {{free|BSD}}
+|-
+!{{rh}}| [[Google App Engine]]
+|1.9.63
+|2018-02-27
+|LGPL, Proprietary
+|-
+!{{rh2}}| [[Grok (web framework)|Grok]]
+| 2.8
+| 2013-02-14<ref name="grok_release">{{cite web | url=https://mail.zope.org/pipermail/grok-dev/2013-February/011790.html | title=[Grok-dev] Upgrading grok project | publisher=mail.zope.org | date=14 February 2013 | accessdate=28 August 2015}}</ref>
+| ZPL
+|-
+!{{rh2}}| [[Nagare (web framework)|Nagare]]
+| 0.4.1
+| 2012-01-18
+| {{free|BSD}}
+|-
+!{{rh2}}| [[Pyjs]]
+| 0.8.1a
+| 2012-05-06
+| {{free|[[Apache License|Apache]]}}
+|-
+!{{rh2}}| [[Pylons Framework|Pylons]]
+| 1.0.2
+| 2015-07-21
+| {{free|BSD}}
+|-
+!{{rh}}| [[Pyramid (web framework)|Pyramid]]
+| 1.10.2
+| 2019-01-30<ref name="pyramid-change-history">{{cite web |title=Pyramid Change History |url=https://docs.pylonsproject.org/projects/pyramid/en/latest/changes.html}}</ref>
+| {{free|BSD}}
+|-
+!{{rh}}| [[TACTIC (web framework)|TACTIC]]
+| 4.4.0.v0v
+| 2016-05-19<ref>{{cite web |title=Releases |url=https://github.com/Southpaw-TACTIC/TACTIC/releases}}</ref>
+| EPL
+|-
+!{{rh}}| [[Tornado (web server)|Tornado]]
+| 5.1.1
+| 2018-09-16<ref>{{cite web |title=Release notes |url=http://www.tornadoweb.org/en/stable/releases.html |publisher=Tornadoweb.org}}</ref>
+| Apache
+|-
+!{{rh}}| [[TurboGears]]
+| 2.3.10
+| 2016-12-04<ref>{{cite web |title=Project Status |url=http://www.turbogears.org/current-status.html}}</ref>
+| MIT, LGPL
+|-
+!{{rh}}| [[web2py]]
+| 2.17.2
+| 2018-10-06<ref>{{cite web |title=History for VERSION |url=https://github.com/web2py/web2py/commits/master/VERSION}}</ref>
+| [[GNU Lesser General Public License|LGPL3]]
+|-
+!{{rh2}}| [[Webware for Python|Webware]]
+| 1.1.1
+| 2013-01-18
+| [[Python License|Python]]
+|-
+!{{rh}}| [[Zope 2]]
+| 2.13.26
+| 2017-02-20<ref>{{cite web |title=Changelog — Zope 2 documentation 2.13 documentation |url=https://zope.readthedocs.org/en/2.13/CHANGES.html |accessdate=2015-08-29}}</ref>
+| ZPL
+|-
+!{{rh2}}| [[Camping (microframework)|Camping]]
+| 2.1
+| 2010-08-20
+| {{free|[[MIT License|MIT]]}}
+|-
+! {{rh2}} class="rh heading table-rh" |[[Merb]]
+| 1.1.3
+| 2010-07-10
+| {{free|[[MIT License|MIT]]}}
+|-
+!{{rh}}| [[Padrino (web framework)|Padrino]]
+| 0.13.2
+| 2016-05-09<ref name="changes">{{cite web | url=http://padrinorb.com/blog/padrino-0-13-2-project-flag-bug-fixes-and-component-upgrades/ | title=Padrino 0.13.2 - New Project Flag, Component Upgrades and Bug Fixes | publisher=Padrino | accessdate=28 May 2016}}</ref>
+| {{free|[[MIT License|MIT]]}}
+|-
+! {{rh2}} class="rh heading table-rh" |[[PureMVC]]
+| 2.0.4
+| 2008-08-14
+|[[Creative Commons license|CC]] +Attribution
+|-
+!{{rh}}| [[Ruby on Rails]]
+| 5.2
+| 2018-04-09<ref>{{Cite web|url=https://rubygems.org/gems/rails/versions|title=All versions of rails {{!}} RubyGems.org {{!}} your community gem host|website=rubygems.org|access-date=}}</ref>
+| {{free|[[MIT License|MIT]]}}
+|-
+!{{rh}}| [[Sinatra (software)|Sinatra]]
+| 2.0.1
+| 2018-02-16<ref>https://github.com/sinatra/sinatra/releases</ref>
+| {{free|[[MIT License|MIT]]}}
+|-
+!{{rh}}| [[AIDA/Web]]
+| [[Smalltalk]]
+| 6.7
+| 2014-09-14
+| {{free|[[MIT License|MIT]]}}
+|-
+!{{rh}}| [[Oracle Application Express|Application Express]]
+| [[PL/SQL]]
+| 5.0.3
+| 2015-12-21
+| {{proprietary|[[Proprietary software|Proprietary]] [[freeware]]}}
+|-
+!{{rh}}| [[Apache Flex|Flex]]
+| [[ActionScript]], [[MXML]]
+| 4.14
+| 2015-02-03
+| {{free|[[Apache License|Apache]]}}
+|-
+!{{rh}}| [[Grails (framework)|Grails]]
+| [[Groovy (programming language)|Groovy]] (JVM)
+| 3.3.6
+| 2018-06-15
+| {{free|Apache}}
+|-
+!{{rh2}}| [[Morfik]]
+| [[C Sharp (programming language)|C#]], [[BASIC]], [[Pascal (programming language)|Pascal]], [[Java (programming language)|Java]]
+| 3.0.8.1
+| 2010-12-13
+| {{proprietary|Proprietary freeware}}
+|-
+!{{rh}}| [[Ocsigen]]
+| [[OCaml]]
+| 4.2
+| 2015-07-21<ref>http://ocsigen.org/eliom/changelog</ref>
+| {{free|[[GNU Lesser General Public License|LGPL]]}}
+|-
+!{{rh}}| [[Opa (programming language)|Opa]]
+| Opa
+| 1.1.1
+| 2013-04-16<ref>{{cite web|url=http://blog.opalang.org/2013/02/some-great-news-on-opa.html |title=The Opa Blog: Some great news on Opa |publisher=Blog.opalang.org |date= |accessdate=2013-08-18}}</ref>
+| {{free|MIT and [[Affero General Public License|AGPL]]}}
+|-
+!{{rh}}| [[OpenACS]]
+| [[Tcl]]
+| 5.9.1
+| 2017-08-08
+| {{free|GPL}}
+|-
+!{{rh}}| [[Seaside (software)|Seaside]]
+| [[Smalltalk]]
+| 3.2.0<ref>https://github.com/SeasideSt/Seaside/releases</ref>
+| 2016-05-06
+| {{free|MIT}}
+|-

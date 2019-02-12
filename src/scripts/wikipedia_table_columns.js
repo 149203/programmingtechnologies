@@ -5,9 +5,8 @@ const _ = require('lodash')
 
 // Setup — set these constants then run the script
 
-const filename = 'comparison_of_programming_languages_syntax_statements'
-const url =
-    'https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax)#Statements'
+const filename = 'comparison_of_web_frameworks'
+const url = 'https://en.wikipedia.org/wiki/Comparison_of_web_frameworks'
 const column_number = 1
 
 // End setup
