@@ -8,7 +8,7 @@ const _ = require('lodash')
 const filename = 'comparison_of_programming_languages_general_comparison'
 const url =
     'https://en.wikipedia.org/wiki/Comparison_of_programming_languages#General_comparison'
-const column_number = 1
+const column_number = 2
 
 // End setup
 
@@ -17,7 +17,7 @@ const column_number = 1
 const rows = /(?<=(\|\-)).+?(?=(\|\-))/gs
 const columns = /(?!(\|))(?!(\s)).+/g
 const wiki_link = /(?<=\[\[).*?\|?.*?(?=\]\])/
-const beginning_brackets = /^\[\[/
+const beginning_brackets = /^.*\[\[/
 const ending_syntax_with_space = /\s(\(|\-).+/
 const ending_syntax = /(#|]|\|).+/
 const sharp = /\s+sharp$/i
@@ -36,6 +36,7 @@ try {
         row.match(columns).forEach((column, i) => {
             // if we're on the selected column number
             if (i + 1 === column_number) {
+                console.log(column)
                 // if it's a valid wikipedia link
                 if (wiki_link.test(column)) {
                     json_output.technologies.push(format_name(column))
