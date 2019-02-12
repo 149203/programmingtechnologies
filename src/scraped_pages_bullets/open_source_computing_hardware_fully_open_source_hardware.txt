@@ -1,0 +1,18 @@
+* [[Freeduino]] – an open-source [[physical computing]] platform based on a simple I/O board and a development environment that implements the open source [[Processing (programming language)|Processing]] / ''Wiring'' language. Also clones of this platform including Freeduino.
+* [[Tinkerforge]] – a platform comprising stackable microcontrollers for interfacing with sensors and other I/O devices.
+
+===Components===
+* [[Ethernut]], embedded Ethernet adapters
+* [[IOIO]], a board that allows Android applications to interface with external electronics
+* [[PLAICE]], a device that combines a [[flash memory]] [[Programmer (hardware)|programmer]], [[in-circuit emulation]], and a multichannel [[logic analyzer]]. It runs [[uClinux]].
+* [[Tinkerforge]], a platform comprising stackable microcontrollers for interfacing with sensors and other I/O devices
+* Twibrigh [[RONJA]], a 10 Mbit/s full duplex [[Free-space optical communication|FSO]] wireless optical network adapter from 2001<ref>{{cite web|url=http://ronja.twibright.com|title=Twibright Labs - Ronja|publisher=}}</ref>
+
+====CPUs====
+* [[Amber (processor core)|Amber]] is an [[ARM architecture|ARM]]-compatible 32-bit [[RISC]] processor. Amber implements the ARMv2 [[instruction set]].
+* [[LEON]], a 32-bit, [[SPARC]]-like CPU created by the [[European Space Agency]]
+* [[OpenPOWER]], based on IBM's [[POWER8]] and newer multicore processor designs
+* [[OpenSPARC]], a series of open-source microprocessors based on the [[UltraSPARC T1]] and [[UltraSPARC T2]] multicore processor designs
+* [[Parallax Propeller|Parallax P8X32A Propeller]] is a multicore microcontroller with an emphasis on general-purpose use
+* [[ZPU (microprocessor)|ZPU]], a small, portable CPU core with a [[GNU Compiler Collection|GCC]] toolchain. It is designed to be compiled targeting FPGA<ref>{{cite web |url=http://opencores.org/project,zpu |title=ZPU - the worlds smallest 32 bit CPU with GCC toolchain :: Overview :: OpenCores|publisher=}}</ref>
+* [[Zet (hardware)]], [[x86]] implementation on programmable logic

@@ -1,0 +1,18 @@
+{
+    "filename": "open_source_computing_hardware_fully_open_source_hardware.json",
+    "url": "https://en.wikipedia.org/wiki/Open-source_computing_hardware#Fully_open-source_hardware",
+    "technologies": [
+        "Amber",
+        "Ethernut",
+        "Freeduino",
+        "IOIO",
+        "LEON",
+        "OpenPOWER",
+        "OpenSPARC",
+        "Parallax P8X32A Propeller",
+        "PLAICE",
+        "Tinkerforge",
+        "Zet",
+        "ZPU"
+    ]
+}

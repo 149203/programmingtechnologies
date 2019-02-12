@@ -5,9 +5,9 @@ const _ = require('lodash')
 
 // Setup — set these constants then run the script
 
-const filename = 'open_source_computing_hardware_partially_open-source_hardware'
+const filename = 'open_source_computing_hardware_fully_open_source_hardware'
 const url =
-    'https://en.wikipedia.org/wiki/Open-source_computing_hardware#Partially_open-source_hardware'
+    'https://en.wikipedia.org/wiki/Open-source_computing_hardware#Fully_open-source_hardware'
 
 // End setup
 
