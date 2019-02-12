@@ -1,0 +1,130 @@
+This is a list of notable [[JavaScript library|JavaScript libraries]].
+
+== Constraint programming ==
+* [[Cassowary (software)]]
+* [[CHR.js]]
+
+== [[Document Object Model|DOM]] (manipulation) oriented ==
+
+* [[Google Polymer]]
+* [[Dojo Toolkit]]
+* [[jQuery]]
+* [[Midori JavaScript Framework|midori]]
+* [[MooTools]]
+* [[Prototype JavaScript Framework]]
+
+== Graphical/visualization (canvas or SVG related) ==
+{{see also|List of JavaScript graphics libraries}}
+* [[AnyChart]]
+* [[D3.js]]
+* [[FusionCharts]]
+* [[Highcharts]]
+* EaselJS, part of [[CreateJS]]
+* [[JavaScript InfoVis Toolkit]]
+* [[Processing_(programming_language)#p5.js|p5.js]]
+* [[Pixi.js]]
+* [[Plotly]]
+* [[Processing.js]]
+* [[Raphaël (JavaScript library)|Raphaël]]
+* [[SWFObject]]
+* [[Teechart]]
+* [[Three.js]]
+* [[Velocity (JavaScript library)|Velocity.js]]
+* [[Verge3D]]
+* [[WhitestormJS]]
+
+== GUI (Graphical user interface) and widget related ==
+
+* [[Angular (application platform)]] by Google
+* [[AngularJS]] by Google
+* [[Bootstrap (front-end framework)|Bootstrap]]
+* DevExtreme by [[DevExpress]]
+* [[Dojo Toolkit#Widgets|Dojo Widgets]]
+* [[Ext JS]] by [[Sencha]]
+* [[Foundation (framework)|Foundation]] by ZURB
+* Ignite UI by [[Infragistics]]
+* [[jQuery UI]]
+* [[jQWidgets]]
+* Kendo UI by [[Telerik]]
+* [[OpenUI5]] by [[SAP (company)|SAP]]
+* [[Polymer (library)]] by Google
+* [[qooxdoo]]
+* [[React.js]]
+* [[SmartClient]]
+* [[Webix]]
+* Wijmo 5 by [[GrapeCity]]
+* [[WinJS]]
+
+=== No longer actively developed ===
+* [[Glow (JavaScript library)|Glow]]
+* [[Lively Kernel]]
+* [[Script.aculo.us]]
+* [[YUI Library]]
+
+== Pure JavaScript/Ajax ==
+
+* [[Google Closure Tools#Closure Library|Google Closure Library]]
+* [[Joose (framework)|Joose]]
+* [[JsPHP]]
+* [[ASP.NET AJAX|Microsoft's Ajax library]]
+* [[MochiKit]]
+* [[PDF.js]]
+* [[Rico (Ajax)|Rico]]
+* [[Socket.IO]]
+* [[Spry framework]]
+* [[Underscore.js]]
+
+== Template systems ==
+
+* [[Cascade Framework]]
+* [[jQuery Mobile]]
+* [[Mustache (template system)|Mustache]]
+* [[Jinja (template engine)|Jinja-JS]]
+* [[Twig (template engine)|Twig.js]]
+
+==Unit testing==
+* [[Jasmine (JavaScript framework)|Jasmine]]
+* [[Mocha (JavaScript framework)|Mocha]]
+* [[QUnit]]
+* [[Unit.js]]
+
+== Web-application related (MVC, MVVM) ==
+
+* [[Angular (application platform)]] by Google
+* [[AngularJS]] by Google
+* [https://aurelia.io/ Aurelia]
+* [[Backbone.js]]
+* [[Cappuccino (application development framework)|Cappuccino]]
+* [[Chaplin.js]]
+* [[Echo (framework)|Echo]]
+* [[Ember.js]]
+* [[Enyo (software)|Enyo]]
+* [[Express.js]]
+* [[Ext JS]]
+* [[Google Web Toolkit]]
+* [[JavaScriptMVC]]
+* [[JsRender/JsViews]]
+* [[Knockout (web framework)|Knockout]]
+* [[Meteor (web framework)|Meteor]]
+* [[Mojito (framework)|Mojito]]
+* [[MooTools]]
+* [[Node.js]]
+* [[OpenUI5]] by [[SAP (company)|SAP]]
+* [[Polymer (library)]] by Google
+* [[Prototype JavaScript Framework]]
+* [[PureMVC]]
+* [[qooxdoo]]
+* [[React.js]]
+* [[Rialto Toolkit]]
+* [[SproutCore]]
+* [[Total.js]]
+* [[Vue.js]]
+* [[Wakanda (software)|Wakanda Framework]]
+
+== Other ==
+* [[Modernizr]]
+* [[Cannon.js]]
+* [[MathJax]]
+
+==See also==
+* [[Ajax]]
