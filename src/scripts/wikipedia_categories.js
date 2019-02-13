@@ -5,9 +5,9 @@ const _ = require('lodash')
 
 // Setup — set these constants then run the script
 
-const filename = 'category_python_web_frameworks'
+const filename = 'category_rich_internet_application_frameworks'
 const url =
-    'https://en.wikipedia.org/wiki/Category:Python_web_frameworks#Pages_in_category'
+    'https://en.wikipedia.org/wiki/Category:Rich_Internet_application_frameworks'
 
 // End setup
 

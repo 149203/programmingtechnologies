@@ -1,0 +1,47 @@
+Adobe Flash‎ (4 C, 43 P, 2 F)
+Silverlight‎ (1 C, 6 P)
+A-Frame (virtual reality framework)
+Adobe AIR
+Angular (application platform)
+AngularJS
+Apache Cordova
+Appcelerator Titanium
+IAd Producer
+Bindows
+Cappuccino (application development framework)
+Chaplin.js
+CocoonJS
+Crosswalk Project
+Curl (programming language)
+Echo (framework)
+Ember.js
+Enyo (software)
+FHTML
+Google Closure Tools
+Google Web Toolkit
+Ionic (mobile app framework)
+IPFaces mobile framework
+JavaFX
+JavaPoly
+JWt (Java web toolkit)
+Knockout (web framework)
+Lively Kernel
+Meteor (web framework)
+Microsoft Silverlight
+Moobile.js
+Morfik
+Nagare (web framework)
+NativeScript
+OpenLaszlo
+Polymer (library)
+Pyjs
+Qooxdoo
+React (JavaScript library)
+Rialto Toolkit
+Rico (Ajax)
+SproutCore
+SwellRT
+Tersus
+WaveMaker
+Wt (web toolkit)
+ZK (framework)
