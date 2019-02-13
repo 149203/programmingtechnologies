@@ -1,0 +1,19 @@
+BlueBream
+Bottle (web framework)
+CherryPy
+Django (web framework)
+Flask (web framework)
+Grok (web framework)
+Nagare (web framework)
+Nevow
+Pylons (web framework)
+Pyramid (web framework)
+Python Paste
+Quixote (web framework)
+RapidSMS
+TACTIC (web framework)
+Tornado (web server)
+TurboGears
+Web2py
+Webware for Python
+Zope

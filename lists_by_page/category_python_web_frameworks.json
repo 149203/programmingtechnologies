@@ -1,0 +1,25 @@
+{
+    "filename": "category_python_web_frameworks.json",
+    "url": "https://en.wikipedia.org/wiki/Category:Python_web_frameworks#Pages_in_category",
+    "technologies": [
+        "BlueBream",
+        "Bottle",
+        "CherryPy",
+        "Django",
+        "Flask",
+        "Grok",
+        "Nagare",
+        "Nevow",
+        "Pylons",
+        "Pyramid",
+        "Python Paste",
+        "Quixote",
+        "RapidSMS",
+        "TACTIC",
+        "Tornado",
+        "TurboGears",
+        "Web2py",
+        "Webware for Python",
+        "Zope"
+    ]
+}
