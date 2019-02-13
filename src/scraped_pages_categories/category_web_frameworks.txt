@@ -42,7 +42,6 @@ CppCMS
 Crypton (framework)
 Dabble DB
 Dancer (software)
-User:DavidArchiv/sandbox
 Drupal
 Echo (framework)
 Ember.js

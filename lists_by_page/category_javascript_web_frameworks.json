@@ -1,0 +1,21 @@
+{
+    "filename": "category_javascript_web_frameworks.json",
+    "url": "https://en.wikipedia.org/wiki/Category:JavaScript_web_frameworks",
+    "technologies": [
+        "A-Frame",
+        "Gatsby",
+        "Hugo",
+        "Markdown",
+        "Meteor",
+        "React",
+        "React Fiber",
+        "Rico",
+        "Sails.js",
+        "Script.aculo.us",
+        "Sencha Touch",
+        "SproutCore",
+        "Vue.js",
+        "Wakanda",
+        "WaveMaker"
+    ]
+}
