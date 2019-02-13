@@ -1,7 +1,7 @@
 const fs = require('fs')
 const _ = require('lodash')
 
-// This script gets 'technologies' from Wikipedia table columns that have been scraped and put into a txt file.
+// This script gets 'technologies' from Wikipedia bullets that have been scraped and put into a txt file.
 
 // Setup — set these constants then run the script
 
@@ -15,16 +15,6 @@ const url =
 
 const link_text = /(?<=\*\s?\[\[)(.+?)(?=\]\])/gm
 const parentheticals = /\s\(.*$/gm
-
-/*
-const rows = /(?<=(\|\-)).+?(?=(\|\-))/gs
-const columns = /(?!(\|))(?!(\s)).+/g
-const wiki_link = /(?<=\[\[).*?\|?.*?(?=\]\])/
-const beginning_brackets = /^.*\[\[/
-const ending_syntax_with_space = /\s(\(|\-).+/
-const ending_syntax = /(#|]|\|).+/
-const sharp = /\s+sharp$/i
-*/
 
 // End RegExps
 

@@ -1,0 +1,67 @@
+4th Dimension (software)
+ActionScript
+ActiveVFP
+Ada (programming language)
+Apache Groovy
+AppleScript
+Artspeak
+AspectJ
+Ballerina (programming language)
+C++
+C (programming language)
+C Sharp (programming language)
+CAL Actor Language
+Ceylon (programming language)
+Clascal
+Clipper (programming language)
+Clojure
+CoffeeScript
+D (programming language)
+E (programming language)
+EC (programming language)
+ECLiPSe
+Factor (programming language)
+Fortran
+FreeBASIC
+Genie (programming language)
+Go (programming language)
+Gosu (programming language)
+Harbour (software)
+High Level Assembly
+Idris (programming language)
+JavaScript
+JMP (statistical software)
+Joy (programming language)
+JS++
+Julia (programming language)
+K (programming language)
+Kotlin (programming language)
+Lasso (programming language)
+M Sharp
+MATLAB
+ModernPascal
+Modula-2
+Nemerle
+Pascal (programming language)
+Perl
+Perl 6
+Perl language structure
+PHP
+Pure (programming language)
+PureBasic
+Python (programming language)
+Qore (programming language)
+Rebol
+Red (programming language)
+Ring (programming language)
+Rust (programming language)
+SequenceL
+Squeak
+Tcl
+Tea (programming language)
+Urbiscript
+Visual FoxPro
+Whiley (programming language)
+Wolfram Language
+XL (programming language)
+XSLT
