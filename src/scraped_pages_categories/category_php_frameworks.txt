@@ -1,0 +1,42 @@
+Aiki Framework
+Apigility
+Archivarix CMS
+CakePHP
+CodeIgniter
+Drupal
+Fat-Free Framework
+FuelPHP
+GetSimple CMS
+Gyroscope (software)
+Hammerkit
+Horde (software)
+ImpressPages
+INEK (PHP)
+Jamroom
+Joomla
+Kajona
+Kohana (framework)
+Laravel
+Li3 (software)
+Lime (software)
+MODX
+Nette Framework
+Novius OS
+Phalcon (framework)
+PHP Unit Testing Framework
+PHPUnit
+Pop PHP Framework
+PRADO (framework)
+ProcessWire
+Sansa Framework
+Silex (web framework)
+Lumen (software)
+SilverStripe
+Smart Framework PHP
+Symfony
+TwistPHP
+TYPO3
+TYPO3 Flow
+XOOPS
+Yii
+Zend Framework
