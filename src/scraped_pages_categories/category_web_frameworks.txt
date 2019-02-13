@@ -1,0 +1,154 @@
+ActiveVFP
+Agavi
+AIDA/Web
+Ametys CMS
+Apache Cocoon
+Apache Shale
+Apache Sling
+Apache Struts 1
+Apache Struts 2
+Apache Tapestry
+Apache Wicket
+Apigility
+Apotomo
+AppFuse
+Archivarix CMS
+ASP.NET
+ASP.NET Core
+ASP.NET MVC
+ASP.NET Razor
+ASP.NET Web Forms
+ATL Server
+Barracuda (Java)
+Base One Foundation Component Library
+BEdita
+Brutos Framework
+CakePHP
+Camping (microframework)
+Cappuccino (application development framework)
+Castle Project
+Catalyst (software)
+Caveman2
+Cgiapp
+Chaplin.js
+Apache Click
+CodeCharge Studio
+CodeIgniter
+ColdBox Platform
+ColdFusion on Wheels
+ColdSpring Framework
+Comparison of JavaScript frameworks
+CppCMS
+Crypton (framework)
+Dabble DB
+Dancer (software)
+User:DavidArchiv/sandbox
+Drupal
+Echo (framework)
+Ember.js
+Exponent CMS
+Express.js
+Ext JS
+Fat-Free Framework
+Flexive
+Fluid UI
+Foundation (framework)
+FuelPHP
+Fusebox (programming)
+GetSimple CMS
+Google Apps Script
+Grails (framework)
+Gyroscope (software)
+Hamlets (software)
+Hammerkit
+Horde (software)
+IBM WebSphere Application Server
+IBM WebSphere Application Server Community Edition
+ICEfaces
+ItsNat
+Jamroom
+Java Platform, Enterprise Edition
+JavaServer Faces
+JBND
+JBoss Seam
+JHipster
+Joomla
+JQuery
+JQuery Mobile
+Jspx-bay
+JVx (Framework)
+JWt (Java web toolkit)
+Kajona
+Kepler (software)
+Kitura
+Kohana (framework)
+Laravel
+Li3 (software)
+Lift (web framework)
+Lively Kernel
+Merb
+Mojolicious
+Moobile.js
+MooTools
+Mozilla Skywriter
+Nette Framework
+Obidos (software)
+Ocsigen
+Open Semantic Framework
+Openframe
+OpenRasta
+OpenXava
+Oracle Application Express
+Orchard Project
+Padrino (web framework)
+Pandesic
+Pantheon (software)
+PEAR
+Phoenix (web framework)
+PhpCodeGenie
+PHPRunner
+Play Framework
+Plone (software)
+Pop PHP Framework
+PRADO (framework)
+ProcessWire
+Qcodo
+RichFaces
+RIFE
+Ruby on Rails
+Run BASIC
+Scalatra
+Seaside (software)
+SignalR
+Silex (web framework)
+Lumen (software)
+SilverStripe
+Sinatra (software)
+SiteMesh
+Smart Framework PHP
+Snap (web framework)
+Solution stack
+Spark (software)
+Spring Framework
+Spring Roo
+Stripes (framework)
+Sun Web Developer Pack
+Symfony
+Topincs
+TwistPHP
+Vaadin
+Vapor (web framework)
+Vibe.d
+VRaptor
+WaveMaker
+WebObjects
+WebSphere sMash
+WebWork
+Wt (web toolkit)
+Xaraya
+XOOPS
+Yesod (web framework)
+Yii
+Zend Framework
+ZK (framework)
+ZTemplates
