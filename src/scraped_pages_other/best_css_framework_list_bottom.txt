@@ -1,0 +1,560 @@
+ // Bootstrap
+                $http.get('/resources/css_github_stars/bootstrap_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.bootstrap_stars = res.data.stargazers_count;
+                        $scope.bootstrap_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var bootstrap = {
+                            name: "Bootstrap",
+                            website: $scope.bootstrap_website,
+                            stars: $scope.bootstrap_stars ? $scope.bootstrap_stars : 0,
+                            description: "HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+                            template: "Open demo",
+                            href_template: 'https://sitecake.com/demo?template=bootstrap'
+                        };
+                        $scope.frameworks.push(bootstrap)
+                    });
+
+                // Semantic
+                $http.get('/resources/css_github_stars/semantic_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.semantic_stars = res.data.stargazers_count;
+                        $scope.semantic_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var semantic = {
+                            name: "Semantic",
+                            website: $scope.semantic_website,
+                            stars: $scope.semantic_stars ? $scope.semantic_stars : 0,
+                            description: "Semantic is a UI component framework based around useful principles from natural language.",
+                            href_template: "..."
+                        };
+                        $scope.frameworks.push(semantic)
+                    });
+
+                // Materialize
+                $http.get('/resources/css_github_stars/materialize_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.materialize_stars = res.data.stargazers_count;
+                        $scope.materialize_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var materialize = {
+                            name: "Materialize",
+                            website: $scope.materialize_website,
+                            stars: $scope.materialize_stars ? $scope.materialize_stars : 0,
+                            description: "Materialize, a CSS Framework based on Material Design.",
+                            href_template: "..."
+                        };
+                        $scope.frameworks.push(materialize)
+                    });
+
+                // Foundation Zurb
+                $http.get('/resources/css_github_stars/foundationzurb_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.foundationzurb_stars = res.data.stargazers_count;
+                        $scope.foundationzurb_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var foundationzurb = {
+                            name: "Foundation Zurb",
+                            website: $scope.foundationzurb_website,
+                            stars: $scope.foundationzurb_stars ? $scope.foundationzurb_stars : 0,
+                            description: "The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(foundationzurb)
+                    })
+
+                // Bulma
+                $http.get('/resources/css_github_stars/bulma_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.bulma_stars = res.data.stargazers_count;
+                        $scope.bulma_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var bulma = {
+                            name: "Bulma",
+                            website: $scope.bulma_website,
+                            stars: $scope.bulma_stars ? $scope.bulma_stars : 0,
+                            description: "Modern CSS framework based on Flexbox.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(bulma)
+                    })
+
+                // Pure CSS
+                $http.get('/resources/css_github_stars/purecss_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.purecss_stars = res.data.stargazers_count;
+                        $scope.purecss_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var purecss = {
+                            name: "Pure CSS",
+                            website: $scope.purecss_website,
+                            stars: $scope.purecss_stars ? $scope.purecss_stars : 0,
+                            description: "A set of small, responsive CSS modules that you can use in every web project.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(purecss)
+                    })
+
+                // Skeleton
+                $http.get('/resources/css_github_stars/skeleton_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.skeleton_stars = res.data.stargazers_count;
+                        $scope.skeleton_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var skeleton = {
+                            name: "Skeleton",
+                            website: $scope.skeleton_website,
+                            stars: $scope.skeleton_stars ? $scope.skeleton_stars : 0,
+                            description: "A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(skeleton)
+                    })
+
+                // Uikit
+                $http.get('/resources/css_github_stars/uikit_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.uikit_stars = res.data.stargazers_count;
+                        $scope.uikit_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var uikit = {
+                            name: "Uikit",
+                            website: $scope.uikit_website,
+                            stars: $scope.uikit_stars ? $scope.uikit_stars : 0,
+                            description: "A lightweight and modular front-end framework for developing fast and powerful web interfaces.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(uikit)
+                    })
+
+                // Miligram
+                $http.get('/resources/css_github_stars/milligram_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.milligram_stars = res.data.stargazers_count;
+                        $scope.milligram_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var milligram = {
+                            name: "Miligram",
+                            website: $scope.milligram_website,
+                            stars: $scope.milligram_stars ? $scope.milligram_stars : 0,
+                            description: "A minimalist CSS framework.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(milligram)
+                    })
+
+                // Tachyons
+                $http.get('/resources/css_github_stars/tachyons_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.tachyons_stars = res.data.stargazers_count;
+                        $scope.tachyons_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var tachyons = {
+                            name: "Tachyons",
+                            website: $scope.tachyons_website,
+                            stars: $scope.tachyons_stars ? $scope.tachyons_stars : 0,
+                            description: "Functional css for humans.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(tachyons)
+                    })
+
+                // Spectre
+                $http.get('/resources/css_github_stars/spectre_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.spectre_stars = res.data.stargazers_count;
+                        $scope.spectre_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var spectre = {
+                            name: "Spectre",
+                            website: $scope.spectre_website,
+                            stars: $scope.spectre_stars ? $scope.spectre_stars : 0,
+                            description: "Spectre.css - a Lightweight, Responsive and Modern CSS Framework.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(spectre)
+                    })
+
+                // Bass CSS
+                $http.get('/resources/css_github_stars/basscss_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.basscss_stars = res.data.stargazers_count;
+                        $scope.basscss_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var basscss = {
+                            name: "Basscss",
+                            website: $scope.basscss_website,
+                            stars: $scope.basscss_stars ? $scope.basscss_stars : 0,
+                            description: "Low-Level CSS Toolkit.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(basscss)
+                    })
+
+                // Topcoat
+                $http.get('/resources/css_github_stars/topcoat_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.topcoat_stars = res.data.stargazers_count;
+                        $scope.topcoat_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var topcoat = {
+                            name: "Topcoat",
+                            website: $scope.topcoat_website,
+                            stars: $scope.topcoat_stars ? $scope.topcoat_stars : 0,
+                            description: "CSS for clean and fast web apps.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(topcoat)
+                    })
+
+                // Susy
+                $http.get('/resources/css_github_stars/susy_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.susy_stars = res.data.stargazers_count;
+                        $scope.susy_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var susy = {
+                            name: "Susy",
+                            website: $scope.susy_website,
+                            stars: $scope.susy_stars ? $scope.susy_stars : 0,
+                            description: "Responsive layout toolkit for Sass.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(susy)
+                    })
+
+                // Mui CSS
+                $http.get('/resources/css_github_stars/muicss_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.muicss_stars = res.data.stargazers_count;
+                        $scope.muicss_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var muicss = {
+                            name: "Mui CSS",
+                            website: $scope.muicss_website,
+                            stars: $scope.muicss_stars ? $scope.muicss_stars : 0,
+                            description: "Lightweight CSS framework.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(muicss)
+                    })
+
+                // Picnic
+                $http.get('/resources/css_github_stars/picnic_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.picnic_stars = res.data.stargazers_count;
+                        $scope.picnic_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var picnic = {
+                            name: "Picnic CSS",
+                            website: $scope.picnic_website,
+                            stars: $scope.picnic_stars ? $scope.picnic_stars : 0,
+                            description: "A beautiful CSS library to kickstart your projects.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(picnic)
+                    })
+
+                // Mobi CSS
+                $http.get('/resources/css_github_stars/mobicss_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.mobicss_stars = res.data.stargazers_count;
+                        $scope.mobicss_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var mobicss = {
+                            name: "Mobi css",
+                            website: $scope.mobicss_website,
+                            stars: $scope.mobicss_stars ? $scope.mobicss_stars : 0,
+                            description: "A lightweight, scalable, mobile-first CSS framework.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(mobicss)
+                    })
+
+                // Hack
+                $http.get('/resources/css_github_stars/hack_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.hack_stars = res.data.stargazers_count;
+                        $scope.hack_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var hack = {
+                            name: "Hack",
+                            website: $scope.hack_website,
+                            stars: $scope.hack_stars ? $scope.hack_stars : 0,
+                            description: "	Dead simple CSS framework.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(hack)
+                    })
+
+                // Mini CSS
+                $http.get('/resources/css_github_stars/minicss_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.minicss_stars = res.data.stargazers_count;
+                        $scope.minicss_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var minicss = {
+                            name: "Mini CSS",
+                            website: $scope.minicss_website,
+                            stars: $scope.minicss_stars ? $scope.minicss_stars : 0,
+                            description: "A minimal, responsive, style-agnostic CSS framework.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(minicss)
+                    })
+
+                // Ink
+                $http.get('/resources/css_github_stars/ink_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.ink_stars = res.data.stargazers_count;
+                        $scope.ink_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var ink = {
+                            name: "Ink",
+                            website: $scope.ink_website,
+                            stars: $scope.ink_stars ? $scope.ink_stars : 0,
+                            description: "An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(ink)
+                    })
+
+                // Cutestrap
+                $http.get('/resources/css_github_stars/cutestrap_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.cutestrap_stars = res.data.stargazers_count;
+                        $scope.cutestrap_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var cutestrap = {
+                            name: "Cutestrap",
+                            website: $scope.cutestrap_website,
+                            stars: $scope.cutestrap_stars ? $scope.cutestrap_stars : 0,
+                            description: "8kb micro CSS framework.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(cutestrap)
+                    })
+
+                // Unsemantic
+                $http.get('/resources/css_github_stars/unsemantic_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.unsemantic_stars = res.data.stargazers_count;
+                        $scope.unsemantic_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var unsemantic = {
+                            name: "Unsemantic",
+                            website: $scope.unsemantic_website,
+                            stars: $scope.unsemantic_stars ? $scope.unsemantic_stars : 0,
+                            description: "Fluid grid for mobile, tablet, and desktop.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(unsemantic)
+                    })
+
+                $http.get('/resources/css_github_stars/blaze_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.blaze_stars = res.data.stargazers_count;
+                        $scope.blaze_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var blaze = {
+                            name: "Blaze UI",
+                            website: $scope.blaze_website,
+                            stars: $scope.blaze_stars ? $scope.blaze_stars : 0,
+                            description: "Open Source UI Toolkit.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(blaze)
+                    })
+
+                // Kube
+                $http.get('/resources/css_github_stars/kube_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.kube_stars = res.data.stargazers_count;
+                        $scope.kube_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : maps['Imperavi Kube'];
+                        var kube = {
+                            name: "Imperavi Kube",
+                            website: $scope.kube_website,
+                            stars: $scope.kube_stars ? $scope.kube_stars : 0,
+                            description: "Kube CSS Framework.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(kube)
+                    })
+
+                // Html KickStart
+                $http.get('/resources/css_github_stars/HTMLKickStart_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.HTMLKickStart_stars = res.data.stargazers_count;
+                        $scope.HTMLKickStart_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var HTMLKickStart = {
+                            name: "HTML-KickStart",
+                            website: $scope.HTMLKickStart_website,
+                            stars: $scope.HTMLKickStart_stars ? $scope.HTMLKickStart_stars : 0,
+                            description: "Ultra–Lean HTML Building Blocks for Rapid Website Production.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(HTMLKickStart)
+                    })
+
+                // Inuit CSS
+                $http.get('/resources/css_github_stars/inuitcss_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.inuitcss_stars = res.data.stargazers_count;
+                        $scope.inuitcss_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var inuitcss = {
+                            name: "Inuit CSS",
+                            website: $scope.inuitcss_website,
+                            stars: $scope.inuitcss_stars ? $scope.inuitcss_stars : 0,
+                            description: "Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(inuitcss)
+                    })
+
+                $http.get('/resources/css_github_stars/mincss_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.mincss_stars = res.data.stargazers_count;
+                        $scope.mincss_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var mincss = {
+                            name: "Min CSS",
+                            website: $scope.mincss_website,
+                            stars: $scope.mincss_stars ? $scope.mincss_stars : 0,
+                            description: "The world's smallest (995 bytes) CSS framework.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(mincss)
+                    })
+
+                // Tacit
+                $http.get('/resources/css_github_stars/tacit_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.tacit_stars = res.data.stargazers_count;
+                        $scope.tacit_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var tacit = {
+                            name: "Tacit",
+                            website: $scope.tacit_website,
+                            stars: $scope.tacit_stars ? $scope.tacit_stars : 0,
+                            description: "CSS Framework for Dummies, Without Classes.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(tacit)
+                    })
+
+                // Concise CSS
+                $http.get('/resources/css_github_stars/concisecss_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.concisecss_stars = res.data.stargazers_count;
+                        $scope.concisecss_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var concisecss = {
+                            name: "Concise CSS",
+                            website: $scope.concisecss_website,
+                            stars: $scope.concisecss_stars ? $scope.concisecss_stars : 0,
+                            description: "A CSS framework that's lightweight and easy-to-use. Give up the bloat. Stop tripping over your classes. Be Concise.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(concisecss)
+                    })
+
+                // Awesome CSS
+                $http.get('/resources/css_github_stars/awsmcss_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.awsmcss_stars = res.data.stargazers_count;
+                        $scope.awsmcss_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var awsmcss = {
+                            name: "Awesome CSS",
+                            website: $scope.awsmcss_website,
+                            stars: $scope.awsmcss_stars ? $scope.awsmcss_stars : 0,
+                            description: "Simple CSS library for semantic HTML markup.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(awsmcss)
+                    })
+
+                // Furatto
+                $http.get('/resources/css_github_stars/furatto_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.furatto_stars = res.data.stargazers_count;
+                        $scope.furatto_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : maps['Furatto'];
+                        var furatto = {
+                            name: "Furatto",
+                            website: $scope.furatto_website,
+                            stars: $scope.furatto_stars ? $scope.furatto_stars : 0,
+                            description: "It's a flat, fast and powerful front-end framework for rapid web development.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(furatto)
+                    })
+
+                // Cardinal
+                $http.get('/resources/css_github_stars/cardinalcss_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.cardinalcss_stars = res.data.stargazers_count;
+                        $scope.cardinalcss_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var cardinalcss = {
+                            name: "Cardinal",
+                            website: $scope.cardinalcss_website,
+                            stars: $scope.cardinalcss_stars ? $scope.cardinalcss_stars : 0,
+                            description: "A modular, “mobile-first” CSS framework built with performance and scalability in mind.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(cardinalcss)
+                    })
+
+                // Responsive
+                $http.get('/resources/css_github_stars/responsive_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.responsive_stars = res.data.stargazers_count;
+                        $scope.responsive_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var responsive = {
+                            name: "Responsive",
+                            website: $scope.responsive_website,
+                            stars: $scope.responsive_stars ? $scope.responsive_stars : 0,
+                            description: "A super lightweight HTML, Sass, CSS, and JavaScript framework for building responsive websites.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(responsive)
+                    })
+
+                // Kraken
+                $http.get('/resources/css_github_stars/kraken_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.kraken_stars = res.data.stargazers_count;
+                        $scope.kraken_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var kraken = {
+                            name: "Kraken",
+                            website: $scope.kraken_website,
+                            stars: $scope.kraken_stars ? $scope.kraken_stars : 0,
+                            description: "A lightweight, mobile-first boilerplate for front-end web developers.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(kraken)
+                    })
+
+                // Furtive
+                $http.get('/resources/css_github_stars/furtive_' + year + '-' + month + '-' + day + '.json')
+                    .then(function(res) {
+                        $scope.furtive_stars = res.data.stargazers_count;
+                        $scope.furtive_website = res.data.homepage ?
+                            (res.data.homepage.match(/^http/) ? res.data.homepage : 'http://' + res.data.homepage) : null;
+                        var furtive = {
+                            name: "Furtive",
+                            website: $scope.furtive_website,
+                            stars: $scope.furtive_stars ? $scope.furtive_stars : 0,
+                            description: "A forward-thinking, lightweight, css microframework.",
+                            href_template: "..."
+                        }
+                        $scope.frameworks.push(furtive)
+                    })
+
+                // Tuk Tuk
