@@ -1,8 +1,6 @@
 const fs = require('fs')
 const _ = require('lodash')
 
-// This script gets 'technologies' from Wikipedia bullets that have been scraped and put into a txt file.
-
 // Setup — set these constants then run the script
 
 const filename = 'list_of_programming_languages_by_type'

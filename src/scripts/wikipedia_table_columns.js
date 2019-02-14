@@ -1,8 +1,6 @@
 const fs = require('fs')
 const _ = require('lodash')
 
-// This script gets 'technologies' from Wikipedia table columns that have been scraped and put into a txt file.
-
 // Setup — set these constants then run the script
 
 const filename = 'comparison_of_programming_languages_general_comparison'
