@@ -1,0 +1,31 @@
+{
+    "filename": "stack_overflow_2018_most_dreaded_languages.json",
+    "url": "https://insights.stackoverflow.com/survey/2018/#technology-most-loved-dreaded-and-wanted-languages",
+    "technologies": [
+        "Assembly",
+        "C",
+        "C++",
+        "Cobol",
+        "CoffeeScript",
+        "CSS",
+        "Delphi/Object Pascal",
+        "Erlang",
+        "Groovy",
+        "Hack",
+        "Haskell",
+        "HTML",
+        "Java",
+        "Julia",
+        "Lua",
+        "Matlab",
+        "Objective-C",
+        "Ocaml",
+        "Perl",
+        "PHP",
+        "R",
+        "Ruby",
+        "VB.NET",
+        "VBA",
+        "Visual Basic 6"
+    ]
+}

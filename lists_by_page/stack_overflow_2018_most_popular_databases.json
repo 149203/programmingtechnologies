@@ -1,0 +1,27 @@
+{
+    "filename": "stack_overflow_2018_most_popular_databases.json",
+    "url": "https://insights.stackoverflow.com/survey/2018/#technology-databases",
+    "technologies": [
+        "Amazon DynamoDB",
+        "Amazon RDS/Aurora",
+        "Amazon Redshift",
+        "Apache HBase",
+        "Apache Hive",
+        "Cassandra",
+        "Elasticsearch",
+        "Google BigQuery",
+        "Google Cloud Storage",
+        "IBM Db2",
+        "MariaDB",
+        "Memcached",
+        "Microsoft Azure (Tables, CosmosDB, SQL, etc)",
+        "MongoDB",
+        "MySQL",
+        "Neo4j",
+        "Oracle",
+        "PostgreSQL",
+        "Redis",
+        "SQL Server",
+        "SQLite"
+    ]
+}
