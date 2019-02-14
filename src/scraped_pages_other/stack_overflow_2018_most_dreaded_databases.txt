@@ -1,0 +1,42 @@
+IBM Db2
+78.2%
+Oracle
+63.1%
+Memcached
+57.8%
+Apache HBase
+56.4%
+Amazon Redshift
+55.2%
+Apache Hive
+53.8%
+Cassandra
+53.6%
+SQLite
+51.9%
+MySQL
+51.3%
+Neo4j
+50.3%
+Amazon DynamoDB
+49.1%
+SQL Server
+48.4%
+Google BigQuery
+47.6%
+MariaDB
+46.7%
+MongoDB
+44.9%
+Google Cloud Storage
+43.5%
+Microsoft Azure (Tables, CosmosDB, SQL, etc)
+43.3%
+Amazon RDS/Aurora
+41.2%
+Elasticsearch
+40.1%
+PostgreSQL
+38.0%
+Redis
+35.5%

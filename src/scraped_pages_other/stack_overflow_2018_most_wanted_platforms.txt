@@ -1,0 +1,50 @@
+Android
+16.0%
+Raspberry Pi
+13.1%
+AWS
+12.0%
+Linux
+10.9%
+iOS
+9.6%
+Firebase
+8.3%
+Google Cloud Platform/App Engine
+8.2%
+Arduino
+7.7%
+Mac OS
+6.6%
+Azure
+6.4%
+Amazon Echo
+6.3%
+Serverless
+5.6%
+Google Home
+5.1%
+Gaming console
+4.4%
+Apple Watch or Apple TV
+3.3%
+Heroku
+3.2%
+Windows Desktop or Server
+2.7%
+IBM Cloud or Watson
+2.3%
+WordPress
+2.3%
+Windows Phone
+1.2%
+ESP8266
+1.1%
+Salesforce
+1.1%
+Drupal
+0.9%
+SharePoint
+0.7%
+Mainframe
+0.6%

@@ -1,10 +1,9 @@
 {
-    "filename": "stack_overflow_2018_most_popular_platforms.json",
-    "url": "https://insights.stackoverflow.com/survey/2018/#technology-platforms",
+    "filename": "stack_overflow_2018_most_dreaded_platforms.json",
+    "url": "https://insights.stackoverflow.com/survey/2018/#technology-most-loved-dreaded-and-wanted-platforms",
     "technologies": [
+        "Amazon Echo / Alexa",
         "Android",
-        "Apple TV",
-        "Apple Watch",
         "Arduino",
         "AWS",
         "Azure",
@@ -15,18 +14,14 @@
         "Google Home",
         "Heroku",
         "iOS",
-        "Linux",
         "Mac OS",
         "Mainframe",
-        "PlayStation",
+        "Predix",
         "Raspberry Pi",
         "Salesforce",
         "Serverless",
         "SharePoint",
-        "Windows Desktop",
-        "Windows Server",
         "Windows Phone",
-        "WordPress",
-        "Xbox"
+        "WordPress"
     ]
 }

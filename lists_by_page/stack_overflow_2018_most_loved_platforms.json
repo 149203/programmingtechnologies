@@ -1,6 +1,6 @@
 {
-    "filename": "stack_overflow_2018_most_popular_platforms.json",
-    "url": "https://insights.stackoverflow.com/survey/2018/#technology-platforms",
+    "filename": "stack_overflow_2018_most_loved_platforms.json",
+    "url": "https://insights.stackoverflow.com/survey/2018/#technology-most-loved-dreaded-and-wanted-platforms",
     "technologies": [
         "Android",
         "Apple TV",
@@ -12,24 +12,19 @@
         "ESP8266",
         "Firebase",
         "Gaming console",
-        "Google App Engine",
-        "Google Cloud Platform",
         "Google Home",
         "Heroku",
-        "IBM Cloud or Watson",
+        "IBM Cloud",
+        "IBM Watson",
         "iOS",
         "Linux",
         "Mac OS",
         "Mainframe",
-        "PlayStation",
+        "Predix",
         "Raspberry Pi",
         "Salesforce",
         "Serverless",
-        "SharePoint",
-        "Windows Desktop",
-        "Windows Server",
         "Windows Phone",
-        "WordPress",
-        "Xbox"
+        "WordPress"
     ]
 }

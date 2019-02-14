@@ -1,0 +1,50 @@
+Linux
+76.5%
+Serverless
+75.2%
+AWS
+68.6%
+Raspberry Pi
+67.7%
+ESP8266
+67.4%
+iOS
+64.6%
+Apple Watch or Apple TV
+64.0%
+Mac OS
+63.9%
+Firebase
+63.8%
+Android
+63.8%
+Google Cloud Platform/App Engine
+62.5%
+Gaming console
+61.3%
+Windows Desktop or Server
+61.2%
+Azure
+61.0%
+Arduino
+58.1%
+Google Home
+57.6%
+Amazon Echo
+53.2%
+Heroku
+52.2%
+IBM Cloud or Watson
+43.7%
+Predix
+39.1%
+WordPress
+36.8%
+Windows Phone
+31.2%
+Mainframe
+31.1%
+Salesforce
+30.3%
+Drupal
+29.6%

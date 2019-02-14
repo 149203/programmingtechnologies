@@ -5,9 +5,9 @@ const _ = require('lodash')
 
 // Setup — set these constants then run the script
 
-const filename = 'stack_overflow_2018_most_wanted_languages'
+const filename = 'stack_overflow_2018_most_wanted_platforms'
 const url =
-    'https://insights.stackoverflow.com/survey/2018/#technology-most-loved-dreaded-and-wanted-languages'
+    'https://insights.stackoverflow.com/survey/2018/#technology-most-loved-dreaded-and-wanted-platforms'
 
 // End setup
 

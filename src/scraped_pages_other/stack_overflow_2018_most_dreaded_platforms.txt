@@ -1,0 +1,50 @@
+SharePoint
+71.8%
+Drupal
+70.4%
+Salesforce
+69.7%
+Mainframe
+68.9%
+Windows Phone
+68.8%
+WordPress
+63.2%
+Predix
+60.9%
+IBM Cloud or Watson
+56.3%
+Heroku
+47.8%
+Amazon Echo
+46.8%
+Google Home
+42.4%
+Arduino
+41.9%
+Azure
+39.0%
+Windows Desktop or Server
+38.8%
+Gaming console
+38.7%
+Google Cloud Platform/App Engine
+37.5%
+Android
+36.2%
+Firebase
+36.2%
+Mac OS
+36.1%
+Apple Watch or Apple TV
+36.0%
+iOS
+35.4%
+ESP8266
+32.6%
+Raspberry Pi
+32.3%
+AWS
+31.4%
+Serverless
+24.8%

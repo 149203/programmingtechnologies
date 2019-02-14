@@ -1,0 +1,24 @@
+TensorFlow
+73.5%
+React
+69.4%
+Torch/PyTorch
+68.0%
+Node.js
+66.4%
+.NET Core
+66.0%
+Spark
+66.0%
+Spring
+60.0%
+Django
+58.3%
+Angular
+54.6%
+Hadoop
+53.9%
+Xamarin
+49.0%
+Cordova
+40.4%
