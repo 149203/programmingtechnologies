@@ -1,0 +1,150 @@
+<dd></dd>
+<dd><a href="/wiki/OpenBSD" title="OpenBSD">OpenBSD</a> (operating system)</dd>
+<dd><a href="/wiki/C_(programming_language)" title="C (programming language)">C</a> (programming language)</dd>
+<dd><a href="/wiki/OpenBSD#Component_projects" title="OpenBSD">httpd</a> (web server)</dd>
+<dd><a href="/wiki/SQLite" title="SQLite">SQLite</a> (database)</dd></dl>
+
+<dd></dd>
+<dd><a href="/wiki/Elasticsearch" title="Elasticsearch">Elasticsearch</a> (<a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">search engine</a>)</dd>
+<dd><a href="/wiki/Logstash" class="mw-redirect" title="Logstash">Logstash</a> (event and <a href="/wiki/Log_management" title="Log management">log management</a> tool)</dd>
+<dd><a href="/wiki/Kibana" title="Kibana">Kibana</a> (<a href="/wiki/Data_visualization" title="Data visualization">data visualization</a>)</dd></dl>
+
+<dd></dd>
+<dd><a href="/wiki/Xen" title="Xen">Xen</a> or <a href="/wiki/Kernel-based_Virtual_Machine" title="Kernel-based Virtual Machine">KVM</a> (<a href="/wiki/Hypervisor" title="Hypervisor">hypervisor</a>)</dd>
+<dd><a href="/wiki/Linux" title="Linux">Linux</a> with <a href="/wiki/Logical_Volume_Manager_(Linux)" title="Logical Volume Manager (Linux)">LVM</a> (mass-storage device management)</dd>
+<dd><a href="/wiki/Distributed_Replicated_Block_Device" title="Distributed Replicated Block Device">Distributed Replicated Block Device</a> (storage <a href="/wiki/Replication_(computing)" title="Replication (computing)">replication</a>)</dd>
+<dd><a href="/wiki/Ganeti" title="Ganeti">Ganeti</a> (<a href="/wiki/Virtual_machine" title="Virtual machine">virtual machine</a> <a href="/wiki/Cluster_manager" title="Cluster manager">cluster management</a> tool)</dd>
+<dd><a href="/wiki/Ganeti_Web_Manager" title="Ganeti Web Manager">Ganeti Web Manager</a> (web interface)</dd></dl>
+
+<dd></dd>
+<dd><a href="/wiki/Gemstone_(database)" title="Gemstone (database)">GemStone</a> (database and application server)</dd>
+<dd><a href="/wiki/Linux" title="Linux">Linux</a> (operating system)</dd>
+<dd><a href="/wiki/Apache_HTTP_Server" title="Apache HTTP Server">Apache</a> (web server)</dd>
+<dd><a href="/wiki/GNU_Smalltalk" title="GNU Smalltalk">Smalltalk</a> (programming language)</dd>
+<dd><a href="/wiki/Seaside_web_framework" class="mw-redirect" title="Seaside web framework">Seaside</a> (web framework)</dd></dl>
+
+<dd></dd>
+<dd><a href="/wiki/JavaScript" title="JavaScript">JavaScript</a> (programming language)</dd>
+<dd><a href="/wiki/API" class="mw-redirect" title="API">APIs</a> (Application programming interfaces)</dd>
+<dd><a href="/wiki/Markup_language" title="Markup language">Markup</a> (content)</dd></dl>
+
+<dd></dd>
+<dd><a href="/wiki/Linux" title="Linux">Linux</a> (operating system)</dd>
+<dd><a href="/wiki/Apache_HTTP_Server" title="Apache HTTP Server">Apache</a> (web server)</dd>
+<dd><a href="/wiki/MySQL" title="MySQL">MySQL</a> or <a href="/wiki/MariaDB" title="MariaDB">MariaDB</a> (<a href="/wiki/Database_management_system" class="mw-redirect" title="Database management system">database management systems</a>)</dd>
+<dd><a href="/wiki/Perl" title="Perl">Perl</a>, <a href="/wiki/PHP" title="PHP">PHP</a>, or <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a> (<a href="/wiki/Scripting_language" title="Scripting language">scripting languages</a>)</dd></dl>
+
+<dd></dd>
+<dd><a href="/wiki/Linux" title="Linux">Linux</a> (operating system)</dd>
+<dd><a href="/wiki/Apache_HTTP_Server" title="Apache HTTP Server">Apache</a> (web server)</dd>
+<dd><a href="/wiki/PostgreSQL" title="PostgreSQL">PostgreSQL</a> (database management systems)</dd>
+<dd><a href="/wiki/Perl" title="Perl">Perl</a>, <a href="/wiki/PHP" title="PHP">PHP</a>, or <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a> (scripting languages)</dd></dl>
+
+<dd></dd>
+<dd><a href="/wiki/Linux" title="Linux">Linux</a> (operating system)</dd>
+<dd><a href="/wiki/Eucalyptus_(software)" title="Eucalyptus (software)">Eucalyptus</a> (free and open-source alternative to the <a href="/wiki/Amazon_Elastic_Compute_Cloud" title="Amazon Elastic Compute Cloud">Amazon Elastic Compute Cloud</a>)</dd>
+<dd><a href="/wiki/AppScale" title="AppScale">AppScale</a> (<a href="/wiki/Cloud_computing" title="Cloud computing">cloud computing</a>-framework and free and open-source alternative to <a href="/wiki/Google_App_Engine" title="Google App Engine">Google App Engine</a>)</dd>
+<dd><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a> (programming language)</dd></dl>
+
+<dd></dd>
+<dd><a href="/wiki/Linux" title="Linux">Linux</a> (operating system)</dd>
+<dd><a href="/wiki/Nginx" title="Nginx">Nginx</a> (web server)</dd>
+<dd><a href="/wiki/MySQL" title="MySQL">MySQL</a> or <a href="/wiki/MariaDB" title="MariaDB">MariaDB</a> (database management systems)</dd>
+<dd><a href="/wiki/Perl" title="Perl">Perl</a>, <a href="/wiki/PHP" title="PHP">PHP</a>, or <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a> (scripting languages)</dd></dl>
+
+<dd><a href="/wiki/Linux" title="Linux">Linux</a> (operating system)</dd>
+<dd><a href="/wiki/Lighttpd" title="Lighttpd">Lighttpd</a> (web server)</dd>
+<dd><a href="/wiki/MySQL" title="MySQL">MySQL</a> or <a href="/wiki/MariaDB" title="MariaDB">MariaDB</a> (database management systems)</dd>
+<dd><a href="/wiki/Perl" title="Perl">Perl</a>, <a href="/wiki/PHP" title="PHP">PHP</a>, or <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a> (scripting languages)</dd></dl>
+
+<dd></dd>
+<dd><a href="/wiki/Linux" title="Linux">Linux</a> (operating system)</dd>
+<dd><a href="/wiki/Yaws_(web_server)" title="Yaws (web server)">Yaws</a> (web server, written in <a href="/wiki/Erlang_(programming_language)" title="Erlang (programming language)">Erlang</a>)</dd>
+<dd><a href="/wiki/Mnesia" title="Mnesia">Mnesia</a> or <a href="/wiki/CouchDB" class="mw-redirect" title="CouchDB">CouchDB</a> (database, written in <a href="/wiki/Erlang_(programming_language)" title="Erlang (programming language)">Erlang</a>)</dd>
+<dd><a href="/wiki/Erlang_(programming_language)" title="Erlang (programming language)">Erlang</a> (functional programming language)</dd></dl>
+
+<dd></dd>
+<dd><a href="/wiki/Mac_OS_X" class="mw-redirect" title="Mac OS X">Mac OS X</a> (operating system)</dd>
+<dd><a href="/wiki/Apache_HTTP_Server" title="Apache HTTP Server">Apache</a> (web server)</dd>
+<dd><a href="/wiki/MySQL" title="MySQL">MySQL</a> or <a href="/wiki/MariaDB" title="MariaDB">MariaDB</a> (database)</dd>
+<dd><a href="/wiki/PHP" title="PHP">PHP</a>, <a href="/wiki/Perl" title="Perl">Perl</a>, or <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a> (programming languages)</dd></dl>
+
+<dd></dd>
+<dd><a href="/wiki/Apache_Mesos" title="Apache Mesos">Apache Mesos</a> (node startup/shutdown)</dd>
+<dd><a href="/wiki/Akka_(toolkit)" title="Akka (toolkit)">Akka (toolkit)</a> (actor implementation)</dd>
+<dd><a href="/wiki/Riak" title="Riak">Riak</a> (data store)</dd>
+<dd><a href="/wiki/Apache_Kafka" title="Apache Kafka">Apache Kafka</a> (messaging)</dd>
+<dd><a href="/wiki/Apache_Spark" title="Apache Spark">Apache Spark</a> (big data and MapReduce)</dd></dl>
+
+<dd></dd>
+<dd><a href="/wiki/MongoDB" title="MongoDB">MongoDB</a> (database)</dd>
+<dd><a href="/wiki/Express.js" title="Express.js">Express.js</a> (app controller layer)</dd>
+<dd><a href="/wiki/Angular.js" class="mw-redirect" title="Angular.js">Angular.js</a> (web app presentation)</dd>
+<dd><a href="/wiki/Node.js" title="Node.js">Node.js</a> (web server)</dd></dl>
+
+<dd></dd>
+<dd><a href="/wiki/MongoDB" title="MongoDB">MongoDB</a> (database)</dd>
+<dd><a href="/wiki/Express.js" title="Express.js">Express.js</a> (app controller layer)</dd>
+<dd><a href="/wiki/React.js" class="mw-redirect" title="React.js">React.js</a> (web app presentation)</dd>
+<dd><a href="/wiki/Node.js" title="Node.js">Node.js</a> (web server)</dd></dl>
+
+<dd></dd>
+<dd><a href="/wiki/MongoDB" title="MongoDB">MongoDB</a> (database)</dd>
+<dd><a href="/wiki/Express.js" title="Express.js">Express.js</a> (app controller layer)</dd>
+<dd><a href="/wiki/Vue.js" title="Vue.js">Vue.js</a> (web app presentation)</dd>
+<dd><a href="/wiki/Node.js" title="Node.js">Node.js</a> (web server)</dd></dl>
+
+<dd></dd>
+<dd><a href="/wiki/Nginx" title="Nginx">Nginx</a> (web server)</dd>
+<dd><a href="/wiki/MySQL" title="MySQL">MySQL</a> or <a href="/wiki/MariaDB" title="MariaDB">MariaDB</a> (database)</dd>
+<dd><a href="/wiki/PHP" title="PHP">PHP</a> (programming language)</dd></dl>
+
+<dd><a href="/wiki/Linux" title="Linux">Linux</a> or <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a> (operating system)</dd>
+<dd><a href="/wiki/AOLserver" title="AOLserver">AOLserver</a> (web server)</dd>
+<dd><a href="/wiki/OpenACS" class="mw-redirect" title="OpenACS">OpenACS</a> (<a href="/wiki/Web_application_framework" class="mw-redirect" title="Web application framework">web application framework</a>)</dd>
+<dd><a href="/wiki/PostgreSQL" title="PostgreSQL">PostgreSQL</a> or <a href="/wiki/Oracle_Database" title="Oracle Database">Oracle Database</a> (database)</dd>
+<dd><a href="/wiki/Tcl" title="Tcl">Tcl</a> (scripting language)</dd></dl>
+
+<dd></dd>
+<dd><a href="/wiki/Apache_Spark" title="Apache Spark">Apache Spark</a> (big data and MapReduce)</dd>
+<dd><a href="/wiki/Apache_Mesos" title="Apache Mesos">Apache Mesos</a> (<a href="/wiki/Node_(computer_science)" title="Node (computer science)">node</a> startup/shutdown)</dd>
+<dd><a href="/wiki/Akka_(toolkit)" title="Akka (toolkit)">Akka (toolkit)</a> (<a href="/wiki/Actor_model" title="Actor model">actor</a> implementation)</dd>
+<dd><a href="/wiki/Apache_Cassandra" title="Apache Cassandra">Apache Cassandra</a> (database)</dd>
+<dd><a href="/wiki/Apache_Kafka" title="Apache Kafka">Apache Kafka</a> (<a href="/wiki/Stream_processing" title="Stream processing">messaging</a>)</dd></dl>
+
+<dd></dd>
+<dd><a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a> (operating system)</dd>
+<dd><a href="/wiki/Apache_HTTP_Server" title="Apache HTTP Server">Apache</a> (web server)</dd>
+<dd><a href="/wiki/MySQL" title="MySQL">MySQL</a> or <a href="/wiki/MariaDB" title="MariaDB">MariaDB</a> (database)</dd>
+<dd><a href="/wiki/PHP" title="PHP">PHP</a>, <a href="/wiki/Perl" title="Perl">Perl</a>, or <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a> (programming language)</dd></dl>
+
+<dd></dd>
+<dd><a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a> (operating system)</dd>
+<dd><a href="/wiki/Internet_Information_Services" title="Internet Information Services">Internet Information Services</a> (web server)</dd>
+<dd><a href="/wiki/MySQL" title="MySQL">MySQL</a> or <a href="/wiki/MariaDB" title="MariaDB">MariaDB</a> (database)</dd>
+<dd><a href="/wiki/PHP" title="PHP">PHP</a>, <a href="/wiki/Perl" title="Perl">Perl</a>, or <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a> (programming language)</dd></dl>
+
+<dd></dd>
+<dd><a href="/wiki/Windows_Server" title="Windows Server">Windows Server</a> (operating system)</dd>
+<dd><a href="/wiki/Internet_Information_Services" title="Internet Information Services">Internet Information Services</a> (web server)</dd>
+<dd><a href="/wiki/.NET" class="mw-redirect" title=".NET">.NET</a> (<a href="/wiki/Software_framework" title="Software framework">software framework</a>)</dd>
+<dd><a href="/wiki/Microsoft_SQL_Server" title="Microsoft SQL Server"> SQL Server</a> (database)</dd></dl>
+
+<dd></dd>
+<dd><a href="/wiki/Windows_Server" title="Windows Server">Windows Server</a> (operating system)</dd>
+<dd><a href="/wiki/Internet_Information_Services" title="Internet Information Services">Internet Information Services</a> (web server)</dd>
+<dd><a href="/wiki/Microsoft_SQL_Server" title="Microsoft SQL Server"> SQL Server</a> (database)</dd>
+<dd><a href="/wiki/ASP.NET" title="ASP.NET">ASP.NET</a> (web framework)</dd></dl>
+
+<dd></dd>
+<dd><a href="/wiki/Cross-platform" class="mw-redirect" title="Cross-platform">cross-platform</a> (operating system)</dd>
+<dd><a href="/wiki/Apache_HTTP_Server" title="Apache HTTP Server">Apache</a> (web server)</dd>
+<dd><a href="/wiki/MariaDB" title="MariaDB">MariaDB</a> or <a href="/wiki/MySQL" title="MySQL">MySQL</a> (database)</dd>
+<dd><a href="/wiki/PHP" title="PHP">PHP</a> (programming language)</dd>
+<dd><a href="/wiki/Perl" title="Perl">Perl</a> (programming language)</dd></dl>
+
+<dd></dd>
+<dd><a href="/wiki/XML_database" title="XML database">XML database</a> (database such as <a href="/wiki/BaseX" title="BaseX">BaseX</a>, <a href="/wiki/EXist" title="EXist">eXist</a>, <a href="/wiki/MarkLogic_Server" title="MarkLogic Server">MarkLogic Server</a>)</dd>
+<dd><a href="/wiki/XQuery" title="XQuery">XQuery</a> (Query language)</dd>
+<dd><a href="/wiki/REST" class="mw-redirect" title="REST">REST</a> (<a href="/wiki/Client_(computing)" title="Client (computing)">client</a> interface)</dd>
+<dd><a href="/wiki/XForms" title="XForms">XForms</a> (client)</dd></dl>
