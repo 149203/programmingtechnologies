@@ -1,0 +1,50 @@
+1	1		Java	15.876%	+0.89%
+2	2		C	12.424%	+0.57%
+3	4		Python	7.574%	+2.41%
+4	3		C++	7.444%	+1.72%
+5	6		Visual Basic .NET	7.095%	+3.02%
+6	8		JavaScript	2.848%	-0.32%
+7	5		C#	2.846%	-1.61%
+8	7		PHP	2.271%	-1.15%
+9	11		SQL	1.900%	-0.46%
+10	20		Objective-C	1.447%	+0.32%
+11	15		Assembly language	1.377%	-0.46%
+12	19		MATLAB	1.196%	-0.03%
+13	17		Perl	1.102%	-0.66%
+14	9		Delphi/Object Pascal	1.066%	-1.52%
+15	13		R	1.043%	-1.04%
+16	10		Ruby	1.037%	-1.50%
+17	12		Visual Basic	0.991%	-1.19%
+18	18		Go	0.960%	-0.46%
+19	49		Groovy	0.936%	+0.75%
+20	16		Swift	0.918%	-0.88%
+21	PL/SQL	0.815%
+22	SAS	0.717%
+23	D	0.635%
+24	Lua	0.557%
+25	Dart	0.540%
+26	Fortran	0.513%
+27	COBOL	0.511%
+28	Scratch	0.461%
+29	Scala	0.359%
+30	ABAP	0.337%
+31	Lisp	0.314%
+32	Logo	0.313%
+33	Ada	0.297%
+34	Transact-SQL	0.282%
+35	Prolog	0.279%
+36	Scheme	0.250%
+37	Rust	0.229%
+38	Kotlin	0.225%
+39	Haskell	0.208%
+40	LabVIEW	0.198%
+41	Julia	0.170%
+42	Tcl	0.152%
+43	PostScript	0.151%
+44	Ladder Logic	0.145%
+45	PL/I	0.143%
+46	Hack	0.139%
+47	Erlang	0.137%
+48	Standard ML	0.129%
+49	RPG	0.128%
+50	Bash	0.126%
