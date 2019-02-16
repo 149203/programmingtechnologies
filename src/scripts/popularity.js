@@ -52,7 +52,6 @@ try {
             const tech_obj = {
                 name: technology,
                 popularity: 10,
-                file: json_file,
             }
             json_output.push(tech_obj)
         })
@@ -93,7 +92,7 @@ try {
     }
 
     fs.writeFileSync(
-        `../../complete_lists/all_popular_technologies.json`,
+        `../../complete_lists/programming_technologies.json`,
         JSON.stringify(json_output_no_exact_dupes, null, 4)
     )
 } catch (e) {
