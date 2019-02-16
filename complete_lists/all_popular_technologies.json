@@ -1,0 +1,2142 @@
+[
+    {
+        "name": "JavaScript",
+        "popularity": 60
+    },
+    {
+        "name": ".NET Core",
+        "popularity": 50
+    },
+    {
+        "name": "Amazon DynamoDB",
+        "popularity": 50
+    },
+    {
+        "name": "Amazon Echo/Alexa",
+        "popularity": 50
+    },
+    {
+        "name": "Amazon RDS",
+        "popularity": 50
+    },
+    {
+        "name": "Amazon Redshift",
+        "popularity": 50
+    },
+    {
+        "name": "Android",
+        "popularity": 50
+    },
+    {
+        "name": "Angular",
+        "popularity": 50
+    },
+    {
+        "name": "Apache HBase",
+        "popularity": 50
+    },
+    {
+        "name": "Apache Hive",
+        "popularity": 50
+    },
+    {
+        "name": "Apple TV",
+        "popularity": 50
+    },
+    {
+        "name": "Apple Watch",
+        "popularity": 50
+    },
+    {
+        "name": "Arduino",
+        "popularity": 50
+    },
+    {
+        "name": "Assembly",
+        "popularity": 50
+    },
+    {
+        "name": "AWS",
+        "popularity": 50
+    },
+    {
+        "name": "Azure",
+        "popularity": 50
+    },
+    {
+        "name": "Bash/Shell",
+        "popularity": 50
+    },
+    {
+        "name": "C",
+        "popularity": 50
+    },
+    {
+        "name": "C#",
+        "popularity": 50
+    },
+    {
+        "name": "C++",
+        "popularity": 50
+    },
+    {
+        "name": "Cassandra",
+        "popularity": 50
+    },
+    {
+        "name": "Clojure",
+        "popularity": 50
+    },
+    {
+        "name": "COBOL",
+        "popularity": 50
+    },
+    {
+        "name": "CoffeeScript",
+        "popularity": 50
+    },
+    {
+        "name": "Cordova",
+        "popularity": 50
+    },
+    {
+        "name": "CSS",
+        "popularity": 50
+    },
+    {
+        "name": "Delphi/Object Pascal",
+        "popularity": 50
+    },
+    {
+        "name": "Django",
+        "popularity": 50
+    },
+    {
+        "name": "Drupal",
+        "popularity": 50
+    },
+    {
+        "name": "Elasticsearch",
+        "popularity": 50
+    },
+    {
+        "name": "Erlang",
+        "popularity": 50
+    },
+    {
+        "name": "ESP8266",
+        "popularity": 50
+    },
+    {
+        "name": "F#",
+        "popularity": 50
+    },
+    {
+        "name": "Firebase",
+        "popularity": 50
+    },
+    {
+        "name": "Gaming console",
+        "popularity": 50
+    },
+    {
+        "name": "Go",
+        "popularity": 50
+    },
+    {
+        "name": "Google App Engine",
+        "popularity": 50
+    },
+    {
+        "name": "Google BigQuery",
+        "popularity": 50
+    },
+    {
+        "name": "Google Cloud Platform",
+        "popularity": 50
+    },
+    {
+        "name": "Google Cloud Storage",
+        "popularity": 50
+    },
+    {
+        "name": "Google Home",
+        "popularity": 50
+    },
+    {
+        "name": "Groovy",
+        "popularity": 50
+    },
+    {
+        "name": "Hack",
+        "popularity": 50
+    },
+    {
+        "name": "Hadoop",
+        "popularity": 50
+    },
+    {
+        "name": "Haskell",
+        "popularity": 50
+    },
+    {
+        "name": "Heroku",
+        "popularity": 50
+    },
+    {
+        "name": "HTML",
+        "popularity": 50
+    },
+    {
+        "name": "IBM Cloud",
+        "popularity": 50
+    },
+    {
+        "name": "IBM Db2",
+        "popularity": 50
+    },
+    {
+        "name": "IBM Watson",
+        "popularity": 50
+    },
+    {
+        "name": "iOS",
+        "popularity": 50
+    },
+    {
+        "name": "Java",
+        "popularity": 50
+    },
+    {
+        "name": "Julia",
+        "popularity": 50
+    },
+    {
+        "name": "Kotlin",
+        "popularity": 50
+    },
+    {
+        "name": "Linux",
+        "popularity": 50
+    },
+    {
+        "name": "Lua",
+        "popularity": 50
+    },
+    {
+        "name": "Mac OS",
+        "popularity": 50
+    },
+    {
+        "name": "Mainframe",
+        "popularity": 50
+    },
+    {
+        "name": "MariaDB",
+        "popularity": 50
+    },
+    {
+        "name": "MATLAB",
+        "popularity": 50
+    },
+    {
+        "name": "Memcached",
+        "popularity": 50
+    },
+    {
+        "name": "Microsoft Azure",
+        "popularity": 50
+    },
+    {
+        "name": "MongoDB",
+        "popularity": 50
+    },
+    {
+        "name": "MySQL",
+        "popularity": 50
+    },
+    {
+        "name": "Neo4j",
+        "popularity": 50
+    },
+    {
+        "name": "Node.js",
+        "popularity": 50
+    },
+    {
+        "name": "Objective-C",
+        "popularity": 50
+    },
+    {
+        "name": "OCaml",
+        "popularity": 50
+    },
+    {
+        "name": "Oracle",
+        "popularity": 50
+    },
+    {
+        "name": "Perl",
+        "popularity": 50
+    },
+    {
+        "name": "PHP",
+        "popularity": 50
+    },
+    {
+        "name": "PlayStation",
+        "popularity": 50
+    },
+    {
+        "name": "PostgreSQL",
+        "popularity": 50
+    },
+    {
+        "name": "Predix",
+        "popularity": 50
+    },
+    {
+        "name": "Python",
+        "popularity": 50
+    },
+    {
+        "name": "PyTorch",
+        "popularity": 50
+    },
+    {
+        "name": "R",
+        "popularity": 50
+    },
+    {
+        "name": "Raspberry Pi",
+        "popularity": 50
+    },
+    {
+        "name": "React",
+        "popularity": 50
+    },
+    {
+        "name": "Redis",
+        "popularity": 50
+    },
+    {
+        "name": "Ruby",
+        "popularity": 50
+    },
+    {
+        "name": "Rust",
+        "popularity": 50
+    },
+    {
+        "name": "Salesforce",
+        "popularity": 50
+    },
+    {
+        "name": "Scala",
+        "popularity": 50
+    },
+    {
+        "name": "Serverless",
+        "popularity": 50
+    },
+    {
+        "name": "SharePoint",
+        "popularity": 50
+    },
+    {
+        "name": "SPARK",
+        "popularity": 50
+    },
+    {
+        "name": "Spring",
+        "popularity": 50
+    },
+    {
+        "name": "SQL",
+        "popularity": 50
+    },
+    {
+        "name": "SQL Server",
+        "popularity": 50
+    },
+    {
+        "name": "SQLite",
+        "popularity": 50
+    },
+    {
+        "name": "Swift",
+        "popularity": 50
+    },
+    {
+        "name": "TensorFlow",
+        "popularity": 50
+    },
+    {
+        "name": "Torch",
+        "popularity": 50
+    },
+    {
+        "name": "TypeScript",
+        "popularity": 50
+    },
+    {
+        "name": "VB.NET",
+        "popularity": 50
+    },
+    {
+        "name": "VBA",
+        "popularity": 50
+    },
+    {
+        "name": "Visual Basic",
+        "popularity": 50
+    },
+    {
+        "name": "Windows Desktop",
+        "popularity": 50
+    },
+    {
+        "name": "Windows Phone",
+        "popularity": 50
+    },
+    {
+        "name": "Windows Server",
+        "popularity": 50
+    },
+    {
+        "name": "WordPress",
+        "popularity": 50
+    },
+    {
+        "name": "Xamarin",
+        "popularity": 50
+    },
+    {
+        "name": "Xbox",
+        "popularity": 50
+    },
+    {
+        "name": ".NET",
+        "popularity": 40
+    },
+    {
+        "name": "ABAP",
+        "popularity": 40
+    },
+    {
+        "name": "Ada",
+        "popularity": 40
+    },
+    {
+        "name": "Ajax",
+        "popularity": 40
+    },
+    {
+        "name": "Amazon Web Services",
+        "popularity": 40
+    },
+    {
+        "name": "Amp",
+        "popularity": 40
+    },
+    {
+        "name": "Ansible",
+        "popularity": 40
+    },
+    {
+        "name": "ASP.NET",
+        "popularity": 40
+    },
+    {
+        "name": "Assembly language",
+        "popularity": 40
+    },
+    {
+        "name": "Babel",
+        "popularity": 40
+    },
+    {
+        "name": "Bash",
+        "popularity": 40
+    },
+    {
+        "name": "Bitcoin",
+        "popularity": 40
+    },
+    {
+        "name": "Blockchain",
+        "popularity": 40
+    },
+    {
+        "name": "Bootstrap",
+        "popularity": 40
+    },
+    {
+        "name": "Chrome extension",
+        "popularity": 40
+    },
+    {
+        "name": "Cryptocurrency",
+        "popularity": 40
+    },
+    {
+        "name": "Crystal",
+        "popularity": 40
+    },
+    {
+        "name": "D",
+        "popularity": 40
+    },
+    {
+        "name": "Dart",
+        "popularity": 40
+    },
+    {
+        "name": "Docker",
+        "popularity": 40
+    },
+    {
+        "name": "Electron",
+        "popularity": 40
+    },
+    {
+        "name": "Elixir",
+        "popularity": 40
+    },
+    {
+        "name": "Ember.js",
+        "popularity": 40
+    },
+    {
+        "name": "ES6",
+        "popularity": 40
+    },
+    {
+        "name": "Ethereum",
+        "popularity": 40
+    },
+    {
+        "name": "Express",
+        "popularity": 40
+    },
+    {
+        "name": "Firefox",
+        "popularity": 40
+    },
+    {
+        "name": "Flask",
+        "popularity": 40
+    },
+    {
+        "name": "Fortran",
+        "popularity": 40
+    },
+    {
+        "name": "Git",
+        "popularity": 40
+    },
+    {
+        "name": "Gradle",
+        "popularity": 40
+    },
+    {
+        "name": "GraphQL",
+        "popularity": 40
+    },
+    {
+        "name": "Grunt",
+        "popularity": 40
+    },
+    {
+        "name": "Gulp",
+        "popularity": 40
+    },
+    {
+        "name": "Homebrew",
+        "popularity": 40
+    },
+    {
+        "name": "Homebridge",
+        "popularity": 40
+    },
+    {
+        "name": "IPFS",
+        "popularity": 40
+    },
+    {
+        "name": "Jekyll",
+        "popularity": 40
+    },
+    {
+        "name": "jQuery",
+        "popularity": 40
+    },
+    {
+        "name": "JSON",
+        "popularity": 40
+    },
+    {
+        "name": "Jupyter",
+        "popularity": 40
+    },
+    {
+        "name": "Koa",
+        "popularity": 40
+    },
+    {
+        "name": "Kubernetes",
+        "popularity": 40
+    },
+    {
+        "name": "LabVIEW",
+        "popularity": 40
+    },
+    {
+        "name": "Ladder Logic",
+        "popularity": 40
+    },
+    {
+        "name": "Laravel",
+        "popularity": 40
+    },
+    {
+        "name": "LaTeX",
+        "popularity": 40
+    },
+    {
+        "name": "Lisp",
+        "popularity": 40
+    },
+    {
+        "name": "Logo",
+        "popularity": 40
+    },
+    {
+        "name": "macOS",
+        "popularity": 40
+    },
+    {
+        "name": "Markdown",
+        "popularity": 40
+    },
+    {
+        "name": "Mastodon",
+        "popularity": 40
+    },
+    {
+        "name": "Material design",
+        "popularity": 40
+    },
+    {
+        "name": "Maven",
+        "popularity": 40
+    },
+    {
+        "name": "Minecraft",
+        "popularity": 40
+    },
+    {
+        "name": "Monero",
+        "popularity": 40
+    },
+    {
+        "name": "Mongoose",
+        "popularity": 40
+    },
+    {
+        "name": "MvvmCross",
+        "popularity": 40
+    },
+    {
+        "name": "NativeScript",
+        "popularity": 40
+    },
+    {
+        "name": "Nim",
+        "popularity": 40
+    },
+    {
+        "name": "NoSQL",
+        "popularity": 40
+    },
+    {
+        "name": "OpenGL",
+        "popularity": 40
+    },
+    {
+        "name": "Perl 6",
+        "popularity": 40
+    },
+    {
+        "name": "Phaser",
+        "popularity": 40
+    },
+    {
+        "name": "PICO-8",
+        "popularity": 40
+    },
+    {
+        "name": "PL/I",
+        "popularity": 40
+    },
+    {
+        "name": "PL/SQL",
+        "popularity": 40
+    },
+    {
+        "name": "PostScript",
+        "popularity": 40
+    },
+    {
+        "name": "Prolog",
+        "popularity": 40
+    },
+    {
+        "name": "PWA",
+        "popularity": 40
+    },
+    {
+        "name": "Qt",
+        "popularity": 40
+    },
+    {
+        "name": "Rails",
+        "popularity": 40
+    },
+    {
+        "name": "Ratchet",
+        "popularity": 40
+    },
+    {
+        "name": "React Native",
+        "popularity": 40
+    },
+    {
+        "name": "ReactiveUI",
+        "popularity": 40
+    },
+    {
+        "name": "Redux",
+        "popularity": 40
+    },
+    {
+        "name": "REST API",
+        "popularity": 40
+    },
+    {
+        "name": "RPG",
+        "popularity": 40
+    },
+    {
+        "name": "SAS",
+        "popularity": 40
+    },
+    {
+        "name": "Sass",
+        "popularity": 40
+    },
+    {
+        "name": "Scheme",
+        "popularity": 40
+    },
+    {
+        "name": "scikit-learn",
+        "popularity": 40
+    },
+    {
+        "name": "Scratch",
+        "popularity": 40
+    },
+    {
+        "name": "Shell",
+        "popularity": 40
+    },
+    {
+        "name": "Sketch",
+        "popularity": 40
+    },
+    {
+        "name": "Spring Boot",
+        "popularity": 40
+    },
+    {
+        "name": "Standard ML",
+        "popularity": 40
+    },
+    {
+        "name": "Storybook",
+        "popularity": 40
+    },
+    {
+        "name": "Symfony",
+        "popularity": 40
+    },
+    {
+        "name": "Tcl",
+        "popularity": 40
+    },
+    {
+        "name": "Telegram",
+        "popularity": 40
+    },
+    {
+        "name": "Terminal",
+        "popularity": 40
+    },
+    {
+        "name": "Terraform",
+        "popularity": 40
+    },
+    {
+        "name": "Transact-SQL",
+        "popularity": 40
+    },
+    {
+        "name": "Ubuntu",
+        "popularity": 40
+    },
+    {
+        "name": "Unity",
+        "popularity": 40
+    },
+    {
+        "name": "Unreal Engine",
+        "popularity": 40
+    },
+    {
+        "name": "Vagrant",
+        "popularity": 40
+    },
+    {
+        "name": "Vim",
+        "popularity": 40
+    },
+    {
+        "name": "Visual Basic .NET",
+        "popularity": 40
+    },
+    {
+        "name": "Vue.js",
+        "popularity": 40
+    },
+    {
+        "name": "Wagtail",
+        "popularity": 40
+    },
+    {
+        "name": "Web Components",
+        "popularity": 40
+    },
+    {
+        "name": "Webpack",
+        "popularity": 40
+    },
+    {
+        "name": "Windows",
+        "popularity": 40
+    },
+    {
+        "name": "WordPlate",
+        "popularity": 40
+    },
+    {
+        "name": "XML",
+        "popularity": 40
+    },
+    {
+        "name": "YAML",
+        "popularity": 40
+    },
+    {
+        "name": "Akka",
+        "popularity": 30
+    },
+    {
+        "name": "Amazon Elastic Compute Cloud",
+        "popularity": 30
+    },
+    {
+        "name": "AngularJS",
+        "popularity": 30
+    },
+    {
+        "name": "AnyChart",
+        "popularity": 30
+    },
+    {
+        "name": "AOLserver",
+        "popularity": 30
+    },
+    {
+        "name": "Apache",
+        "popularity": 30
+    },
+    {
+        "name": "Apache Cassandra",
+        "popularity": 30
+    },
+    {
+        "name": "Apache Kafka",
+        "popularity": 30
+    },
+    {
+        "name": "Apache Mesos",
+        "popularity": 30
+    },
+    {
+        "name": "Apache Spark",
+        "popularity": 30
+    },
+    {
+        "name": "AppScale",
+        "popularity": 30
+    },
+    {
+        "name": "Backbone.js",
+        "popularity": 30
+    },
+    {
+        "name": "BaseX",
+        "popularity": 30
+    },
+    {
+        "name": "Bass CSS",
+        "popularity": 30
+    },
+    {
+        "name": "Bulma",
+        "popularity": 30
+    },
+    {
+        "name": "Cannon.js",
+        "popularity": 30
+    },
+    {
+        "name": "Cappuccino",
+        "popularity": 30
+    },
+    {
+        "name": "Cascade Framework",
+        "popularity": 30
+    },
+    {
+        "name": "Cassowary",
+        "popularity": 30
+    },
+    {
+        "name": "Chaplin.js",
+        "popularity": 30
+    },
+    {
+        "name": "CHR.js",
+        "popularity": 30
+    },
+    {
+        "name": "CouchDB",
+        "popularity": 30
+    },
+    {
+        "name": "D3.js",
+        "popularity": 30
+    },
+    {
+        "name": "Dojo Toolkit",
+        "popularity": 30
+    },
+    {
+        "name": "Dojo Widgets",
+        "popularity": 30
+    },
+    {
+        "name": "DRBD (Distributed Replicated Block Device)",
+        "popularity": 30
+    },
+    {
+        "name": "Echo",
+        "popularity": 30
+    },
+    {
+        "name": "Enyo",
+        "popularity": 30
+    },
+    {
+        "name": "Eucalyptus",
+        "popularity": 30
+    },
+    {
+        "name": "eXist",
+        "popularity": 30
+    },
+    {
+        "name": "Ext JS",
+        "popularity": 30
+    },
+    {
+        "name": "Foundation",
+        "popularity": 30
+    },
+    {
+        "name": "FusionCharts",
+        "popularity": 30
+    },
+    {
+        "name": "Ganeti",
+        "popularity": 30
+    },
+    {
+        "name": "Ganeti Web Manager",
+        "popularity": 30
+    },
+    {
+        "name": "GemStone",
+        "popularity": 30
+    },
+    {
+        "name": "Glow",
+        "popularity": 30
+    },
+    {
+        "name": "Google Closure Library",
+        "popularity": 30
+    },
+    {
+        "name": "Google Polymer",
+        "popularity": 30
+    },
+    {
+        "name": "Google Web Toolkit",
+        "popularity": 30
+    },
+    {
+        "name": "Highcharts",
+        "popularity": 30
+    },
+    {
+        "name": "httpd",
+        "popularity": 30
+    },
+    {
+        "name": "Hypervisor",
+        "popularity": 30
+    },
+    {
+        "name": "Internet Information Services",
+        "popularity": 30
+    },
+    {
+        "name": "Jasmine",
+        "popularity": 30
+    },
+    {
+        "name": "JavaScript InfoVis Toolkit",
+        "popularity": 30
+    },
+    {
+        "name": "JavaScriptMVC",
+        "popularity": 30
+    },
+    {
+        "name": "Jinja-JS",
+        "popularity": 30
+    },
+    {
+        "name": "Joose",
+        "popularity": 30
+    },
+    {
+        "name": "jQuery Mobile",
+        "popularity": 30
+    },
+    {
+        "name": "jQuery UI",
+        "popularity": 30
+    },
+    {
+        "name": "jQWidgets",
+        "popularity": 30
+    },
+    {
+        "name": "JsPHP",
+        "popularity": 30
+    },
+    {
+        "name": "JsRender/JsViews",
+        "popularity": 30
+    },
+    {
+        "name": "Kibana",
+        "popularity": 30
+    },
+    {
+        "name": "Knockout",
+        "popularity": 30
+    },
+    {
+        "name": "KVM",
+        "popularity": 30
+    },
+    {
+        "name": "Lighttpd",
+        "popularity": 30
+    },
+    {
+        "name": "Lively Kernel",
+        "popularity": 30
+    },
+    {
+        "name": "Logstash",
+        "popularity": 30
+    },
+    {
+        "name": "LVM",
+        "popularity": 30
+    },
+    {
+        "name": "MarkLogic Server",
+        "popularity": 30
+    },
+    {
+        "name": "Markup",
+        "popularity": 30
+    },
+    {
+        "name": "Materialize",
+        "popularity": 30
+    },
+    {
+        "name": "MathJax",
+        "popularity": 30
+    },
+    {
+        "name": "Meteor",
+        "popularity": 30
+    },
+    {
+        "name": "Microsoft's Ajax library",
+        "popularity": 30
+    },
+    {
+        "name": "midori",
+        "popularity": 30
+    },
+    {
+        "name": "Miligram",
+        "popularity": 30
+    },
+    {
+        "name": "Mnesia",
+        "popularity": 30
+    },
+    {
+        "name": "Mocha",
+        "popularity": 30
+    },
+    {
+        "name": "MochiKit",
+        "popularity": 30
+    },
+    {
+        "name": "Modernizr",
+        "popularity": 30
+    },
+    {
+        "name": "Mojito",
+        "popularity": 30
+    },
+    {
+        "name": "MooTools",
+        "popularity": 30
+    },
+    {
+        "name": "Mustache",
+        "popularity": 30
+    },
+    {
+        "name": "Nginx",
+        "popularity": 30
+    },
+    {
+        "name": "OpenACS",
+        "popularity": 30
+    },
+    {
+        "name": "OpenBSD",
+        "popularity": 30
+    },
+    {
+        "name": "OpenUI5",
+        "popularity": 30
+    },
+    {
+        "name": "Oracle Database",
+        "popularity": 30
+    },
+    {
+        "name": "p5.js",
+        "popularity": 30
+    },
+    {
+        "name": "PDF.js",
+        "popularity": 30
+    },
+    {
+        "name": "Pixi.js",
+        "popularity": 30
+    },
+    {
+        "name": "Plotly",
+        "popularity": 30
+    },
+    {
+        "name": "Polymer",
+        "popularity": 30
+    },
+    {
+        "name": "Processing.js",
+        "popularity": 30
+    },
+    {
+        "name": "Prototype JavaScript Framework",
+        "popularity": 30
+    },
+    {
+        "name": "Pure CSS",
+        "popularity": 30
+    },
+    {
+        "name": "PureMVC",
+        "popularity": 30
+    },
+    {
+        "name": "qooxdoo",
+        "popularity": 30
+    },
+    {
+        "name": "QUnit",
+        "popularity": 30
+    },
+    {
+        "name": "Raphaël",
+        "popularity": 30
+    },
+    {
+        "name": "REST",
+        "popularity": 30
+    },
+    {
+        "name": "Riak",
+        "popularity": 30
+    },
+    {
+        "name": "Rialto Toolkit",
+        "popularity": 30
+    },
+    {
+        "name": "Rico",
+        "popularity": 30
+    },
+    {
+        "name": "Script.aculo.us",
+        "popularity": 30
+    },
+    {
+        "name": "Seaside",
+        "popularity": 30
+    },
+    {
+        "name": "Semantic",
+        "popularity": 30
+    },
+    {
+        "name": "Skeleton",
+        "popularity": 30
+    },
+    {
+        "name": "Smalltalk",
+        "popularity": 30
+    },
+    {
+        "name": "SmartClient",
+        "popularity": 30
+    },
+    {
+        "name": "Socket.IO",
+        "popularity": 30
+    },
+    {
+        "name": "Spectre",
+        "popularity": 30
+    },
+    {
+        "name": "SproutCore",
+        "popularity": 30
+    },
+    {
+        "name": "Spry framework",
+        "popularity": 30
+    },
+    {
+        "name": "Susy",
+        "popularity": 30
+    },
+    {
+        "name": "SWFObject",
+        "popularity": 30
+    },
+    {
+        "name": "Tachyons",
+        "popularity": 30
+    },
+    {
+        "name": "Teechart",
+        "popularity": 30
+    },
+    {
+        "name": "Three.js",
+        "popularity": 30
+    },
+    {
+        "name": "Topcoat",
+        "popularity": 30
+    },
+    {
+        "name": "Total.js",
+        "popularity": 30
+    },
+    {
+        "name": "Twig.js",
+        "popularity": 30
+    },
+    {
+        "name": "Uikit",
+        "popularity": 30
+    },
+    {
+        "name": "Underscore.js",
+        "popularity": 30
+    },
+    {
+        "name": "Unit.js",
+        "popularity": 30
+    },
+    {
+        "name": "Velocity.js",
+        "popularity": 30
+    },
+    {
+        "name": "Verge3D",
+        "popularity": 30
+    },
+    {
+        "name": "Wakanda Framework",
+        "popularity": 30
+    },
+    {
+        "name": "Webix",
+        "popularity": 30
+    },
+    {
+        "name": "WhitestormJS",
+        "popularity": 30
+    },
+    {
+        "name": "WinJS",
+        "popularity": 30
+    },
+    {
+        "name": "Xen",
+        "popularity": 30
+    },
+    {
+        "name": "XForms",
+        "popularity": 30
+    },
+    {
+        "name": "XQuery",
+        "popularity": 30
+    },
+    {
+        "name": "Yaws",
+        "popularity": 30
+    },
+    {
+        "name": "YUI Library",
+        "popularity": 30
+    },
+    {
+        "name": "(Visual) FoxPro",
+        "popularity": 20
+    },
+    {
+        "name": "4th Dimension/4D",
+        "popularity": 20
+    },
+    {
+        "name": "ABC",
+        "popularity": 20
+    },
+    {
+        "name": "ActionScript",
+        "popularity": 20
+    },
+    {
+        "name": "Agilent VEE",
+        "popularity": 20
+    },
+    {
+        "name": "Algol",
+        "popularity": 20
+    },
+    {
+        "name": "Alice",
+        "popularity": 20
+    },
+    {
+        "name": "Angelscript",
+        "popularity": 20
+    },
+    {
+        "name": "Apex",
+        "popularity": 20
+    },
+    {
+        "name": "APL",
+        "popularity": 20
+    },
+    {
+        "name": "Applescript",
+        "popularity": 20
+    },
+    {
+        "name": "Arc",
+        "popularity": 20
+    },
+    {
+        "name": "AspectJ",
+        "popularity": 20
+    },
+    {
+        "name": "ATLAS",
+        "popularity": 20
+    },
+    {
+        "name": "AutoIt",
+        "popularity": 20
+    },
+    {
+        "name": "AutoLISP",
+        "popularity": 20
+    },
+    {
+        "name": "Automator",
+        "popularity": 20
+    },
+    {
+        "name": "Avenue",
+        "popularity": 20
+    },
+    {
+        "name": "Awk",
+        "popularity": 20
+    },
+    {
+        "name": "Basic",
+        "popularity": 20
+    },
+    {
+        "name": "BBC BASIC",
+        "popularity": 20
+    },
+    {
+        "name": "bc",
+        "popularity": 20
+    },
+    {
+        "name": "BCPL",
+        "popularity": 20
+    },
+    {
+        "name": "BETA",
+        "popularity": 20
+    },
+    {
+        "name": "BlitzMax",
+        "popularity": 20
+    },
+    {
+        "name": "Boo",
+        "popularity": 20
+    },
+    {
+        "name": "Bourne shell",
+        "popularity": 20
+    },
+    {
+        "name": "C shell",
+        "popularity": 20
+    },
+    {
+        "name": "C++/CLI",
+        "popularity": 20
+    },
+    {
+        "name": "C-Omega",
+        "popularity": 20
+    },
+    {
+        "name": "Caml",
+        "popularity": 20
+    },
+    {
+        "name": "Ceylon",
+        "popularity": 20
+    },
+    {
+        "name": "CFML",
+        "popularity": 20
+    },
+    {
+        "name": "cg",
+        "popularity": 20
+    },
+    {
+        "name": "Ch",
+        "popularity": 20
+    },
+    {
+        "name": "Chapel",
+        "popularity": 20
+    },
+    {
+        "name": "CHILL",
+        "popularity": 20
+    },
+    {
+        "name": "CIL",
+        "popularity": 20
+    },
+    {
+        "name": "CL (OS/400)",
+        "popularity": 20
+    },
+    {
+        "name": "Clarion",
+        "popularity": 20
+    },
+    {
+        "name": "Clean",
+        "popularity": 20
+    },
+    {
+        "name": "Clipper",
+        "popularity": 20
+    },
+    {
+        "name": "CLU",
+        "popularity": 20
+    },
+    {
+        "name": "Cobra",
+        "popularity": 20
+    },
+    {
+        "name": "COMAL",
+        "popularity": 20
+    },
+    {
+        "name": "Common Lisp",
+        "popularity": 20
+    },
+    {
+        "name": "cT",
+        "popularity": 20
+    },
+    {
+        "name": "Curl",
+        "popularity": 20
+    },
+    {
+        "name": "DCL",
+        "popularity": 20
+    },
+    {
+        "name": "DiBOL",
+        "popularity": 20
+    },
+    {
+        "name": "Dylan",
+        "popularity": 20
+    },
+    {
+        "name": "E",
+        "popularity": 20
+    },
+    {
+        "name": "ECMAScript",
+        "popularity": 20
+    },
+    {
+        "name": "EGL",
+        "popularity": 20
+    },
+    {
+        "name": "Eiffel",
+        "popularity": 20
+    },
+    {
+        "name": "Elm",
+        "popularity": 20
+    },
+    {
+        "name": "Emacs Lisp",
+        "popularity": 20
+    },
+    {
+        "name": "Etoys",
+        "popularity": 20
+    },
+    {
+        "name": "Euphoria",
+        "popularity": 20
+    },
+    {
+        "name": "EXEC",
+        "popularity": 20
+    },
+    {
+        "name": "Factor",
+        "popularity": 20
+    },
+    {
+        "name": "Falcon",
+        "popularity": 20
+    },
+    {
+        "name": "Fantom",
+        "popularity": 20
+    },
+    {
+        "name": "Felix",
+        "popularity": 20
+    },
+    {
+        "name": "Forth",
+        "popularity": 20
+    },
+    {
+        "name": "Fortress",
+        "popularity": 20
+    },
+    {
+        "name": "Gambas",
+        "popularity": 20
+    },
+    {
+        "name": "GLSL",
+        "popularity": 20
+    },
+    {
+        "name": "GNU Octave",
+        "popularity": 20
+    },
+    {
+        "name": "Gosu",
+        "popularity": 20
+    },
+    {
+        "name": "Haxe",
+        "popularity": 20
+    },
+    {
+        "name": "Heron",
+        "popularity": 20
+    },
+    {
+        "name": "HPL",
+        "popularity": 20
+    },
+    {
+        "name": "HyperTalk",
+        "popularity": 20
+    },
+    {
+        "name": "Icon",
+        "popularity": 20
+    },
+    {
+        "name": "IDL",
+        "popularity": 20
+    },
+    {
+        "name": "Idris",
+        "popularity": 20
+    },
+    {
+        "name": "Inform",
+        "popularity": 20
+    },
+    {
+        "name": "Informix-4GL",
+        "popularity": 20
+    },
+    {
+        "name": "INTERCAL",
+        "popularity": 20
+    },
+    {
+        "name": "Io",
+        "popularity": 20
+    },
+    {
+        "name": "Ioke",
+        "popularity": 20
+    },
+    {
+        "name": "J",
+        "popularity": 20
+    },
+    {
+        "name": "J#",
+        "popularity": 20
+    },
+    {
+        "name": "JADE",
+        "popularity": 20
+    },
+    {
+        "name": "JavaFX Script",
+        "popularity": 20
+    },
+    {
+        "name": "JScript",
+        "popularity": 20
+    },
+    {
+        "name": "JScript.NET",
+        "popularity": 20
+    },
+    {
+        "name": "Korn shell",
+        "popularity": 20
+    },
+    {
+        "name": "Lasso",
+        "popularity": 20
+    },
+    {
+        "name": "Limbo",
+        "popularity": 20
+    },
+    {
+        "name": "Lingo",
+        "popularity": 20
+    },
+    {
+        "name": "LiveCode",
+        "popularity": 20
+    },
+    {
+        "name": "LotusScript",
+        "popularity": 20
+    },
+    {
+        "name": "LPC",
+        "popularity": 20
+    },
+    {
+        "name": "Lustre",
+        "popularity": 20
+    },
+    {
+        "name": "M4",
+        "popularity": 20
+    },
+    {
+        "name": "MAD",
+        "popularity": 20
+    },
+    {
+        "name": "Magic",
+        "popularity": 20
+    },
+    {
+        "name": "Magik",
+        "popularity": 20
+    },
+    {
+        "name": "Malbolge",
+        "popularity": 20
+    },
+    {
+        "name": "MANTIS",
+        "popularity": 20
+    },
+    {
+        "name": "Maple",
+        "popularity": 20
+    },
+    {
+        "name": "Max/MSP",
+        "popularity": 20
+    },
+    {
+        "name": "MAXScript",
+        "popularity": 20
+    },
+    {
+        "name": "MDX",
+        "popularity": 20
+    },
+    {
+        "name": "MEL",
+        "popularity": 20
+    },
+    {
+        "name": "Mercury",
+        "popularity": 20
+    },
+    {
+        "name": "Miva",
+        "popularity": 20
+    },
+    {
+        "name": "ML",
+        "popularity": 20
+    },
+    {
+        "name": "Modula-2",
+        "popularity": 20
+    },
+    {
+        "name": "Modula-3",
+        "popularity": 20
+    },
+    {
+        "name": "Monkey",
+        "popularity": 20
+    },
+    {
+        "name": "MOO",
+        "popularity": 20
+    },
+    {
+        "name": "Moto",
+        "popularity": 20
+    },
+    {
+        "name": "MQL4",
+        "popularity": 20
+    },
+    {
+        "name": "MS-DOS batch",
+        "popularity": 20
+    },
+    {
+        "name": "MUMPS",
+        "popularity": 20
+    },
+    {
+        "name": "NATURAL",
+        "popularity": 20
+    },
+    {
+        "name": "Nemerle",
+        "popularity": 20
+    },
+    {
+        "name": "NetLogo",
+        "popularity": 20
+    },
+    {
+        "name": "NQC",
+        "popularity": 20
+    },
+    {
+        "name": "NSIS",
+        "popularity": 20
+    },
+    {
+        "name": "NXT-G",
+        "popularity": 20
+    },
+    {
+        "name": "Oberon",
+        "popularity": 20
+    },
+    {
+        "name": "Object Rexx",
+        "popularity": 20
+    },
+    {
+        "name": "Occam",
+        "popularity": 20
+    },
+    {
+        "name": "OpenCL",
+        "popularity": 20
+    },
+    {
+        "name": "OpenEdge ABL",
+        "popularity": 20
+    },
+    {
+        "name": "OPL",
+        "popularity": 20
+    },
+    {
+        "name": "Oxygene",
+        "popularity": 20
+    },
+    {
+        "name": "Oz",
+        "popularity": 20
+    },
+    {
+        "name": "Paradox",
+        "popularity": 20
+    },
+    {
+        "name": "Pascal",
+        "popularity": 20
+    },
+    {
+        "name": "Pike",
+        "popularity": 20
+    },
+    {
+        "name": "PILOT",
+        "popularity": 20
+    },
+    {
+        "name": "Pliant",
+        "popularity": 20
+    },
+    {
+        "name": "Pony",
+        "popularity": 20
+    },
+    {
+        "name": "POV-Ray",
+        "popularity": 20
+    },
+    {
+        "name": "PowerBasic",
+        "popularity": 20
+    },
+    {
+        "name": "PowerScript",
+        "popularity": 20
+    },
+    {
+        "name": "PowerShell",
+        "popularity": 20
+    },
+    {
+        "name": "Processing",
+        "popularity": 20
+    },
+    {
+        "name": "Programming Without Coding Technology",
+        "popularity": 20
+    },
+    {
+        "name": "Pure Data",
+        "popularity": 20
+    },
+    {
+        "name": "PureBasic",
+        "popularity": 20
+    },
+    {
+        "name": "Q",
+        "popularity": 20
+    },
+    {
+        "name": "Racket",
+        "popularity": 20
+    },
+    {
+        "name": "REBOL",
+        "popularity": 20
+    },
+    {
+        "name": "Red",
+        "popularity": 20
+    },
+    {
+        "name": "REXX",
+        "popularity": 20
+    },
+    {
+        "name": "Ring",
+        "popularity": 20
+    },
+    {
+        "name": "S",
+        "popularity": 20
+    },
+    {
+        "name": "S-PLUS",
+        "popularity": 20
+    },
+    {
+        "name": "Sather",
+        "popularity": 20
+    },
+    {
+        "name": "sed",
+        "popularity": 20
+    },
+    {
+        "name": "Seed7",
+        "popularity": 20
+    },
+    {
+        "name": "SIGNAL",
+        "popularity": 20
+    },
+    {
+        "name": "Simula",
+        "popularity": 20
+    },
+    {
+        "name": "Simulink",
+        "popularity": 20
+    },
+    {
+        "name": "Slate",
+        "popularity": 20
+    },
+    {
+        "name": "Smarty",
+        "popularity": 20
+    },
+    {
+        "name": "Snap!",
+        "popularity": 20
+    },
+    {
+        "name": "Solidity",
+        "popularity": 20
+    },
+    {
+        "name": "SPSS",
+        "popularity": 20
+    },
+    {
+        "name": "SQR",
+        "popularity": 20
+    },
+    {
+        "name": "Squeak",
+        "popularity": 20
+    },
+    {
+        "name": "Squirrel",
+        "popularity": 20
+    },
+    {
+        "name": "Stata",
+        "popularity": 20
+    },
+    {
+        "name": "Suneido",
+        "popularity": 20
+    },
+    {
+        "name": "SuperCollider",
+        "popularity": 20
+    },
+    {
+        "name": "TACL",
+        "popularity": 20
+    },
+    {
+        "name": "tcsh",
+        "popularity": 20
+    },
+    {
+        "name": "Tex",
+        "popularity": 20
+    },
+    {
+        "name": "thinBasic",
+        "popularity": 20
+    },
+    {
+        "name": "TOM",
+        "popularity": 20
+    },
+    {
+        "name": "Vala/Genie",
+        "popularity": 20
+    },
+    {
+        "name": "VBScript",
+        "popularity": 20
+    },
+    {
+        "name": "Verilog",
+        "popularity": 20
+    },
+    {
+        "name": "VHDL",
+        "popularity": 20
+    },
+    {
+        "name": "WebAssembly",
+        "popularity": 20
+    },
+    {
+        "name": "WebDNA",
+        "popularity": 20
+    },
+    {
+        "name": "Whitespace",
+        "popularity": 20
+    },
+    {
+        "name": "Wolfram",
+        "popularity": 20
+    },
+    {
+        "name": "X10",
+        "popularity": 20
+    },
+    {
+        "name": "xBase",
+        "popularity": 20
+    },
+    {
+        "name": "XBase++",
+        "popularity": 20
+    },
+    {
+        "name": "Xojo",
+        "popularity": 20
+    },
+    {
+        "name": "XPL",
+        "popularity": 20
+    },
+    {
+        "name": "XSLT",
+        "popularity": 20
+    },
+    {
+        "name": "Xtend",
+        "popularity": 20
+    },
+    {
+        "name": "yacc",
+        "popularity": 20
+    },
+    {
+        "name": "Yorick",
+        "popularity": 20
+    },
+    {
+        "name": "Z shell",
+        "popularity": 20
+    }
+]
