@@ -3,7 +3,8 @@ const _ = require('lodash')
 
 // Setup — set these constants then run the script
 
-const folder = '../../lists_to_weight_popularity'
+const folder_popular = '../../lists_to_weight_popularity'
+const folder_remaining = '../../lists_by_page'
 
 const folder_files = [
     { filename: 'javascript.json', popularity: 60 },
@@ -27,9 +28,9 @@ const folder_files = [
 let json_output = []
 
 try {
-    fs.readdirSync(folder).forEach(json_file => {
+    fs.readdirSync(folder_popular).forEach(json_file => {
         let parsed_file = JSON.parse(
-            fs.readFileSync(`${folder}/${json_file}`, 'utf8')
+            fs.readFileSync(`${folder_popular}/${json_file}`, 'utf8')
         )
         parsed_file.technologies.forEach(technology => {
             const tech_obj = {}
@@ -39,7 +40,20 @@ try {
                     tech_obj.popularity = file.popularity
                 }
             })
+            json_output.push(tech_obj)
+        })
+    })
 
+    fs.readdirSync(folder_remaining).forEach(json_file => {
+        let parsed_file = JSON.parse(
+            fs.readFileSync(`${folder_remaining}/${json_file}`, 'utf8')
+        )
+        parsed_file.technologies.forEach(technology => {
+            const tech_obj = {
+                name: technology,
+                popularity: 10,
+                file: json_file,
+            }
             json_output.push(tech_obj)
         })
     })
@@ -75,7 +89,7 @@ try {
             'Correct the capitalization in these duplicates:',
             close_dupes
         )
-        throw new Error('YOU HAVE CLOSE DUPLICATES. SEE THE CONSOLE LOG.')
+        //throw new Error('YOU HAVE CLOSE DUPLICATES. SEE THE CONSOLE LOG.')
     }
 
     fs.writeFileSync(

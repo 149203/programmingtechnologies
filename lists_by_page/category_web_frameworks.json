@@ -76,8 +76,8 @@
         "JBoss Seam",
         "JHipster",
         "Joomla",
-        "JQuery",
-        "JQuery Mobile",
+        "jQuery",
+        "jQuery Mobile",
         "Jspx-bay",
         "JVx",
         "JWt",
@@ -131,7 +131,7 @@
         "Smart Framework PHP",
         "Snap",
         "Solution stack",
-        "Spark",
+        "Apache Spark",
         "Spring Framework",
         "Spring Roo",
         "Stripes",
@@ -141,7 +141,7 @@
         "TwistPHP",
         "Vaadin",
         "Vapor",
-        "Vibe.d",
+        "vibe.d",
         "VRaptor",
         "WaveMaker",
         "WebObjects",
@@ -154,6 +154,6 @@
         "Yii",
         "Zend Framework",
         "ZK",
-        "ZTemplates"
+        "ztemplates"
     ]
 }

@@ -32,7 +32,6 @@
         "Forté TOOL",
         "GAMS",
         "GeneXus",
-        "Genexus",
         "GraphTalk",
         "Harbour",
         "IDL",
@@ -89,14 +88,14 @@
         "Synon",
         "Uniface",
         "Unify VISION",
-        "Unix Shell",
+        "Unix shell",
         "Visual DataFlex",
         "Visual FoxPro",
         "ViziApps",
-        "Wavemaker",
+        "WaveMaker",
         "Wolfram Language",
         "XBase++",
-        "Xquery",
+        "XQuery",
         "XUL"
     ]
 }

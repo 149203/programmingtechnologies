@@ -35,7 +35,7 @@ NativeScript
 OpenLaszlo
 Polymer (library)
 Pyjs
-Qooxdoo
+qooxdoo
 React (JavaScript library)
 Rialto Toolkit
 Rico (Ajax)
