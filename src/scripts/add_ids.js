@@ -10,7 +10,7 @@ try {
     )
 
     const array_with_ids = _.map(original_array, (technology, i) => {
-        technology._id = i + 1
+        technology.id = i + 1
         return technology
     })
 
